@@ -1,0 +1,283 @@
+==============================================================================
+ARCANE MASTERY — TARGETED DBC AUDIT
+==============================================================================
+
+Target spells: 16734-16738
+Target ItemSet: 189
+
+==============================================================================
+1. SPELL.DBC
+==============================================================================
+
+Records     : 49839
+Fields      : 234
+Record size : 936
+String size : 2317797
+
+Spell 16734
+--------------------------------------------------
+Record index           : 7374
+SpellDifficultyID [233]: 0
+DurationIndex [034]    : 0
+SpellVisual1 [131]     : 0
+SpellVisual2 [132]     : 0
+SpellIconID [133]      : 98
+ActiveIconID [134]     : 0
+
+Effect 1
+  Effect              [071]: 6
+  BasePoints          [080]: 1
+  ImplicitTargetA     [086]: 1
+  ApplyAuraName       [095]: 80
+  MiscValue           [110]: 3
+  TriggerSpell        [116]: 0
+
+Spell family
+  Name       [208]: 0
+  Flags 1    [209]: 0
+  Flags 2    [210]: 0
+  Flags 3    [211]: 0
+
+SchoolMask [225]: 1
+
+Localized strings:
+  Name:
+    enUS/enGB: 'Arcane Mastery'
+  Rank:
+    enUS/enGB: 'Rank 1'
+  Description:
+    enUS/enGB: 'Increases your maximum Mana by $s1%.'
+  Tooltip:
+    <empty>
+
+Spell 16735
+--------------------------------------------------
+Record index           : 7375
+SpellDifficultyID [233]: 0
+DurationIndex [034]    : 0
+SpellVisual1 [131]     : 0
+SpellVisual2 [132]     : 0
+SpellIconID [133]      : 98
+ActiveIconID [134]     : 0
+
+Effect 1
+  Effect              [071]: 6
+  BasePoints          [080]: 1
+  ImplicitTargetA     [086]: 1
+  ApplyAuraName       [095]: 80
+  MiscValue           [110]: 3
+  TriggerSpell        [116]: 0
+
+Spell family
+  Name       [208]: 0
+  Flags 1    [209]: 0
+  Flags 2    [210]: 0
+  Flags 3    [211]: 0
+
+SchoolMask [225]: 1
+
+Localized strings:
+  Name:
+    enUS/enGB: 'Arcane Mastery'
+  Rank:
+    enUS/enGB: 'Rank 2'
+  Description:
+    enUS/enGB: 'Increases your maximum Mana by $s1%.'
+  Tooltip:
+    <empty>
+
+Spell 16736
+--------------------------------------------------
+Record index           : 7376
+SpellDifficultyID [233]: 0
+DurationIndex [034]    : 0
+SpellVisual1 [131]     : 0
+SpellVisual2 [132]     : 0
+SpellIconID [133]      : 98
+ActiveIconID [134]     : 0
+
+Effect 1
+  Effect              [071]: 6
+  BasePoints          [080]: 1
+  ImplicitTargetA     [086]: 1
+  ApplyAuraName       [095]: 80
+  MiscValue           [110]: 3
+  TriggerSpell        [116]: 0
+
+Spell family
+  Name       [208]: 0
+  Flags 1    [209]: 0
+  Flags 2    [210]: 0
+  Flags 3    [211]: 0
+
+SchoolMask [225]: 1
+
+Localized strings:
+  Name:
+    enUS/enGB: 'Arcane Mastery'
+  Rank:
+    enUS/enGB: 'Rank 3'
+  Description:
+    enUS/enGB: 'Increases your maximum Mana by $s1%.'
+  Tooltip:
+    <empty>
+
+Spell 16737
+--------------------------------------------------
+Record index           : 7377
+SpellDifficultyID [233]: 0
+DurationIndex [034]    : 0
+SpellVisual1 [131]     : 0
+SpellVisual2 [132]     : 0
+SpellIconID [133]      : 98
+ActiveIconID [134]     : 0
+
+Effect 1
+  Effect              [071]: 6
+  BasePoints          [080]: 1
+  ImplicitTargetA     [086]: 1
+  ApplyAuraName       [095]: 80
+  MiscValue           [110]: 3
+  TriggerSpell        [116]: 0
+
+Spell family
+  Name       [208]: 0
+  Flags 1    [209]: 0
+  Flags 2    [210]: 0
+  Flags 3    [211]: 0
+
+SchoolMask [225]: 1
+
+Localized strings:
+  Name:
+    enUS/enGB: 'Arcane Mastery'
+  Rank:
+    enUS/enGB: 'Rank 4'
+  Description:
+    enUS/enGB: 'Increases your maximum Mana by $s1%.'
+  Tooltip:
+    <empty>
+
+Spell 16738
+--------------------------------------------------
+Record index           : 7378
+SpellDifficultyID [233]: 0
+DurationIndex [034]    : 0
+SpellVisual1 [131]     : 0
+SpellVisual2 [132]     : 0
+SpellIconID [133]      : 98
+ActiveIconID [134]     : 0
+
+Effect 1
+  Effect              [071]: 6
+  BasePoints          [080]: 1
+  ImplicitTargetA     [086]: 1
+  ApplyAuraName       [095]: 80
+  MiscValue           [110]: 3
+  TriggerSpell        [116]: 0
+
+Spell family
+  Name       [208]: 0
+  Flags 1    [209]: 0
+  Flags 2    [210]: 0
+  Flags 3    [211]: 0
+
+SchoolMask [225]: 1
+
+Localized strings:
+  Name:
+    enUS/enGB: 'Arcane Mastery'
+  Rank:
+    enUS/enGB: 'Rank 5'
+  Description:
+    enUS/enGB: 'Increases your maximum Mana by $s1%.'
+  Tooltip:
+    <empty>
+
+==============================================================================
+RAW DIFFERENCES BETWEEN THE FIVE SPELL RECORDS
+==============================================================================
+
+DWORD [000]
+  16734: 16734
+  16735: 16735
+  16736: 16736
+  16737: 16737
+  16738: 16738
+
+DWORD [153]
+  16734: 228
+  16735: 5739
+  16736: 5746
+  16737: 23487
+  16738: 23576
+
+==============================================================================
+2. ITEMSET.DBC — ITEMSET 189
+==============================================================================
+
+Records     : 509
+Fields      : 53
+Record size : 212
+DWORD count : 53
+
+Fields containing target Spell IDs:
+  field [018] = 16736
+  field [019] = 16734
+  field [020] = 16735
+  field [022] = 16737
+
+All non-zero fields:
+  field [000] = 189
+  field [001] = 409
+  field [017] = 16712190
+  field [018] = 16736
+  field [019] = 16734
+  field [020] = 16735
+  field [021] = 16730
+  field [022] = 16737
+  field [023] = 16731
+  field [024] = 16732
+  field [025] = 16733
+  field [035] = 29092
+  field [036] = 27419
+  field [038] = 18679
+  field [039] = 30770
+  field [043] = 2
+  field [044] = 6
+  field [046] = 8
+  field [047] = 4
+
+==============================================================================
+3. TARGETED CROSS-REFERENCES
+==============================================================================
+
+SpellChain.dbc
+--------------
+  File not found.
+
+SpellChainEffects.dbc
+---------------------
+  ERROR: record size 177 is not DWORD aligned
+
+SkillLineAbility.dbc
+--------------------
+  No target spell IDs found.
+
+Talent.dbc
+----------
+  No target spell IDs found.
+
+==============================================================================
+4. WHAT THIS AUDIT IS INTENDED TO ESTABLISH
+==============================================================================
+
+The target is to determine whether 16734-16738 are:
+  * ordinary rank variants;
+  * members of a SpellChain;
+  * ItemSet equip spells;
+  * talent/skill-linked spells;
+  * or a combination of these mechanisms.
+
+The raw Spell.dbc records are retained only for the five target spells.
+No complete DBC dump is produced.
