@@ -1,0 +1,662 @@
+==============================================================================
+ITEMSET 189 / SPELL 16730-16738 TARGETED AUDIT
+==============================================================================
+
+DBC directory:
+  E:\Games\WoW_3.3.5_12340\dbc
+
+==============================================================================
+1. SPELL.DBC
+==============================================================================
+Records     : 49839
+Fields      : 234
+Record size : 936
+String size : 2317797
+
+Spell 16730
+--------------------------------------------------
+Record index       : 7371
+DurationIndex      : 0
+SpellVisual1       : 395
+SpellVisual2       : 0
+SpellIconID        : 140
+ActiveIconID       : 0
+SpellDifficultyID  : 0
+
+Effect 1
+  Effect           : 24
+  BasePoints       : 0
+  ImplicitTargetA  : 1
+  ApplyAuraName    : 0
+  MiscValue        : 0
+  TriggerSpell     : 0
+
+Spell family
+  Name             : 0
+  Flags1           : 0
+  Flags2           : 0
+  Flags3           : 0
+  SchoolMask       : 1
+
+Localized strings:
+  Name             : 'Imperial Plate Leggings'
+  Rank             : ''
+  Description      : ''
+  Tooltip          : ''
+
+Spell 16731
+--------------------------------------------------
+Record index       : 7372
+DurationIndex      : 0
+SpellVisual1       : 395
+SpellVisual2       : 0
+SpellIconID        : 140
+ActiveIconID       : 0
+SpellDifficultyID  : 0
+
+Effect 1
+  Effect           : 24
+  BasePoints       : 0
+  ImplicitTargetA  : 1
+  ApplyAuraName    : 0
+  MiscValue        : 0
+  TriggerSpell     : 0
+
+Spell family
+  Name             : 0
+  Flags1           : 0
+  Flags2           : 0
+  Flags3           : 0
+  SchoolMask       : 1
+
+Localized strings:
+  Name             : 'Runic Breastplate'
+  Rank             : ''
+  Description      : ''
+  Tooltip          : ''
+
+Spell 16732
+--------------------------------------------------
+Record index       : 7373
+DurationIndex      : 0
+SpellVisual1       : 395
+SpellVisual2       : 0
+SpellIconID        : 140
+ActiveIconID       : 0
+SpellDifficultyID  : 0
+
+Effect 1
+  Effect           : 24
+  BasePoints       : 0
+  ImplicitTargetA  : 1
+  ApplyAuraName    : 0
+  MiscValue        : 0
+  TriggerSpell     : 0
+
+Spell family
+  Name             : 0
+  Flags1           : 0
+  Flags2           : 0
+  Flags3           : 0
+  SchoolMask       : 1
+
+Localized strings:
+  Name             : 'Runic Plate Leggings'
+  Rank             : ''
+  Description      : ''
+  Tooltip          : ''
+
+Spell 16733
+--------------------------------------------------
+NOT FOUND
+
+Spell 16734
+--------------------------------------------------
+Record index       : 7374
+DurationIndex      : 0
+SpellVisual1       : 0
+SpellVisual2       : 0
+SpellIconID        : 98
+ActiveIconID       : 0
+SpellDifficultyID  : 0
+
+Effect 1
+  Effect           : 6
+  BasePoints       : 1
+  ImplicitTargetA  : 1
+  ApplyAuraName    : 80
+  MiscValue        : 3
+  TriggerSpell     : 0
+
+Spell family
+  Name             : 0
+  Flags1           : 0
+  Flags2           : 0
+  Flags3           : 0
+  SchoolMask       : 1
+
+Localized strings:
+  Name             : 'Arcane Mastery'
+  Rank             : 'Rank 1'
+  Description      : 'Increases your maximum Mana by $s1%.'
+  Tooltip          : ''
+
+Spell 16735
+--------------------------------------------------
+Record index       : 7375
+DurationIndex      : 0
+SpellVisual1       : 0
+SpellVisual2       : 0
+SpellIconID        : 98
+ActiveIconID       : 0
+SpellDifficultyID  : 0
+
+Effect 1
+  Effect           : 6
+  BasePoints       : 1
+  ImplicitTargetA  : 1
+  ApplyAuraName    : 80
+  MiscValue        : 3
+  TriggerSpell     : 0
+
+Spell family
+  Name             : 0
+  Flags1           : 0
+  Flags2           : 0
+  Flags3           : 0
+  SchoolMask       : 1
+
+Localized strings:
+  Name             : 'Arcane Mastery'
+  Rank             : 'Rank 2'
+  Description      : 'Increases your maximum Mana by $s1%.'
+  Tooltip          : ''
+
+Spell 16736
+--------------------------------------------------
+Record index       : 7376
+DurationIndex      : 0
+SpellVisual1       : 0
+SpellVisual2       : 0
+SpellIconID        : 98
+ActiveIconID       : 0
+SpellDifficultyID  : 0
+
+Effect 1
+  Effect           : 6
+  BasePoints       : 1
+  ImplicitTargetA  : 1
+  ApplyAuraName    : 80
+  MiscValue        : 3
+  TriggerSpell     : 0
+
+Spell family
+  Name             : 0
+  Flags1           : 0
+  Flags2           : 0
+  Flags3           : 0
+  SchoolMask       : 1
+
+Localized strings:
+  Name             : 'Arcane Mastery'
+  Rank             : 'Rank 3'
+  Description      : 'Increases your maximum Mana by $s1%.'
+  Tooltip          : ''
+
+Spell 16737
+--------------------------------------------------
+Record index       : 7377
+DurationIndex      : 0
+SpellVisual1       : 0
+SpellVisual2       : 0
+SpellIconID        : 98
+ActiveIconID       : 0
+SpellDifficultyID  : 0
+
+Effect 1
+  Effect           : 6
+  BasePoints       : 1
+  ImplicitTargetA  : 1
+  ApplyAuraName    : 80
+  MiscValue        : 3
+  TriggerSpell     : 0
+
+Spell family
+  Name             : 0
+  Flags1           : 0
+  Flags2           : 0
+  Flags3           : 0
+  SchoolMask       : 1
+
+Localized strings:
+  Name             : 'Arcane Mastery'
+  Rank             : 'Rank 4'
+  Description      : 'Increases your maximum Mana by $s1%.'
+  Tooltip          : ''
+
+Spell 16738
+--------------------------------------------------
+Record index       : 7378
+DurationIndex      : 0
+SpellVisual1       : 0
+SpellVisual2       : 0
+SpellIconID        : 98
+ActiveIconID       : 0
+SpellDifficultyID  : 0
+
+Effect 1
+  Effect           : 6
+  BasePoints       : 1
+  ImplicitTargetA  : 1
+  ApplyAuraName    : 80
+  MiscValue        : 3
+  TriggerSpell     : 0
+
+Spell family
+  Name             : 0
+  Flags1           : 0
+  Flags2           : 0
+  Flags3           : 0
+  SchoolMask       : 1
+
+Localized strings:
+  Name             : 'Arcane Mastery'
+  Rank             : 'Rank 5'
+  Description      : 'Increases your maximum Mana by $s1%.'
+  Tooltip          : ''
+
+==============================================================================
+2. RAW DIFFERENCES BETWEEN SPELL 16730-16738
+==============================================================================
+
+DWORD [000] (Id)
+  16730: 16730 (0x0000415A)
+  16731: 16731 (0x0000415B)
+  16732: 16732 (0x0000415C)
+  16734: 16734 (0x0000415E)
+  16735: 16735 (0x0000415F)
+  16736: 16736 (0x00004160)
+  16737: 16737 (0x00004161)
+  16738: 16738 (0x00004162)
+
+DWORD [004]
+  16730: 65584 (0x00010030)
+  16731: 65584 (0x00010030)
+  16732: 65584 (0x00010030)
+  16734: 464 (0x000001D0)
+  16735: 464 (0x000001D0)
+  16736: 464 (0x000001D0)
+  16737: 464 (0x000001D0)
+  16738: 464 (0x000001D0)
+
+DWORD [005]
+  16730: 1024 (0x00000400)
+  16731: 1024 (0x00000400)
+  16732: 1024 (0x00000400)
+  16734: 0 (0x00000000)
+  16735: 0 (0x00000000)
+  16736: 0 (0x00000000)
+  16737: 0 (0x00000000)
+  16738: 0 (0x00000000)
+
+DWORD [018]
+  16730: 1 (0x00000001)
+  16731: 1 (0x00000001)
+  16732: 1 (0x00000001)
+  16734: 0 (0x00000000)
+  16735: 0 (0x00000000)
+  16736: 0 (0x00000000)
+  16737: 0 (0x00000000)
+  16738: 0 (0x00000000)
+
+DWORD [028]
+  16730: 37 (0x00000025)
+  16731: 37 (0x00000025)
+  16732: 37 (0x00000025)
+  16734: 1 (0x00000001)
+  16735: 1 (0x00000001)
+  16736: 1 (0x00000001)
+  16737: 1 (0x00000001)
+  16738: 1 (0x00000001)
+
+DWORD [031]
+  16730: 15 (0x0000000F)
+  16731: 15 (0x0000000F)
+  16732: 15 (0x0000000F)
+  16734: 0 (0x00000000)
+  16735: 0 (0x00000000)
+  16736: 0 (0x00000000)
+  16737: 0 (0x00000000)
+  16738: 0 (0x00000000)
+
+DWORD [040]
+  16730: 0 (0x00000000)
+  16731: 0 (0x00000000)
+  16732: 0 (0x00000000)
+  16734: 21 (0x00000015)
+  16735: 21 (0x00000015)
+  16736: 21 (0x00000015)
+  16737: 21 (0x00000015)
+  16738: 21 (0x00000015)
+
+DWORD [052]
+  16730: 12359 (0x00003047)
+  16731: 12359 (0x00003047)
+  16732: 12359 (0x00003047)
+  16734: 0 (0x00000000)
+  16735: 0 (0x00000000)
+  16736: 0 (0x00000000)
+  16737: 0 (0x00000000)
+  16738: 0 (0x00000000)
+
+DWORD [053]
+  16730: 0 (0x00000000)
+  16731: 12360 (0x00003048)
+  16732: 12360 (0x00003048)
+  16734: 0 (0x00000000)
+  16735: 0 (0x00000000)
+  16736: 0 (0x00000000)
+  16737: 0 (0x00000000)
+  16738: 0 (0x00000000)
+
+DWORD [054]
+  16730: 0 (0x00000000)
+  16731: 7910 (0x00001EE6)
+  16732: 7910 (0x00001EE6)
+  16734: 0 (0x00000000)
+  16735: 0 (0x00000000)
+  16736: 0 (0x00000000)
+  16737: 0 (0x00000000)
+  16738: 0 (0x00000000)
+
+DWORD [060]
+  16730: 24 (0x00000018)
+  16731: 40 (0x00000028)
+  16732: 40 (0x00000028)
+  16734: 0 (0x00000000)
+  16735: 0 (0x00000000)
+  16736: 0 (0x00000000)
+  16737: 0 (0x00000000)
+  16738: 0 (0x00000000)
+
+DWORD [061]
+  16730: 0 (0x00000000)
+  16731: 2 (0x00000002)
+  16732: 2 (0x00000002)
+  16734: 0 (0x00000000)
+  16735: 0 (0x00000000)
+  16736: 0 (0x00000000)
+  16737: 0 (0x00000000)
+  16738: 0 (0x00000000)
+
+DWORD [062]
+  16730: 0 (0x00000000)
+  16731: 1 (0x00000001)
+  16732: 1 (0x00000001)
+  16734: 0 (0x00000000)
+  16735: 0 (0x00000000)
+  16736: 0 (0x00000000)
+  16737: 0 (0x00000000)
+  16738: 0 (0x00000000)
+
+DWORD [071] (Effect1)
+  16730: 24 (0x00000018)
+  16731: 24 (0x00000018)
+  16732: 24 (0x00000018)
+  16734: 6 (0x00000006)
+  16735: 6 (0x00000006)
+  16736: 6 (0x00000006)
+  16737: 6 (0x00000006)
+  16738: 6 (0x00000006)
+
+DWORD [080] (EffectBasePoints1)
+  16730: 0 (0x00000000)
+  16731: 0 (0x00000000)
+  16732: 0 (0x00000000)
+  16734: 1 (0x00000001)
+  16735: 1 (0x00000001)
+  16736: 1 (0x00000001)
+  16737: 1 (0x00000001)
+  16738: 1 (0x00000001)
+
+DWORD [095] (EffectApplyAuraName1)
+  16730: 0 (0x00000000)
+  16731: 0 (0x00000000)
+  16732: 0 (0x00000000)
+  16734: 80 (0x00000050)
+  16735: 80 (0x00000050)
+  16736: 80 (0x00000050)
+  16737: 80 (0x00000050)
+  16738: 80 (0x00000050)
+
+DWORD [107]
+  16730: 12429 (0x0000308D)
+  16731: 12613 (0x00003145)
+  16732: 12614 (0x00003146)
+  16734: 0 (0x00000000)
+  16735: 0 (0x00000000)
+  16736: 0 (0x00000000)
+  16737: 0 (0x00000000)
+  16738: 0 (0x00000000)
+
+DWORD [110] (EffectMiscValue1)
+  16730: 0 (0x00000000)
+  16731: 0 (0x00000000)
+  16732: 0 (0x00000000)
+  16734: 3 (0x00000003)
+  16735: 3 (0x00000003)
+  16736: 3 (0x00000003)
+  16737: 3 (0x00000003)
+  16738: 3 (0x00000003)
+
+DWORD [131] (SpellVisual1)
+  16730: 395 (0x0000018B)
+  16731: 395 (0x0000018B)
+  16732: 395 (0x0000018B)
+  16734: 0 (0x00000000)
+  16735: 0 (0x00000000)
+  16736: 0 (0x00000000)
+  16737: 0 (0x00000000)
+  16738: 0 (0x00000000)
+
+DWORD [133] (SpellIconID)
+  16730: 140 (0x0000008C)
+  16731: 140 (0x0000008C)
+  16732: 140 (0x0000008C)
+  16734: 98 (0x00000062)
+  16735: 98 (0x00000062)
+  16736: 98 (0x00000062)
+  16737: 98 (0x00000062)
+  16738: 98 (0x00000062)
+
+DWORD [136]
+  16730: 369072 (0x0005A1B0)
+  16731: 369096 (0x0005A1C8)
+  16732: 369114 (0x0005A1DA)
+  16734: 369135 (0x0005A1EF)
+  16735: 369135 (0x0005A1EF)
+  16736: 369135 (0x0005A1EF)
+  16737: 369135 (0x0005A1EF)
+  16738: 369135 (0x0005A1EF)
+
+DWORD [153] (Rank_enUS)
+  16730: 0 (0x00000000)
+  16731: 0 (0x00000000)
+  16732: 0 (0x00000000)
+  16734: 228 (0x000000E4)
+  16735: 5739 (0x0000166B)
+  16736: 5746 (0x00001672)
+  16737: 23487 (0x00005BBF)
+  16738: 23576 (0x00005C18)
+
+DWORD [169]
+  16730: 16712188 (0x00FF01FC)
+  16731: 16712188 (0x00FF01FC)
+  16732: 16712188 (0x00FF01FC)
+  16734: 16712190 (0x00FF01FE)
+  16735: 16712190 (0x00FF01FE)
+  16736: 16712190 (0x00FF01FE)
+  16737: 16712190 (0x00FF01FE)
+  16738: 16712190 (0x00FF01FE)
+
+DWORD [170]
+  16730: 0 (0x00000000)
+  16731: 0 (0x00000000)
+  16732: 0 (0x00000000)
+  16734: 369150 (0x0005A1FE)
+  16735: 369150 (0x0005A1FE)
+  16736: 369150 (0x0005A1FE)
+  16737: 369150 (0x0005A1FE)
+  16738: 369150 (0x0005A1FE)
+
+DWORD [186]
+  16730: 16712188 (0x00FF01FC)
+  16731: 16712188 (0x00FF01FC)
+  16732: 16712188 (0x00FF01FC)
+  16734: 16712190 (0x00FF01FE)
+  16735: 16712190 (0x00FF01FE)
+  16736: 16712190 (0x00FF01FE)
+  16737: 16712190 (0x00FF01FE)
+  16738: 16712190 (0x00FF01FE)
+
+DWORD [217]
+  16730: 1065353216 (0x3F800000)
+  16731: 1065353216 (0x3F800000)
+  16732: 1065353216 (0x3F800000)
+  16734: 0 (0x00000000)
+  16735: 0 (0x00000000)
+  16736: 0 (0x00000000)
+  16737: 0 (0x00000000)
+  16738: 0 (0x00000000)
+
+DWORD [218]
+  16730: 1065353216 (0x3F800000)
+  16731: 1065353216 (0x3F800000)
+  16732: 1065353216 (0x3F800000)
+  16734: 0 (0x00000000)
+  16735: 0 (0x00000000)
+  16736: 0 (0x00000000)
+  16737: 0 (0x00000000)
+  16738: 0 (0x00000000)
+
+DWORD [222]
+  16730: 162 (0x000000A2)
+  16731: 162 (0x000000A2)
+  16732: 162 (0x000000A2)
+  16734: 0 (0x00000000)
+  16735: 0 (0x00000000)
+  16736: 0 (0x00000000)
+  16737: 0 (0x00000000)
+  16738: 0 (0x00000000)
+
+DWORD [229]
+  16730: 0 (0x00000000)
+  16731: 0 (0x00000000)
+  16732: 0 (0x00000000)
+  16734: 1065353216 (0x3F800000)
+  16735: 1065353216 (0x3F800000)
+  16736: 1065353216 (0x3F800000)
+  16737: 1065353216 (0x3F800000)
+  16738: 1065353216 (0x3F800000)
+
+DWORD [230]
+  16730: 0 (0x00000000)
+  16731: 0 (0x00000000)
+  16732: 0 (0x00000000)
+  16734: 1065353216 (0x3F800000)
+  16735: 1065353216 (0x3F800000)
+  16736: 1065353216 (0x3F800000)
+  16737: 1065353216 (0x3F800000)
+  16738: 1065353216 (0x3F800000)
+
+DWORD [231]
+  16730: 0 (0x00000000)
+  16731: 0 (0x00000000)
+  16732: 0 (0x00000000)
+  16734: 1065353216 (0x3F800000)
+  16735: 1065353216 (0x3F800000)
+  16736: 1065353216 (0x3F800000)
+  16737: 1065353216 (0x3F800000)
+  16738: 1065353216 (0x3F800000)
+
+==============================================================================
+3. ITEMSET.DBC — ITEMSET 189
+==============================================================================
+
+Record index : 23
+Fields       : 53
+Record size  : 212
+
+Spell slots / trigger thresholds
+--------------------------------------------------
+Slot 0:
+  Spell field [017] = 16712190
+  Trigger field [025] = 16733
+
+Slot 1:
+  Spell field [018] = 16736
+  Trigger field [026] = 0
+
+Slot 2:
+  Spell field [019] = 16734
+  Trigger field [027] = 0
+
+Slot 3:
+  Spell field [020] = 16735
+  Trigger field [028] = 0
+
+Slot 4:
+  Spell field [021] = 16730
+  Trigger field [029] = 0
+
+Slot 5:
+  Spell field [022] = 16737
+  Trigger field [030] = 0
+
+Slot 6:
+  Spell field [023] = 16731
+  Trigger field [031] = 0
+
+Slot 7:
+  Spell field [024] = 16732
+  Trigger field [032] = 0
+
+Fields containing 16730-16738:
+  field [018] = 16736
+  field [019] = 16734
+  field [020] = 16735
+  field [021] = 16730
+  field [022] = 16737
+  field [023] = 16731
+  field [024] = 16732
+  field [025] = 16733
+
+All non-zero fields:
+  field [000] = 189 (0x000000BD)
+  field [001] = 409 (0x00000199)
+  field [017] = 16712190 (0x00FF01FE)
+  field [018] = 16736 (0x00004160)
+  field [019] = 16734 (0x0000415E)
+  field [020] = 16735 (0x0000415F)
+  field [021] = 16730 (0x0000415A)
+  field [022] = 16737 (0x00004161)
+  field [023] = 16731 (0x0000415B)
+  field [024] = 16732 (0x0000415C)
+  field [025] = 16733 (0x0000415D)
+  field [035] = 29092 (0x000071A4)
+  field [036] = 27419 (0x00006B1B)
+  field [038] = 18679 (0x000048F7)
+  field [039] = 30770 (0x00007832)
+  field [043] = 2 (0x00000002)
+  field [044] = 6 (0x00000006)
+  field [046] = 8 (0x00000008)
+  field [047] = 4 (0x00000004)
+
+==============================================================================
+4. AUDIT NOTES
+==============================================================================
+
+Spell IDs audited: 16730-16738.
+ItemSet audited: 189.
+The purpose is to determine whether the sequence is a rank chain, set-bonus sequence, or another relationship.
+The report deliberately avoids dumping unrelated DBC records.
