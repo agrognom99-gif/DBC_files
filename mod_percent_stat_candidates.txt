@@ -1,0 +1,999 @@
+==========================================================================================
+MOD_PERCENT_STAT — SPELL PROVENANCE AUDIT
+==========================================================================================
+
+DBC directory: E:\Games\WoW_3.3.5_12340\dbc
+Spell.dbc records: 49839
+Target Effect: 6 (SPELL_EFFECT_APPLY_AURA)
+Target Aura: 80 (SPELL_AURA_MOD_PERCENT_STAT)
+
+STATUS SUMMARY
+------------------------------------------------------------------------------------------
+FREE         10
+POSSIBLE     9
+OCCUPIED     0
+RANKED       7
+UNKNOWN      0
+
+CANDIDATE TABLE
+------------------------------------------------------------------------------------------
+ID       STATUS      Name                               Rank       Visual   Icon  
+------------------------------------------------------------------------------------------
+15007    FREE        Resurrection Sickness                         69       134   
+16734    RANKED      Arcane Mastery                     Rank 1     0        98    
+16735    RANKED      Arcane Mastery                     Rank 2     0        98    
+16736    RANKED      Arcane Mastery                     Rank 3     0        98    
+16737    RANKED      Arcane Mastery                     Rank 4     0        98    
+16738    RANKED      Arcane Mastery                     Rank 5     0        98    
+23735    POSSIBLE    Sayge's Dark Fortune of Strength              7042     1595  
+23736    POSSIBLE    Sayge's Dark Fortune of Agility               7042     1595  
+23737    POSSIBLE    Sayge's Dark Fortune of Stamina               7042     1595  
+23738    POSSIBLE    Sayge's Dark Fortune of Spirit                7042     1595  
+23766    POSSIBLE    Sayge's Dark Fortune of Intel...              7042     1595  
+26035    FREE        Celebrate Good Times!                         7418     63    
+26462    FREE        Festival Fortune!                             7458     63    
+29326    POSSIBLE    Absorb Vitality                               7647     1739  
+35013    FREE        Shrink                                        279      207   
+35956    POSSIBLE    Strange Aura                                  8416     1954  
+42741    FREE        Pumped Up!                                    9632     63    
+43358    FREE        Gut Rip                                       39       494   
+47426    RANKED      Kindling Soul                      1          969      1920  
+47427    RANKED      Kindling Soul                      2          969      1920  
+49710    FREE        Gut Rip                                       39       494   
+52467    POSSIBLE    Devour Flesh                                  372      147   
+55867    FREE        Stinky Beard                                  2716     2849  
+58060    FREE        Glyph of Renewed Life                         0        24    
+58762    POSSIBLE    Devour Flesh                                  372      147   
+63400    FREE        Shirt of Uber Rating Aura                     0        1     
+
+==========================================================================================
+DETAILED PROVENANCE
+==========================================================================================
+
+Spell 15007
+------------------------------------------------------------
+Status             : FREE
+Name               : 'Resurrection Sickness'
+Rank               : ''
+Description        : ''
+Tooltip            : 'Decreases all attributes by $s1% and all damage caused by $s2%.  You are currently worth no honor points to the enemy.'
+
+DurationIndex      : 427
+SpellVisual1       : 69
+SpellVisual2       : 0
+SpellIconID        : 134
+SpellDifficultyID  : 0
+SpellFamilyName    : 6
+SpellFamilyFlags   : 134217728, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 4294967220
+  ImplicitTargetA  = 1
+  ApplyAuraName    = 80
+  MiscValue        = 4294967295
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=6, Aura=79, BasePoints=4294967220, Misc=127
+  Effect 3: Effect=6, Aura=159, BasePoints=4294967295, Misc=127
+
+
+DBC references: NONE FOUND
+
+Classification reasons: none
+
+Spell 16734
+------------------------------------------------------------
+Status             : RANKED
+Name               : 'Arcane Mastery'
+Rank               : 'Rank 1'
+Description        : 'Increases your maximum Mana by $s1%.'
+Tooltip            : ''
+
+DurationIndex      : 21
+SpellVisual1       : 0
+SpellVisual2       : 0
+SpellIconID        : 98
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 1
+  ImplicitTargetA  = 1
+  ApplyAuraName    = 80
+  MiscValue        = 3
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=0, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+
+DBC references: NONE FOUND
+
+Classification reasons:
+  - rank-related indicator
+  - Rank field is non-empty: 'Rank 1'
+
+Spell 16735
+------------------------------------------------------------
+Status             : RANKED
+Name               : 'Arcane Mastery'
+Rank               : 'Rank 2'
+Description        : 'Increases your maximum Mana by $s1%.'
+Tooltip            : ''
+
+DurationIndex      : 21
+SpellVisual1       : 0
+SpellVisual2       : 0
+SpellIconID        : 98
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 1
+  ImplicitTargetA  = 1
+  ApplyAuraName    = 80
+  MiscValue        = 3
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=0, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+
+DBC references: NONE FOUND
+
+Classification reasons:
+  - rank-related indicator
+  - Rank field is non-empty: 'Rank 2'
+
+Spell 16736
+------------------------------------------------------------
+Status             : RANKED
+Name               : 'Arcane Mastery'
+Rank               : 'Rank 3'
+Description        : 'Increases your maximum Mana by $s1%.'
+Tooltip            : ''
+
+DurationIndex      : 21
+SpellVisual1       : 0
+SpellVisual2       : 0
+SpellIconID        : 98
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 1
+  ImplicitTargetA  = 1
+  ApplyAuraName    = 80
+  MiscValue        = 3
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=0, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+
+DBC references: NONE FOUND
+
+Classification reasons:
+  - rank-related indicator
+  - Rank field is non-empty: 'Rank 3'
+
+Spell 16737
+------------------------------------------------------------
+Status             : RANKED
+Name               : 'Arcane Mastery'
+Rank               : 'Rank 4'
+Description        : 'Increases your maximum Mana by $s1%.'
+Tooltip            : ''
+
+DurationIndex      : 21
+SpellVisual1       : 0
+SpellVisual2       : 0
+SpellIconID        : 98
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 1
+  ImplicitTargetA  = 1
+  ApplyAuraName    = 80
+  MiscValue        = 3
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=0, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+
+DBC references: NONE FOUND
+
+Classification reasons:
+  - rank-related indicator
+  - Rank field is non-empty: 'Rank 4'
+
+Spell 16738
+------------------------------------------------------------
+Status             : RANKED
+Name               : 'Arcane Mastery'
+Rank               : 'Rank 5'
+Description        : 'Increases your maximum Mana by $s1%.'
+Tooltip            : ''
+
+DurationIndex      : 21
+SpellVisual1       : 0
+SpellVisual2       : 0
+SpellIconID        : 98
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 1
+  ImplicitTargetA  = 1
+  ApplyAuraName    = 80
+  MiscValue        = 3
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=0, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+
+DBC references: NONE FOUND
+
+Classification reasons:
+  - rank-related indicator
+  - Rank field is non-empty: 'Rank 5'
+
+Spell 23735
+------------------------------------------------------------
+Status             : POSSIBLE
+Name               : "Sayge's Dark Fortune of Strength"
+Rank               : ''
+Description        : ''
+Tooltip            : 'Increases strength by $s1%.'
+
+DurationIndex      : 367
+SpellVisual1       : 7042
+SpellVisual2       : 0
+SpellIconID        : 1595
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 9
+  ImplicitTargetA  = 25
+  ApplyAuraName    = 80
+  MiscValue        = 0
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=64, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+Trigger spells:
+  EffectTriggerSpell2 -> 23770
+
+DBC references: NONE FOUND
+
+Classification reasons:
+  - has trigger spell
+
+Spell 23736
+------------------------------------------------------------
+Status             : POSSIBLE
+Name               : "Sayge's Dark Fortune of Agility"
+Rank               : ''
+Description        : ''
+Tooltip            : 'Increases agility by $s1%.'
+
+DurationIndex      : 367
+SpellVisual1       : 7042
+SpellVisual2       : 0
+SpellIconID        : 1595
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 9
+  ImplicitTargetA  = 25
+  ApplyAuraName    = 80
+  MiscValue        = 1
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=64, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+Trigger spells:
+  EffectTriggerSpell2 -> 23770
+
+DBC references: NONE FOUND
+
+Classification reasons:
+  - has trigger spell
+
+Spell 23737
+------------------------------------------------------------
+Status             : POSSIBLE
+Name               : "Sayge's Dark Fortune of Stamina"
+Rank               : ''
+Description        : ''
+Tooltip            : 'Increases stamina by $s1%.'
+
+DurationIndex      : 367
+SpellVisual1       : 7042
+SpellVisual2       : 0
+SpellIconID        : 1595
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 9
+  ImplicitTargetA  = 25
+  ApplyAuraName    = 80
+  MiscValue        = 2
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=64, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+Trigger spells:
+  EffectTriggerSpell2 -> 23770
+
+DBC references: NONE FOUND
+
+Classification reasons:
+  - has trigger spell
+
+Spell 23738
+------------------------------------------------------------
+Status             : POSSIBLE
+Name               : "Sayge's Dark Fortune of Spirit"
+Rank               : ''
+Description        : ''
+Tooltip            : 'Increases spirit by $s1%.'
+
+DurationIndex      : 367
+SpellVisual1       : 7042
+SpellVisual2       : 0
+SpellIconID        : 1595
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 9
+  ImplicitTargetA  = 25
+  ApplyAuraName    = 80
+  MiscValue        = 4
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=64, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+Trigger spells:
+  EffectTriggerSpell2 -> 23770
+
+DBC references: NONE FOUND
+
+Classification reasons:
+  - has trigger spell
+
+Spell 23766
+------------------------------------------------------------
+Status             : POSSIBLE
+Name               : "Sayge's Dark Fortune of Intelligence"
+Rank               : ''
+Description        : ''
+Tooltip            : 'Increases intelligence by $s1%.'
+
+DurationIndex      : 367
+SpellVisual1       : 7042
+SpellVisual2       : 0
+SpellIconID        : 1595
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 9
+  ImplicitTargetA  = 25
+  ApplyAuraName    = 80
+  MiscValue        = 3
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=64, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+Trigger spells:
+  EffectTriggerSpell2 -> 23770
+
+DBC references: NONE FOUND
+
+Classification reasons:
+  - has trigger spell
+
+Spell 26035
+------------------------------------------------------------
+Status             : FREE
+Name               : 'Celebrate Good Times!'
+Rank               : ''
+Description        : 'Celebrate good times!'
+Tooltip            : '+$s1% to all stats!'
+
+DurationIndex      : 30
+SpellVisual1       : 7418
+SpellVisual2       : 0
+SpellIconID        : 63
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 9
+  ImplicitTargetA  = 21
+  ApplyAuraName    = 80
+  MiscValue        = 4294967295
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=0, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+
+DBC references: NONE FOUND
+
+Classification reasons: none
+
+Spell 26462
+------------------------------------------------------------
+Status             : FREE
+Name               : 'Festival Fortune!'
+Rank               : ''
+Description        : 'May fortune be with you!'
+Tooltip            : 'May fortune be with you!'
+
+DurationIndex      : 30
+SpellVisual1       : 7458
+SpellVisual2       : 0
+SpellIconID        : 63
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 9
+  ImplicitTargetA  = 22
+  ApplyAuraName    = 80
+  MiscValue        = 4294967295
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=0, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+
+DBC references: NONE FOUND
+
+Classification reasons: none
+
+Spell 29326
+------------------------------------------------------------
+Status             : POSSIBLE
+Name               : 'Absorb Vitality'
+Rank               : ''
+Description        : "Increases the caster's strength by $s1 for $d.  Stacks."
+Tooltip            : 'Strength increased by $s1%.'
+
+DurationIndex      : 9
+SpellVisual1       : 7647
+SpellVisual2       : 0
+SpellIconID        : 1739
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 19
+  ImplicitTargetA  = 1
+  ApplyAuraName    = 80
+  MiscValue        = 0
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=6, Aura=61, BasePoints=5, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+
+DBC references:
+  Spell.dbc / record 15003 / field [116] / EffectTriggerSpell1
+  Spell.dbc / record 16884 / field [116] / EffectTriggerSpell1
+
+Classification reasons:
+  - referenced by another Spell.dbc record
+
+Spell 35013
+------------------------------------------------------------
+Status             : FREE
+Name               : 'Shrink'
+Rank               : ''
+Description        : "Reduces an enemy's Strength by $s1 and Stamina by $s2 for $d."
+Tooltip            : 'Strength reduced by $s1%.\r\nStamina reduced by $s2%.'
+
+DurationIndex      : 4
+SpellVisual1       : 279
+SpellVisual2       : 0
+SpellIconID        : 207
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 4294967260
+  ImplicitTargetA  = 6
+  ApplyAuraName    = 80
+  MiscValue        = 0
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=6, Aura=80, BasePoints=4294967270, Misc=2
+  Effect 3: Effect=6, Aura=61, BasePoints=4294967260, Misc=0
+
+
+DBC references: NONE FOUND
+
+Classification reasons: none
+
+Spell 35956
+------------------------------------------------------------
+Status             : POSSIBLE
+Name               : 'Strange Aura'
+Rank               : ''
+Description        : ''
+Tooltip            : 'All stats reduced by $s1%.'
+
+DurationIndex      : 3
+SpellVisual1       : 8416
+SpellVisual2       : 0
+SpellIconID        : 1954
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 4294967290
+  ImplicitTargetA  = 22
+  ApplyAuraName    = 80
+  MiscValue        = 4294967295
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=0, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+
+DBC references:
+  Spell.dbc / record 19803 / field [118] / EffectTriggerSpell3
+
+Classification reasons:
+  - referenced by another Spell.dbc record
+
+Spell 42741
+------------------------------------------------------------
+Status             : FREE
+Name               : 'Pumped Up!'
+Rank               : ''
+Description        : 'You are PUMPED!'
+Tooltip            : '+$s1% to all stats!'
+
+DurationIndex      : 5
+SpellVisual1       : 9632
+SpellVisual2       : 0
+SpellIconID        : 63
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 9
+  ImplicitTargetA  = 21
+  ApplyAuraName    = 80
+  MiscValue        = 4294967295
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=0, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+
+DBC references: NONE FOUND
+
+Classification reasons: none
+
+Spell 43358
+------------------------------------------------------------
+Status             : FREE
+Name               : 'Gut Rip'
+Rank               : ''
+Description        : "Reduces an enemy's Stamina by $s1% for $d."
+Tooltip            : 'Stamina reduced by $s1%.'
+
+DurationIndex      : 32
+SpellVisual1       : 39
+SpellVisual2       : 0
+SpellIconID        : 494
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 4294967280
+  ImplicitTargetA  = 6
+  ApplyAuraName    = 80
+  MiscValue        = 2
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=0, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+
+DBC references: NONE FOUND
+
+Classification reasons: none
+
+Spell 47426
+------------------------------------------------------------
+Status             : RANKED
+Name               : 'Kindling Soul'
+Rank               : '1'
+Description        : 'Increases your Spirit by $s1% for $d1.'
+Tooltip            : 'Spirit Increased by $s1%.'
+
+DurationIndex      : 1
+SpellVisual1       : 969
+SpellVisual2       : 0
+SpellIconID        : 1920
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 14
+  ImplicitTargetA  = 1
+  ApplyAuraName    = 80
+  MiscValue        = 4
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=0, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+
+DBC references:
+  Spell.dbc / record 28979 / field [116] / EffectTriggerSpell1
+
+Classification reasons:
+  - rank-related indicator
+  - referenced by another Spell.dbc record
+  - Rank field is non-empty: '1'
+
+Spell 47427
+------------------------------------------------------------
+Status             : RANKED
+Name               : 'Kindling Soul'
+Rank               : '2'
+Description        : 'Increases your Spirit by $s1% for $d1.'
+Tooltip            : 'Spirit Increased by $s1%.'
+
+DurationIndex      : 1
+SpellVisual1       : 969
+SpellVisual2       : 0
+SpellIconID        : 1920
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 29
+  ImplicitTargetA  = 1
+  ApplyAuraName    = 80
+  MiscValue        = 4
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=0, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+
+DBC references:
+  Spell.dbc / record 28980 / field [116] / EffectTriggerSpell1
+
+Classification reasons:
+  - rank-related indicator
+  - referenced by another Spell.dbc record
+  - Rank field is non-empty: '2'
+
+Spell 49710
+------------------------------------------------------------
+Status             : FREE
+Name               : 'Gut Rip'
+Rank               : ''
+Description        : "Reduces an enemy's Stamina by $s1% for $d."
+Tooltip            : 'Stamina reduced by $s1%.'
+
+DurationIndex      : 32
+SpellVisual1       : 39
+SpellVisual2       : 0
+SpellIconID        : 494
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 4294967280
+  ImplicitTargetA  = 6
+  ApplyAuraName    = 80
+  MiscValue        = 2
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=0, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+
+DBC references: NONE FOUND
+
+Classification reasons: none
+
+Spell 52467
+------------------------------------------------------------
+Status             : POSSIBLE
+Name               : 'Devour Flesh'
+Rank               : ''
+Description        : 'Drains $52352s1 health and $52352s2% stats from an enemy, transferring it to the caster.'
+Tooltip            : 'Stamina increased by $52352s2%.'
+
+DurationIndex      : 8
+SpellVisual1       : 372
+SpellVisual2       : 0
+SpellIconID        : 147
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 4
+  ImplicitTargetA  = 1
+  ApplyAuraName    = 80
+  MiscValue        = 2
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=0, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+
+DBC references:
+  Spell.dbc / record 33248 / field [118] / EffectTriggerSpell3
+  Spell.dbc / record 47375 / field [118] / EffectTriggerSpell3
+
+Classification reasons:
+  - referenced by another Spell.dbc record
+
+Spell 55867
+------------------------------------------------------------
+Status             : FREE
+Name               : 'Stinky Beard'
+Rank               : ''
+Description        : 'Reduces an enemy\'s Stamina by $s1% for $d.\r\n\r\n|cFFFFD000"He smelled even worse on the inside..."|r'
+Tooltip            : 'Stamina reduced by $s1%.\r\n\r\n|cFFFFD000"He smelled even worse on the inside..."|r'
+
+DurationIndex      : 9
+SpellVisual1       : 2716
+SpellVisual2       : 0
+SpellIconID        : 2849
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 4294967294
+  ImplicitTargetA  = 18
+  ApplyAuraName    = 80
+  MiscValue        = 2
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=0, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+
+DBC references: NONE FOUND
+
+Classification reasons: none
+
+Spell 58060
+------------------------------------------------------------
+Status             : FREE
+Name               : 'Glyph of Renewed Life'
+Rank               : ''
+Description        : 'All stats increased by $58060s1% for $58060d when you Reincarnate.'
+Tooltip            : 'All stats increased by $s1%.'
+
+DurationIndex      : 3
+SpellVisual1       : 0
+SpellVisual2       : 0
+SpellIconID        : 24
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 4
+  ImplicitTargetA  = 1
+  ApplyAuraName    = 80
+  MiscValue        = 4294967295
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=0, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+
+DBC references: NONE FOUND
+
+Classification reasons: none
+
+Spell 58762
+------------------------------------------------------------
+Status             : POSSIBLE
+Name               : 'Devour Flesh'
+Rank               : ''
+Description        : 'Drains $52352s1 health and $52352s2% stats from an enemy, transferring it to the caster.'
+Tooltip            : 'Stamina increased by $52352s2%.'
+
+DurationIndex      : 8
+SpellVisual1       : 372
+SpellVisual2       : 0
+SpellIconID        : 147
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 9
+  ImplicitTargetA  = 1
+  ApplyAuraName    = 80
+  MiscValue        = 2
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=0, Aura=0, BasePoints=0, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+
+DBC references:
+  Spell.dbc / record 39037 / field [118] / EffectTriggerSpell3
+
+Classification reasons:
+  - referenced by another Spell.dbc record
+
+Spell 63400
+------------------------------------------------------------
+Status             : FREE
+Name               : 'Shirt of Uber Rating Aura'
+Rank               : ''
+Description        : 'Increases all statistics by 13%.'
+Tooltip            : ''
+
+DurationIndex      : 0
+SpellVisual1       : 0
+SpellVisual2       : 0
+SpellIconID        : 1
+SpellDifficultyID  : 0
+SpellFamilyName    : 0
+SpellFamilyFlags   : 0, 0, 0
+
+Effect 1:
+  Effect           = 6
+  BasePoints       = 12
+  ImplicitTargetA  = 1
+  ApplyAuraName    = 80
+  MiscValue        = 4294967295
+  TriggerSpell     = 0
+
+Additional effects:
+  Effect 2: Effect=0, Aura=0, BasePoints=4294967295, Misc=0
+  Effect 3: Effect=0, Aura=0, BasePoints=0, Misc=0
+
+
+DBC references: NONE FOUND
+
+Classification reasons: none
+
+==========================================================================================
+PRELIMINARY FREE CANDIDATES
+==========================================================================================
+15007 — Resurrection Sickness
+26035 — Celebrate Good Times!
+26462 — Festival Fortune!
+35013 — Shrink
+42741 — Pumped Up!
+43358 — Gut Rip
+49710 — Gut Rip
+55867 — Stinky Beard
+58060 — Glyph of Renewed Life
+63400 — Shirt of Uber Rating Aura
+
+==========================================================================================
+POSSIBLE CANDIDATES
+==========================================================================================
+23735 — Sayge's Dark Fortune of Strength
+    - has trigger spell
+23736 — Sayge's Dark Fortune of Agility
+    - has trigger spell
+23737 — Sayge's Dark Fortune of Stamina
+    - has trigger spell
+23738 — Sayge's Dark Fortune of Spirit
+    - has trigger spell
+23766 — Sayge's Dark Fortune of Intelligence
+    - has trigger spell
+29326 — Absorb Vitality
+    - referenced by another Spell.dbc record
+35956 — Strange Aura
+    - referenced by another Spell.dbc record
+52467 — Devour Flesh
+    - referenced by another Spell.dbc record
+58762 — Devour Flesh
+    - referenced by another Spell.dbc record
+
+==========================================================================================
+DBC SCAN SUMMARY
+==========================================================================================
+SkillLineAbility.dbc         records=10219   record_size=56   matches=0    error=none
+Talent.dbc                   records=892     record_size=92   matches=0    error=none
+ItemSet.dbc                  records=509     record_size=212  matches=0    error=none
+SpellArea.dbc                records=0       record_size=0    matches=0    error=none
+
+IMPORTANT: FREE means no relevant client-side DBC provenance was found by this audit.
+It does NOT prove that the spell is unused in the AzerothCore world database.
