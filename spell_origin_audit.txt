@@ -1,0 +1,1796 @@
+==============================================================================
+SPELL ORIGIN AUDIT
+WotLK 3.3.5a / build 12340
+==============================================================================
+
+SPELL.DBC HEADER
+------------------------------------------------------------------------------
+Records     : 49839
+Fields      : 234
+Record size : 936
+String size : 2317797
+
+STRUCTURE CORRECTION
+------------------------------------------------------------------------------
+SpellDifficultyID = DWORD [233]
+DWORD [153] = Rank[enUS/enGB] string offset
+
+==============================================================================
+TARGET SPELLS
+==============================================================================
+
+Spell 16734 (record 7374)
+------------------------------------------------------------------------------
+SpellDifficultyID [233] = 0
+
+IMPORTANT FIELDS
+  Id                           = 16734
+  Attributes                   = 464
+  AttributesEx                 = 0
+  AttributesEx2                = 0
+  AttributesEx3                = 0
+  AttributesEx4                = 0
+  AttributesEx5                = 0
+  AttributesEx6                = 0
+  AttributesEx7                = 0
+  DurationIndex                = 0
+  SpellVisual1                 = 0
+  SpellVisual2                 = 0
+  SpellIconID                  = 98
+  ActiveIconID                 = 0
+  Effect1                      = 6
+  EffectBasePoints1            = 1
+  EffectImplicitTargetA1       = 1
+  EffectApplyAuraName1         = 80
+  EffectMiscValue1             = 3
+  EffectTriggerSpell1          = 0
+  SpellFamilyName              = 0
+  SpellFamilyFlags_1           = 0
+  SpellFamilyFlags_2           = 0
+  SpellFamilyFlags_3           = 0
+  SchoolMask                   = 1
+  SpellDifficultyID            = 0
+
+LOCALIZED TEXT
+  Name:
+    enUS/enGB: 'Arcane Mastery'
+  Rank:
+    enUS/enGB: 'Rank 1'
+  Description:
+    enUS/enGB: 'Increases your maximum Mana by $s1%.'
+  Tooltip:
+    <empty>
+
+Spell 16735 (record 7375)
+------------------------------------------------------------------------------
+SpellDifficultyID [233] = 0
+
+IMPORTANT FIELDS
+  Id                           = 16735
+  Attributes                   = 464
+  AttributesEx                 = 0
+  AttributesEx2                = 0
+  AttributesEx3                = 0
+  AttributesEx4                = 0
+  AttributesEx5                = 0
+  AttributesEx6                = 0
+  AttributesEx7                = 0
+  DurationIndex                = 0
+  SpellVisual1                 = 0
+  SpellVisual2                 = 0
+  SpellIconID                  = 98
+  ActiveIconID                 = 0
+  Effect1                      = 6
+  EffectBasePoints1            = 1
+  EffectImplicitTargetA1       = 1
+  EffectApplyAuraName1         = 80
+  EffectMiscValue1             = 3
+  EffectTriggerSpell1          = 0
+  SpellFamilyName              = 0
+  SpellFamilyFlags_1           = 0
+  SpellFamilyFlags_2           = 0
+  SpellFamilyFlags_3           = 0
+  SchoolMask                   = 1
+  SpellDifficultyID            = 0
+
+LOCALIZED TEXT
+  Name:
+    enUS/enGB: 'Arcane Mastery'
+  Rank:
+    enUS/enGB: 'Rank 2'
+  Description:
+    enUS/enGB: 'Increases your maximum Mana by $s1%.'
+  Tooltip:
+    <empty>
+
+Spell 16736 (record 7376)
+------------------------------------------------------------------------------
+SpellDifficultyID [233] = 0
+
+IMPORTANT FIELDS
+  Id                           = 16736
+  Attributes                   = 464
+  AttributesEx                 = 0
+  AttributesEx2                = 0
+  AttributesEx3                = 0
+  AttributesEx4                = 0
+  AttributesEx5                = 0
+  AttributesEx6                = 0
+  AttributesEx7                = 0
+  DurationIndex                = 0
+  SpellVisual1                 = 0
+  SpellVisual2                 = 0
+  SpellIconID                  = 98
+  ActiveIconID                 = 0
+  Effect1                      = 6
+  EffectBasePoints1            = 1
+  EffectImplicitTargetA1       = 1
+  EffectApplyAuraName1         = 80
+  EffectMiscValue1             = 3
+  EffectTriggerSpell1          = 0
+  SpellFamilyName              = 0
+  SpellFamilyFlags_1           = 0
+  SpellFamilyFlags_2           = 0
+  SpellFamilyFlags_3           = 0
+  SchoolMask                   = 1
+  SpellDifficultyID            = 0
+
+LOCALIZED TEXT
+  Name:
+    enUS/enGB: 'Arcane Mastery'
+  Rank:
+    enUS/enGB: 'Rank 3'
+  Description:
+    enUS/enGB: 'Increases your maximum Mana by $s1%.'
+  Tooltip:
+    <empty>
+
+Spell 16737 (record 7377)
+------------------------------------------------------------------------------
+SpellDifficultyID [233] = 0
+
+IMPORTANT FIELDS
+  Id                           = 16737
+  Attributes                   = 464
+  AttributesEx                 = 0
+  AttributesEx2                = 0
+  AttributesEx3                = 0
+  AttributesEx4                = 0
+  AttributesEx5                = 0
+  AttributesEx6                = 0
+  AttributesEx7                = 0
+  DurationIndex                = 0
+  SpellVisual1                 = 0
+  SpellVisual2                 = 0
+  SpellIconID                  = 98
+  ActiveIconID                 = 0
+  Effect1                      = 6
+  EffectBasePoints1            = 1
+  EffectImplicitTargetA1       = 1
+  EffectApplyAuraName1         = 80
+  EffectMiscValue1             = 3
+  EffectTriggerSpell1          = 0
+  SpellFamilyName              = 0
+  SpellFamilyFlags_1           = 0
+  SpellFamilyFlags_2           = 0
+  SpellFamilyFlags_3           = 0
+  SchoolMask                   = 1
+  SpellDifficultyID            = 0
+
+LOCALIZED TEXT
+  Name:
+    enUS/enGB: 'Arcane Mastery'
+  Rank:
+    enUS/enGB: 'Rank 4'
+  Description:
+    enUS/enGB: 'Increases your maximum Mana by $s1%.'
+  Tooltip:
+    <empty>
+
+Spell 16738 (record 7378)
+------------------------------------------------------------------------------
+SpellDifficultyID [233] = 0
+
+IMPORTANT FIELDS
+  Id                           = 16738
+  Attributes                   = 464
+  AttributesEx                 = 0
+  AttributesEx2                = 0
+  AttributesEx3                = 0
+  AttributesEx4                = 0
+  AttributesEx5                = 0
+  AttributesEx6                = 0
+  AttributesEx7                = 0
+  DurationIndex                = 0
+  SpellVisual1                 = 0
+  SpellVisual2                 = 0
+  SpellIconID                  = 98
+  ActiveIconID                 = 0
+  Effect1                      = 6
+  EffectBasePoints1            = 1
+  EffectImplicitTargetA1       = 1
+  EffectApplyAuraName1         = 80
+  EffectMiscValue1             = 3
+  EffectTriggerSpell1          = 0
+  SpellFamilyName              = 0
+  SpellFamilyFlags_1           = 0
+  SpellFamilyFlags_2           = 0
+  SpellFamilyFlags_3           = 0
+  SchoolMask                   = 1
+  SpellDifficultyID            = 0
+
+LOCALIZED TEXT
+  Name:
+    enUS/enGB: 'Arcane Mastery'
+  Rank:
+    enUS/enGB: 'Rank 5'
+  Description:
+    enUS/enGB: 'Increases your maximum Mana by $s1%.'
+  Tooltip:
+    <empty>
+
+==============================================================================
+DIFFERING DWORDS
+==============================================================================
+
+Different positions: 2
+
+[000] Id
+    16734: 16734
+    16735: 16735
+    16736: 16736
+    16737: 16737
+    16738: 16738
+
+[153] Rank[enUS/enGB]
+    16734: 228
+    16735: 5739
+    16736: 5746
+    16737: 23487
+    16738: 23576
+
+==============================================================================
+SPELL DIFFICULTY IDS
+==============================================================================
+
+16734 -> 0
+16735 -> 0
+16736 -> 0
+16737 -> 0
+16738 -> 0
+
+==============================================================================
+RAW REFERENCES TO TARGET SPELL IDS
+==============================================================================
+
+These are raw DWORD matches. They are candidate references, not automatically semantic references.
+
+CharSections.dbc: record=179, id=12919, field=4 (DWORD[4]), value=16735
+ChatProfanity.dbc: record=1362, id=2043, field=1 (DWORD[1]), value=16738
+CreatureDisplayInfo.dbc: record=11087, id=16734, field=0 (DWORD[0]), value=16734
+CreatureDisplayInfo.dbc: record=11088, id=16735, field=0 (DWORD[0]), value=16735
+CreatureDisplayInfo.dbc: record=11089, id=16736, field=0 (DWORD[0]), value=16736
+CreatureDisplayInfo.dbc: record=11090, id=16737, field=0 (DWORD[0]), value=16737
+CreatureDisplayInfo.dbc: record=11091, id=16738, field=0 (DWORD[0]), value=16738
+CreatureDisplayInfo.dbc: record=18575, id=24420, field=3 (DWORD[3]), value=16734
+CreatureDisplayInfo.dbc: record=18576, id=24421, field=3 (DWORD[3]), value=16735
+CreatureDisplayInfo.dbc: record=18577, id=24422, field=3 (DWORD[3]), value=16736
+CreatureDisplayInfo.dbc: record=18578, id=24423, field=3 (DWORD[3]), value=16737
+CreatureDisplayInfo.dbc: record=18580, id=24425, field=3 (DWORD[3]), value=16738
+CreatureDisplayInfoExtra.dbc: record=3069, id=4127, field=16 (DWORD[16]), value=16735
+CreatureDisplayInfoExtra.dbc: record=3070, id=4128, field=10 (DWORD[10]), value=16736
+CreatureDisplayInfoExtra.dbc: record=5049, id=8079, field=11 (DWORD[11]), value=16736
+CreatureDisplayInfoExtra.dbc: record=8964, id=13226, field=10 (DWORD[10]), value=16736
+CreatureDisplayInfoExtra.dbc: record=11953, id=16354, field=11 (DWORD[11]), value=16736
+CreatureDisplayInfoExtra.dbc: record=12331, id=16734, field=0 (DWORD[0]), value=16734
+CreatureDisplayInfoExtra.dbc: record=12332, id=16735, field=0 (DWORD[0]), value=16735
+CreatureDisplayInfoExtra.dbc: record=12333, id=16736, field=0 (DWORD[0]), value=16736
+CreatureDisplayInfoExtra.dbc: record=12334, id=16737, field=0 (DWORD[0]), value=16737
+CreatureDisplayInfoExtra.dbc: record=12335, id=16738, field=0 (DWORD[0]), value=16738
+DeclinedWordCases.dbc: record=75214, id=16734, field=0 (DWORD[0]), value=16734
+DeclinedWordCases.dbc: record=75219, id=16735, field=0 (DWORD[0]), value=16735
+DeclinedWordCases.dbc: record=75224, id=16736, field=0 (DWORD[0]), value=16736
+DeclinedWordCases.dbc: record=75229, id=16737, field=0 (DWORD[0]), value=16737
+DeclinedWordCases.dbc: record=75234, id=16738, field=0 (DWORD[0]), value=16738
+Item.dbc: record=12980, id=16734, field=0 (DWORD[0]), value=16734
+Item.dbc: record=12981, id=16735, field=0 (DWORD[0]), value=16735
+Item.dbc: record=12982, id=16736, field=0 (DWORD[0]), value=16736
+Item.dbc: record=12983, id=16737, field=0 (DWORD[0]), value=16737
+Item.dbc: record=12984, id=16738, field=0 (DWORD[0]), value=16738
+ItemDisplayInfo.dbc: record=13968, id=16734, field=0 (DWORD[0]), value=16734
+ItemDisplayInfo.dbc: record=13969, id=16735, field=0 (DWORD[0]), value=16735
+ItemDisplayInfo.dbc: record=13970, id=16736, field=0 (DWORD[0]), value=16736
+ItemDisplayInfo.dbc: record=13971, id=16737, field=0 (DWORD[0]), value=16737
+ItemSet.dbc: record=23, id=189, field=18 (DWORD[18]), value=16736
+ItemSet.dbc: record=23, id=189, field=19 (DWORD[19]), value=16734
+ItemSet.dbc: record=23, id=189, field=20 (DWORD[20]), value=16735
+ItemSet.dbc: record=23, id=189, field=22 (DWORD[22]), value=16737
+NameGen.dbc: record=2431, id=3913, field=1 (DWORD[1]), value=16737
+NamesProfanity.dbc: record=1452, id=6256, field=1 (DWORD[1]), value=16736
+NamesReserved.dbc: record=8503, id=16734, field=0 (DWORD[0]), value=16734
+NamesReserved.dbc: record=8504, id=16735, field=0 (DWORD[0]), value=16735
+NamesReserved.dbc: record=8505, id=16736, field=0 (DWORD[0]), value=16736
+NamesReserved.dbc: record=8506, id=16737, field=0 (DWORD[0]), value=16737
+NamesReserved.dbc: record=8507, id=16738, field=0 (DWORD[0]), value=16738
+SoundEntries.dbc: record=12018, id=16734, field=0 (DWORD[0]), value=16734
+SoundEntries.dbc: record=12019, id=16735, field=0 (DWORD[0]), value=16735
+SoundEntries.dbc: record=12020, id=16736, field=0 (DWORD[0]), value=16736
+SoundEntries.dbc: record=12021, id=16737, field=0 (DWORD[0]), value=16737
+SoundEntries.dbc: record=12022, id=16738, field=0 (DWORD[0]), value=16738
+SoundEntriesAdvanced.dbc: record=972, id=2947, field=1 (DWORD[1]), value=16734
+SoundEntriesAdvanced.dbc: record=973, id=2948, field=1 (DWORD[1]), value=16735
+SoundEntriesAdvanced.dbc: record=974, id=2949, field=1 (DWORD[1]), value=16736
+SoundEntriesAdvanced.dbc: record=975, id=2950, field=1 (DWORD[1]), value=16737
+SoundEntriesAdvanced.dbc: record=976, id=2951, field=1 (DWORD[1]), value=16738
+Spell.dbc: record=7374, id=16734, field=0 (Id), value=16734
+Spell.dbc: record=7375, id=16735, field=0 (Id), value=16735
+Spell.dbc: record=7376, id=16736, field=0 (Id), value=16736
+Spell.dbc: record=7377, id=16737, field=0 (Id), value=16737
+Spell.dbc: record=7378, id=16738, field=0 (Id), value=16738
+SpellIcon.dbc: record=441, id=578, field=1 (DWORD[1]), value=16735
+SpellVisualEffectName.dbc: record=296, id=342, field=2 (DWORD[2]), value=16737
+TaxiPathNode.dbc: record=11359, id=16738, field=0 (DWORD[0]), value=16738
+TaxiPathNode.dbc: record=11360, id=16737, field=0 (DWORD[0]), value=16737
+TaxiPathNode.dbc: record=11361, id=16736, field=0 (DWORD[0]), value=16736
+TaxiPathNode.dbc: record=11362, id=16735, field=0 (DWORD[0]), value=16735
+TaxiPathNode.dbc: record=11363, id=16734, field=0 (DWORD[0]), value=16734
+
+==============================================================================
+SPELLDIFFICULTY.DBC
+==============================================================================
+
+Records     : 581
+Fields      : 5
+Record size : 20
+
+Relevant records:
+
+Record index: 16
+Record ID: 361
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (361, 62382, 67114, 0, 0)
+
+Record index: 43
+Record ID: 461
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (461, 67247, 67290, 0, 0)
+
+Record index: 44
+Record ID: 462
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (462, 67254, 67291, 0, 0)
+
+Record index: 45
+Record ID: 463
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (463, 67197, 67292, 0, 0)
+
+Record index: 53
+Record ID: 481
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (481, 66665, 67328, 0, 0)
+
+Record index: 54
+Record ID: 482
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (482, 66670, 67329, 0, 0)
+
+Record index: 55
+Record ID: 483
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (483, 66813, 67330, 0, 0)
+
+Record index: 56
+Record ID: 484
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (484, 66809, 67331, 0, 0)
+
+Record index: 57
+Record ID: 485
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (485, 66684, 67332, 0, 0)
+
+Record index: 58
+Record ID: 486
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (486, 66765, 67333, 0, 0)
+
+Record index: 59
+Record ID: 501
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (501, 66655, 67436, 0, 0)
+
+Record index: 60
+Record ID: 502
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (502, 67441, 67442, 0, 0)
+
+Record index: 61
+Record ID: 503
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (503, 66195, 67444, 0, 0)
+
+Record index: 62
+Record ID: 504
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (504, 66184, 67446, 0, 0)
+
+Record index: 63
+Record ID: 505
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (505, 66289, 67448, 0, 0)
+
+Record index: 64
+Record ID: 506
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (506, 67199, 67450, 0, 0)
+
+Record index: 65
+Record ID: 507
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (507, 67453, 67454, 0, 0)
+
+Record index: 66
+Record ID: 508
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (508, 66542, 67456, 0, 0)
+
+Record index: 67
+Record ID: 509
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (509, 67458, 67459, 0, 0)
+
+Record index: 68
+Record ID: 510
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (510, 66203, 67462, 0, 0)
+
+Record index: 93
+Record ID: 621
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (621, 66536, 67674, 0, 0)
+
+Record index: 94
+Record ID: 622
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (622, 66537, 67675, 0, 0)
+
+Record index: 95
+Record ID: 623
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (623, 66538, 67676, 0, 0)
+
+Record index: 96
+Record ID: 624
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (624, 66552, 67677, 0, 0)
+
+Record index: 97
+Record ID: 625
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (625, 66619, 67678, 0, 0)
+
+Record index: 98
+Record ID: 626
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (626, 66620, 67679, 0, 0)
+
+Record index: 99
+Record ID: 627
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (627, 66903, 67680, 0, 0)
+
+Record index: 100
+Record ID: 628
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (628, 66862, 67681, 0, 0)
+
+Record index: 103
+Record ID: 681
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (681, 67280, 67811, 0, 0)
+
+Record index: 104
+Record ID: 682
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (682, 67439, 67812, 0, 0)
+
+Record index: 105
+Record ID: 683
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (683, 66672, 67813, 0, 0)
+
+Record index: 106
+Record ID: 684
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (684, 66676, 67814, 0, 0)
+
+Record index: 107
+Record ID: 685
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (685, 67798, 67815, 0, 0)
+
+Record index: 108
+Record ID: 686
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (686, 67796, 67816, 0, 0)
+
+Record index: 109
+Record ID: 701
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (701, 67721, 67847, 0, 0)
+
+Record index: 113
+Record ID: 741
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (741, 67762, 67873, 0, 0)
+
+Record index: 114
+Record ID: 742
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (742, 67761, 67874, 0, 0)
+
+Record index: 115
+Record ID: 743
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (743, 67808, 67875, 0, 0)
+
+Record index: 116
+Record ID: 744
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (744, 67781, 67876, 0, 0)
+
+Record index: 117
+Record ID: 745
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (745, 67778, 67877, 0, 0)
+
+Record index: 118
+Record ID: 746
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (746, 67719, 67878, 0, 0)
+
+Record index: 119
+Record ID: 747
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (747, 67774, 67879, 0, 0)
+
+Record index: 120
+Record ID: 748
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (748, 67749, 67880, 0, 0)
+
+Record index: 121
+Record ID: 749
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (749, 67718, 67881, 0, 0)
+
+Record index: 122
+Record ID: 750
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (750, 67823, 67882, 0, 0)
+
+Record index: 123
+Record ID: 751
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (751, 67725, 67883, 0, 0)
+
+Record index: 124
+Record ID: 752
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (752, 67724, 67884, 0, 0)
+
+Record index: 125
+Record ID: 753
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (753, 67722, 67885, 0, 0)
+
+Record index: 126
+Record ID: 754
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (754, 67729, 67886, 0, 0)
+
+Record index: 127
+Record ID: 761
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (761, 67754, 67889, 0, 0)
+
+Record index: 167
+Record ID: 841
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (841, 67440, 68068, 0, 0)
+
+Record index: 190
+Record ID: 883
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (883, 66808, 68160, 0, 0)
+
+Record index: 191
+Record ID: 884
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (884, 66725, 68161, 0, 0)
+
+Record index: 192
+Record ID: 885
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (885, 66895, 68168, 0, 0)
+
+Record index: 193
+Record ID: 886
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (886, 66541, 68169, 0, 0)
+
+Record index: 194
+Record ID: 887
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (887, 67452, 68170, 0, 0)
+
+Record index: 195
+Record ID: 921
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (921, 67731, 68305, 0, 0)
+
+Record index: 196
+Record ID: 922
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (922, 67745, 68306, 0, 0)
+
+Record index: 197
+Record ID: 923
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (923, 66042, 68310, 0, 0)
+
+Record index: 198
+Record ID: 924
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (924, 66043, 68311, 0, 0)
+
+Record index: 199
+Record ID: 925
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (925, 66044, 68312, 0, 0)
+
+Record index: 200
+Record ID: 926
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (926, 66095, 68313, 0, 0)
+
+Record index: 201
+Record ID: 927
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (927, 67710, 68315, 0, 0)
+
+Record index: 202
+Record ID: 928
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (928, 67594, 68316, 0, 0)
+
+Record index: 203
+Record ID: 929
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (929, 67709, 68317, 0, 0)
+
+Record index: 204
+Record ID: 930
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (930, 67528, 68318, 0, 0)
+
+Record index: 205
+Record ID: 931
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (931, 67529, 68319, 0, 0)
+
+Record index: 206
+Record ID: 932
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (932, 67537, 68320, 0, 0)
+
+Record index: 207
+Record ID: 941
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (941, 66149, 68396, 0, 0)
+
+Record index: 209
+Record ID: 981
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (981, 4294967295, 4294967295, 0, 0)
+
+Record index: 210
+Record ID: 1021
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1021, 68508, 68512, 0, 0)
+
+Record index: 222
+Record ID: 1221
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1221, 66529, 68825, 0, 0)
+
+Record index: 223
+Record ID: 1222
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1222, 67034, 68826, 0, 0)
+
+Record index: 224
+Record ID: 1223
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1223, 66456, 68827, 0, 0)
+
+Record index: 225
+Record ID: 1224
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1224, 67200, 68829, 0, 0)
+
+Record index: 226
+Record ID: 1225
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1225, 66183, 68831, 0, 0)
+
+Record index: 227
+Record ID: 1226
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1226, 66186, 68832, 0, 0)
+
+Record index: 228
+Record ID: 1242
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1242, 18392, 68926, 0, 0)
+
+Record index: 229
+Record ID: 1261
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1261, 68960, 68963, 0, 0)
+
+Record index: 230
+Record ID: 1262
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1262, 68959, 68964, 0, 0)
+
+Record index: 231
+Record ID: 1263
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1263, 20203, 68969, 0, 0)
+
+Record index: 232
+Record ID: 1264
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1264, 18435, 68970, 0, 0)
+
+Record index: 233
+Record ID: 1281
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1281, 68858, 69047, 0, 0)
+
+Record index: 234
+Record ID: 1282
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1282, 68921, 69049, 0, 0)
+
+Record index: 235
+Record ID: 1283
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1283, 68793, 69050, 0, 0)
+
+Record index: 236
+Record ID: 1301
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1301, 68867, 69286, 0, 0)
+
+Record index: 237
+Record ID: 1302
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1302, 18500, 69293, 0, 0)
+
+Record index: 238
+Record ID: 1303
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1303, 17731, 69294, 0, 0)
+
+Record index: 239
+Record ID: 1321
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1321, 18958, 69308, 0, 0)
+
+Record index: 240
+Record ID: 1341
+Hits: [{'field_index': 4, 'value': 0}]
+Raw DWORDs: (1341, 48165, 69406, 69416, 0)
+
+Record index: 241
+Record ID: 1361
+Hits: [{'field_index': 4, 'value': 0}]
+Raw DWORDs: (1361, 66109, 69420, 69427, 0)
+
+Record index: 242
+Record ID: 1421
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1421, 66518, 69495, 0, 0)
+
+Record index: 243
+Record ID: 1422
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1422, 67797, 69502, 0, 0)
+
+Record index: 244
+Record ID: 1441
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1441, 67461, 69505, 0, 0)
+
+Record index: 245
+Record ID: 1461
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1461, 67195, 69515, 0, 0)
+
+Record index: 246
+Record ID: 1501
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1501, 69155, 69627, 0, 0)
+
+Record index: 247
+Record ID: 1502
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1502, 69238, 69628, 0, 0)
+
+Record index: 248
+Record ID: 1503
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1503, 69167, 69629, 0, 0)
+
+Record index: 249
+Record ID: 1521
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1521, 69245, 69645, 0, 0)
+
+Record index: 250
+Record ID: 1522
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1522, 69233, 69646, 0, 0)
+
+Record index: 254
+Record ID: 1581
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1581, 70169, 70180, 0, 0)
+
+Record index: 255
+Record ID: 1582
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1582, 70176, 70181, 0, 0)
+
+Record index: 256
+Record ID: 1583
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1583, 70080, 70182, 0, 0)
+
+Record index: 257
+Record ID: 1584
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1584, 70144, 70183, 0, 0)
+
+Record index: 258
+Record ID: 1585
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1585, 70145, 70184, 0, 0)
+
+Record index: 259
+Record ID: 1601
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1601, 69642, 70204, 0, 0)
+
+Record index: 260
+Record ID: 1602
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1602, 69564, 70205, 0, 0)
+
+Record index: 261
+Record ID: 1603
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1603, 69080, 70206, 0, 0)
+
+Record index: 262
+Record ID: 1604
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1604, 69069, 70207, 0, 0)
+
+Record index: 263
+Record ID: 1605
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1605, 69068, 70208, 0, 0)
+
+Record index: 264
+Record ID: 1606
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1606, 69060, 70209, 0, 0)
+
+Record index: 265
+Record ID: 1607
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1607, 69148, 70210, 0, 0)
+
+Record index: 266
+Record ID: 1608
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1608, 69088, 70211, 0, 0)
+
+Record index: 267
+Record ID: 1609
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1609, 68895, 70212, 0, 0)
+
+Record index: 268
+Record ID: 1610
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1610, 69066, 70213, 0, 0)
+
+Record index: 269
+Record ID: 1641
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1641, 69578, 70269, 0, 0)
+
+Record index: 270
+Record ID: 1642
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1642, 69577, 70270, 0, 0)
+
+Record index: 271
+Record ID: 1643
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1643, 69504, 70271, 0, 0)
+
+Record index: 272
+Record ID: 1644
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1644, 69527, 70272, 0, 0)
+
+Record index: 273
+Record ID: 1645
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1645, 69581, 70273, 0, 0)
+
+Record index: 274
+Record ID: 1646
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1646, 69520, 70275, 0, 0)
+
+Record index: 275
+Record ID: 1647
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1647, 69574, 70276, 0, 0)
+
+Record index: 276
+Record ID: 1648
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1648, 69573, 70277, 0, 0)
+
+Record index: 277
+Record ID: 1649
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1649, 70278, 70279, 0, 0)
+
+Record index: 278
+Record ID: 1650
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1650, 69572, 70280, 0, 0)
+
+Record index: 279
+Record ID: 1651
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1651, 69528, 70281, 0, 0)
+
+Record index: 280
+Record ID: 1652
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1652, 69583, 70282, 0, 0)
+
+Record index: 281
+Record ID: 1653
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1653, 69586, 70283, 0, 0)
+
+Record index: 282
+Record ID: 1654
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1654, 69585, 70284, 0, 0)
+
+Record index: 283
+Record ID: 1655
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1655, 69603, 70285, 0, 0)
+
+Record index: 284
+Record ID: 1656
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1656, 69604, 70286, 0, 0)
+
+Record index: 285
+Record ID: 1661
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1661, 68982, 70322, 0, 0)
+
+Record index: 286
+Record ID: 1662
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1662, 68863, 70323, 0, 0)
+
+Record index: 287
+Record ID: 1663
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1663, 68873, 70324, 0, 0)
+
+Record index: 288
+Record ID: 1681
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1681, 68778, 70333, 0, 0)
+
+Record index: 289
+Record ID: 1682
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1682, 68774, 70334, 0, 0)
+
+Record index: 290
+Record ID: 1683
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1683, 68785, 70335, 0, 0)
+
+Record index: 291
+Record ID: 1684
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1684, 68786, 70336, 0, 0)
+
+Record index: 292
+Record ID: 1701
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1701, 70380, 70384, 0, 0)
+
+Record index: 293
+Record ID: 1721
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1721, 70386, 70387, 0, 0)
+
+Record index: 294
+Record ID: 1741
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1741, 69199, 70398, 0, 0)
+
+Record index: 295
+Record ID: 1742
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1742, 69184, 70399, 0, 0)
+
+Record index: 296
+Record ID: 1743
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1743, 69933, 70400, 0, 0)
+
+Record index: 297
+Record ID: 1761
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1761, 69019, 70433, 0, 0)
+
+Record index: 298
+Record ID: 1762
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1762, 68989, 70434, 0, 0)
+
+Record index: 299
+Record ID: 1763
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1763, 69024, 70436, 0, 0)
+
+Record index: 301
+Record ID: 1801
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1801, 69055, 70814, 0, 0)
+
+Record index: 304
+Record ID: 1823
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1823, 69425, 70827, 0, 0)
+
+Record index: 306
+Record ID: 1861
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1861, 69029, 70850, 0, 0)
+
+Record index: 307
+Record ID: 1862
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1862, 68789, 70851, 0, 0)
+
+Record index: 313
+Record ID: 1901
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1901, 71089, 71090, 0, 0)
+
+Record index: 314
+Record ID: 1922
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1922, 69355, 71106, 0, 0)
+
+Record index: 315
+Record ID: 1923
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1923, 69389, 71107, 0, 0)
+
+Record index: 316
+Record ID: 1924
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1924, 69576, 71108, 0, 0)
+
+Record index: 317
+Record ID: 1925
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1925, 71110, 71111, 0, 0)
+
+Record index: 318
+Record ID: 1926
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1926, 69404, 71112, 0, 0)
+
+Record index: 319
+Record ID: 1927
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1927, 71114, 71115, 0, 0)
+
+Record index: 320
+Record ID: 1928
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1928, 69989, 71116, 0, 0)
+
+Record index: 321
+Record ID: 1929
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1929, 69927, 71117, 0, 0)
+
+Record index: 322
+Record ID: 1930
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1930, 70362, 71118, 0, 0)
+
+Record index: 323
+Record ID: 1931
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1931, 69911, 71119, 0, 0)
+
+Record index: 324
+Record ID: 1932
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1932, 69923, 71120, 0, 0)
+
+Record index: 325
+Record ID: 1933
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1933, 69899, 71121, 0, 0)
+
+Record index: 326
+Record ID: 1934
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1934, 69930, 71122, 0, 0)
+
+Record index: 327
+Record ID: 1935
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1935, 69969, 71124, 0, 0)
+
+Record index: 328
+Record ID: 1936
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1936, 70395, 71125, 0, 0)
+
+Record index: 329
+Record ID: 1937
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1937, 69975, 71126, 0, 0)
+
+Record index: 330
+Record ID: 1938
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1938, 69921, 71128, 0, 0)
+
+Record index: 331
+Record ID: 1939
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1939, 69917, 71129, 0, 0)
+
+Record index: 332
+Record ID: 1940
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1940, 69869, 71130, 0, 0)
+
+Record index: 333
+Record ID: 1941
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1941, 69963, 71131, 0, 0)
+
+Record index: 334
+Record ID: 1942
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1942, 69958, 71133, 0, 0)
+
+Record index: 335
+Record ID: 1943
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1943, 69934, 71134, 0, 0)
+
+Record index: 336
+Record ID: 1944
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1944, 69973, 71135, 0, 0)
+
+Record index: 337
+Record ID: 1945
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1945, 69970, 71136, 0, 0)
+
+Record index: 338
+Record ID: 1946
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1946, 69905, 71137, 0, 0)
+
+Record index: 339
+Record ID: 1947
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1947, 69906, 71138, 0, 0)
+
+Record index: 340
+Record ID: 1948
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1948, 69882, 71141, 0, 0)
+
+Record index: 341
+Record ID: 1949
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1949, 69898, 71142, 0, 0)
+
+Record index: 342
+Record ID: 1950
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1950, 69972, 71143, 0, 0)
+
+Record index: 343
+Record ID: 1951
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1951, 69974, 71144, 0, 0)
+
+Record index: 344
+Record ID: 1952
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1952, 69920, 71145, 0, 0)
+
+Record index: 345
+Record ID: 1953
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1953, 69967, 71146, 0, 0)
+
+Record index: 346
+Record ID: 1954
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1954, 69965, 71147, 0, 0)
+
+Record index: 347
+Record ID: 1955
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1955, 69968, 71148, 0, 0)
+
+Record index: 348
+Record ID: 1956
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1956, 70408, 72336, 0, 0)
+
+Record index: 349
+Record ID: 1957
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1957, 70407, 71151, 0, 0)
+
+Record index: 350
+Record ID: 1958
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1958, 70426, 71152, 0, 0)
+
+Record index: 351
+Record ID: 1959
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1959, 70409, 71153, 0, 0)
+
+Record index: 352
+Record ID: 1960
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1960, 70435, 71154, 0, 0)
+
+Record index: 353
+Record ID: 1961
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1961, 70449, 71155, 0, 0)
+
+Record index: 354
+Record ID: 1962
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1962, 71160, 71161, 0, 0)
+
+Record index: 355
+Record ID: 1981
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1981, 69778, 71208, 0, 0)
+
+Record index: 363
+Record ID: 1989
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (1989, 69278, 71221, 0, 0)
+
+Record index: 368
+Record ID: 2004
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2004, 71286, 71292, 0, 0)
+
+Record index: 369
+Record ID: 2005
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2005, 71296, 71297, 0, 0)
+
+Record index: 370
+Record ID: 2006
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2006, 71299, 71300, 0, 0)
+
+Record index: 371
+Record ID: 2021
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2021, 71316, 71317, 0, 0)
+
+Record index: 372
+Record ID: 2041
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2041, 71323, 71324, 0, 0)
+
+Record index: 373
+Record ID: 2042
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2042, 71330, 71331, 0, 0)
+
+Record index: 374
+Record ID: 2043
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2043, 71337, 71338, 0, 0)
+
+Record index: 375
+Record ID: 2061
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2061, 71361, 71362, 0, 0)
+
+Record index: 376
+Record ID: 2062
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2062, 71369, 71370, 0, 0)
+
+Record index: 377
+Record ID: 2063
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2063, 71377, 71378, 0, 0)
+
+Record index: 378
+Record ID: 2064
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2064, 71380, 71381, 0, 0)
+
+Record index: 379
+Record ID: 2081
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2081, 71468, 71469, 0, 0)
+
+Record index: 381
+Record ID: 2083
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2083, 70877, 71474, 0, 0)
+
+Record index: 386
+Record ID: 2090
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2090, 71546, 71547, 0, 0)
+
+Record index: 390
+Record ID: 2094
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2094, 69325, 71730, 0, 0)
+
+Record index: 394
+Record ID: 2098
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2098, 71737, 71740, 0, 0)
+
+Record index: 395
+Record ID: 2099
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2099, 71179, 71741, 0, 0)
+
+Record index: 398
+Record ID: 2102
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2102, 70704, 71747, 0, 0)
+
+Record index: 400
+Record ID: 2104
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2104, 71778, 71779, 0, 0)
+
+Record index: 401
+Record ID: 2105
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2105, 71780, 71781, 0, 0)
+
+Record index: 402
+Record ID: 2106
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2106, 71782, 71783, 0, 0)
+
+Record index: 403
+Record ID: 2107
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2107, 71788, 71789, 0, 0)
+
+Record index: 404
+Record ID: 2108
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2108, 71356, 71803, 0, 0)
+
+Record index: 406
+Record ID: 2110
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2110, 71271, 71829, 0, 0)
+
+Record index: 409
+Record ID: 2114
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2114, 71307, 71908, 0, 0)
+
+Record index: 410
+Record ID: 2115
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2115, 69166, 71912, 0, 0)
+
+Record index: 411
+Record ID: 2116
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2116, 71906, 71942, 0, 0)
+
+Record index: 420
+Record ID: 2127
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2127, 72091, 72095, 0, 0)
+
+Record index: 421
+Record ID: 2128
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2128, 72034, 72096, 0, 0)
+
+Record index: 422
+Record ID: 2129
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2129, 72082, 72097, 0, 0)
+
+Record index: 423
+Record ID: 2130
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2130, 72004, 72098, 0, 0)
+
+Record index: 425
+Record ID: 2132
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2132, 72090, 72104, 0, 0)
+
+Record index: 427
+Record ID: 2134
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2134, 72120, 72121, 0, 0)
+
+Record index: 428
+Record ID: 2135
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2135, 72123, 72124, 0, 0)
+
+Record index: 429
+Record ID: 2136
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2136, 72111, 72125, 0, 0)
+
+Record index: 431
+Record ID: 2138
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2138, 72155, 72162, 0, 0)
+
+Record index: 432
+Record ID: 2139
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2139, 72163, 72164, 0, 0)
+
+Record index: 433
+Record ID: 2140
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2140, 72166, 72167, 0, 0)
+
+Record index: 434
+Record ID: 2141
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2141, 72169, 72170, 0, 0)
+
+Record index: 435
+Record ID: 2142
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2142, 72194, 72196, 0, 0)
+
+Record index: 437
+Record ID: 2144
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2144, 72208, 72211, 0, 0)
+
+Record index: 440
+Record ID: 2147
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2147, 71927, 72258, 0, 0)
+
+Record index: 442
+Record ID: 2149
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2149, 72268, 72269, 0, 0)
+
+Record index: 443
+Record ID: 2150
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2150, 72270, 72271, 0, 0)
+
+Record index: 444
+Record ID: 2151
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2151, 72272, 72273, 0, 0)
+
+Record index: 445
+Record ID: 2152
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2152, 72276, 72277, 0, 0)
+
+Record index: 447
+Record ID: 2154
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2154, 72285, 72288, 0, 0)
+
+Record index: 450
+Record ID: 2157
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2157, 72318, 72319, 0, 0)
+
+Record index: 451
+Record ID: 2158
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2158, 72320, 72323, 0, 0)
+
+Record index: 452
+Record ID: 2159
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2159, 72322, 72324, 0, 0)
+
+Record index: 453
+Record ID: 2160
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2160, 72326, 72327, 0, 0)
+
+Record index: 454
+Record ID: 2161
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2161, 72329, 72330, 0, 0)
+
+Record index: 455
+Record ID: 2162
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2162, 72333, 72334, 0, 0)
+
+Record index: 456
+Record ID: 2163
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2163, 72344, 72345, 0, 0)
+
+Record index: 457
+Record ID: 2164
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2164, 72368, 72369, 0, 0)
+
+Record index: 458
+Record ID: 2165
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2165, 72057, 72421, 0, 0)
+
+Record index: 459
+Record ID: 2167
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2167, 72360, 72434, 0, 0)
+
+Record index: 460
+Record ID: 2168
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2168, 72363, 72436, 0, 0)
+
+Record index: 465
+Record ID: 2173
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2173, 72383, 72450, 0, 0)
+
+Record index: 466
+Record ID: 2174
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2174, 72435, 72452, 0, 0)
+
+Record index: 467
+Record ID: 2175
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2175, 72422, 72453, 0, 0)
+
+Record index: 474
+Record ID: 2182
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2182, 71603, 72461, 0, 0)
+
+Record index: 484
+Record ID: 2192
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2192, 70360, 72527, 0, 0)
+
+Record index: 491
+Record ID: 2202
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2202, 42636, 72559, 0, 0)
+
+Record index: 492
+Record ID: 2203
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2203, 45433, 72561, 0, 0)
+
+Record index: 495
+Record ID: 2212
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2212, 69490, 72629, 0, 0)
+
+Record index: 498
+Record ID: 2215
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2215, 70116, 72641, 0, 0)
+
+Record index: 499
+Record ID: 2216
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2216, 69903, 72645, 0, 0)
+
+Record index: 500
+Record ID: 2217
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2217, 72151, 72648, 0, 0)
+
+Record index: 501
+Record ID: 2218
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2218, 72649, 72650, 0, 0)
+
+Record index: 503
+Record ID: 2223
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2223, 72198, 72688, 0, 0)
+
+Record index: 520
+Record ID: 2248
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2248, 71266, 72890, 0, 0)
+
+Record index: 523
+Record ID: 2254
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2254, 70381, 72930, 0, 0)
+
+Record index: 524
+Record ID: 2258
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2258, 72960, 72961, 0, 0)
+
+Record index: 526
+Record ID: 2260
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2260, 70924, 73015, 0, 0)
+
+Record index: 528
+Record ID: 2263
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2263, 69900, 73046, 0, 0)
+
+Record index: 529
+Record ID: 2264
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2264, 72378, 73058, 0, 0)
+
+Record index: 531
+Record ID: 2266
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2266, 69222, 73076, 0, 0)
+
+Record index: 532
+Record ID: 2268
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2268, 70953, 73117, 0, 0)
+
+Record index: 550
+Record ID: 2290
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2290, 70352, 74118, 0, 0)
+
+Record index: 551
+Record ID: 2291
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2291, 70353, 74119, 0, 0)
+
+Record index: 560
+Record ID: 2301
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2301, 74392, 74393, 0, 0)
+
+Record index: 561
+Record ID: 2302
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2302, 74394, 74395, 0, 0)
+
+Record index: 562
+Record ID: 2303
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2303, 74403, 74404, 0, 0)
+
+Record index: 564
+Record ID: 2310
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2310, 75330, 75331, 0, 0)
+
+Record index: 565
+Record ID: 2311
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2311, 75417, 75418, 0, 0)
+
+Record index: 566
+Record ID: 2312
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2312, 75412, 75419, 0, 0)
+
+Record index: 568
+Record ID: 2319
+Hits: [{'field_index': 2, 'value': 0}, {'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2319, 74799, 0, 0, 0)
+
+Record index: 572
+Record ID: 2323
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2323, 75886, 75887, 0, 0)
+
+Record index: 573
+Record ID: 2324
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2324, 75888, 75889, 0, 0)
+
+Record index: 577
+Record ID: 2330
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2330, 71440, 76379, 0, 0)
+
+Record index: 578
+Record ID: 2331
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2331, 71372, 76706, 0, 0)
+
+Record index: 580
+Record ID: 2401
+Hits: [{'field_index': 3, 'value': 0}, {'field_index': 4, 'value': 0}]
+Raw DWORDs: (2401, 78723, 78724, 0, 0)
+
+==============================================================================
+SKIPPED DBC FILES
+==============================================================================
+
+Skipped: 4
+
+CharBaseInfo.dbc: record_size 2 is not divisible by 4
+CharVariations.dbc: file is smaller than WDBC header
+PowerDisplay.dbc: record_size 15 is not divisible by 4
+SpellChainEffects.dbc: record_size 177 is not divisible by 4
+
+==============================================================================
+END OF AUDIT
+==============================================================================
