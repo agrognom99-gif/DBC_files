@@ -1,0 +1,454 @@
+====================================================================================================
+Spell.dbc FULL DUMP — Spell 63400
+====================================================================================================
+
+DBC path       : E:\Games\WoW_3.3.5_12340\dbc\Spell.dbc
+Record count   : 49839
+Field count    : 234
+Record size    : 936
+String block   : 2317797
+
+====================================================================================================
+ALL 234 FIELDS
+====================================================================================================
+[000] Id                                  uint=63400        int=63400        hex=0x0000F7A8
+[001] Category                            uint=0            int=0            hex=0x00000000
+[002] Dispel                              uint=0            int=0            hex=0x00000000
+[003] Mechanic                            uint=0            int=0            hex=0x00000000
+[004] Attributes                          uint=192          int=192          hex=0x000000C0
+[005] AttributesEx                        uint=0            int=0            hex=0x00000000
+[006] AttributesEx2                       uint=0            int=0            hex=0x00000000
+[007] AttributesEx3                       uint=0            int=0            hex=0x00000000
+[008] AttributesEx4                       uint=0            int=0            hex=0x00000000
+[009] AttributesEx5                       uint=0            int=0            hex=0x00000000
+[010] AttributesEx6                       uint=0            int=0            hex=0x00000000
+[011] AttributesEx7                       uint=0            int=0            hex=0x00000000
+[012] Stances                             uint=0            int=0            hex=0x00000000
+[013] unk_320_2                           uint=0            int=0            hex=0x00000000
+[014] StancesNot                          uint=0            int=0            hex=0x00000000
+[015] unk_320_3                           uint=0            int=0            hex=0x00000000
+[016] Targets                             uint=0            int=0            hex=0x00000000
+[017] TargetCreatureType                  uint=0            int=0            hex=0x00000000
+[018] requiresSpellFocus                  uint=0            int=0            hex=0x00000000
+[019] FacingCasterFlags                   uint=0            int=0            hex=0x00000000
+[020] CasterAuraState                     uint=0            int=0            hex=0x00000000
+[021] TargetAuraState                     uint=0            int=0            hex=0x00000000
+[022] CasterAuraStateNot                  uint=0            int=0            hex=0x00000000
+[023] TargetAuraStateNot                  uint=0            int=0            hex=0x00000000
+[024] casterAuraSpell                     uint=0            int=0            hex=0x00000000
+[025] targetAuraSpell                     uint=0            int=0            hex=0x00000000
+[026] excludeCasterAuraSpell              uint=0            int=0            hex=0x00000000
+[027] excludeTargetAuraSpell              uint=0            int=0            hex=0x00000000
+[028] CastingTimeIndex                    uint=1            int=1            hex=0x00000001
+[029] RecoveryTime                        uint=0            int=0            hex=0x00000000
+[030] CategoryRecoveryTime                uint=0            int=0            hex=0x00000000
+[031] InterruptFlags                      uint=0            int=0            hex=0x00000000
+[032] AuraInterruptFlags                  uint=0            int=0            hex=0x00000000
+[033] ChannelInterruptFlags               uint=0            int=0            hex=0x00000000
+[034] procFlags                           uint=0            int=0            hex=0x00000000
+[035] procChance                          uint=101          int=101          hex=0x00000065
+[036] procCharges                         uint=0            int=0            hex=0x00000000
+[037] maxLevel                            uint=0            int=0            hex=0x00000000
+[038] baseLevel                           uint=0            int=0            hex=0x00000000
+[039] spellLevel                          uint=0            int=0            hex=0x00000000
+[040] DurationIndex                       uint=0            int=0            hex=0x00000000
+[041] powerType                           uint=0            int=0            hex=0x00000000
+[042] manaCost                            uint=0            int=0            hex=0x00000000
+[043] manaCostPerlevel                    uint=0            int=0            hex=0x00000000
+[044] manaPerSecond                       uint=0            int=0            hex=0x00000000
+[045] manaPerSecondPerLevel               uint=0            int=0            hex=0x00000000
+[046] rangeIndex                          uint=1            int=1            hex=0x00000001
+[047] speed                               uint=0            int=0            hex=0x00000000
+[048] modalNextSpell                      uint=0            int=0            hex=0x00000000
+[049] StackAmount                         uint=0            int=0            hex=0x00000000
+[050] Totem1                              uint=0            int=0            hex=0x00000000
+[051] Totem2                              uint=0            int=0            hex=0x00000000
+[052] Reagent1                            uint=0            int=0            hex=0x00000000
+[053] Reagent2                            uint=0            int=0            hex=0x00000000
+[054] Reagent3                            uint=0            int=0            hex=0x00000000
+[055] Reagent4                            uint=0            int=0            hex=0x00000000
+[056] Reagent5                            uint=0            int=0            hex=0x00000000
+[057] Reagent6                            uint=0            int=0            hex=0x00000000
+[058] Reagent7                            uint=0            int=0            hex=0x00000000
+[059] Reagent8                            uint=0            int=0            hex=0x00000000
+[060] ReagentCount1                       uint=0            int=0            hex=0x00000000
+[061] ReagentCount2                       uint=0            int=0            hex=0x00000000
+[062] ReagentCount3                       uint=0            int=0            hex=0x00000000
+[063] ReagentCount4                       uint=0            int=0            hex=0x00000000
+[064] ReagentCount5                       uint=0            int=0            hex=0x00000000
+[065] ReagentCount6                       uint=0            int=0            hex=0x00000000
+[066] ReagentCount7                       uint=0            int=0            hex=0x00000000
+[067] ReagentCount8                       uint=0            int=0            hex=0x00000000
+[068] EquippedItemClass                   uint=4294967295   int=-1           hex=0xFFFFFFFF
+[069] EquippedItemSubClassMask            uint=0            int=0            hex=0x00000000
+[070] EquippedItemInventoryTypeMask       uint=0            int=0            hex=0x00000000
+[071] Effect1                             uint=6            int=6            hex=0x00000006
+[072] Effect2                             uint=0            int=0            hex=0x00000000
+[073] Effect3                             uint=0            int=0            hex=0x00000000
+[074] EffectDieSides1                     uint=1            int=1            hex=0x00000001
+[075] EffectDieSides2                     uint=1            int=1            hex=0x00000001
+[076] EffectDieSides3                     uint=0            int=0            hex=0x00000000
+[077] EffectRealPointsPerLevel1           uint=0            int=0            hex=0x00000000
+[078] EffectRealPointsPerLevel2           uint=0            int=0            hex=0x00000000
+[079] EffectRealPointsPerLevel3           uint=0            int=0            hex=0x00000000
+[080] EffectBasePoints1                   uint=12           int=12           hex=0x0000000C
+[081] EffectBasePoints2                   uint=4294967295   int=-1           hex=0xFFFFFFFF
+[082] EffectBasePoints3                   uint=0            int=0            hex=0x00000000
+[083] EffectMechanic1                     uint=0            int=0            hex=0x00000000
+[084] EffectMechanic2                     uint=0            int=0            hex=0x00000000
+[085] EffectMechanic3                     uint=0            int=0            hex=0x00000000
+[086] EffectImplicitTargetA1              uint=1            int=1            hex=0x00000001
+[087] EffectImplicitTargetA2              uint=1            int=1            hex=0x00000001
+[088] EffectImplicitTargetA3              uint=0            int=0            hex=0x00000000
+[089] EffectImplicitTargetB1              uint=0            int=0            hex=0x00000000
+[090] EffectImplicitTargetB2              uint=0            int=0            hex=0x00000000
+[091] EffectImplicitTargetB3              uint=0            int=0            hex=0x00000000
+[092] EffectRadiusIndex1                  uint=0            int=0            hex=0x00000000
+[093] EffectRadiusIndex2                  uint=0            int=0            hex=0x00000000
+[094] EffectRadiusIndex3                  uint=0            int=0            hex=0x00000000
+[095] EffectApplyAuraName1                uint=80           int=80           hex=0x00000050
+[096] EffectApplyAuraName2                uint=0            int=0            hex=0x00000000
+[097] EffectApplyAuraName3                uint=0            int=0            hex=0x00000000
+[098] EffectAmplitude1                    uint=0            int=0            hex=0x00000000
+[099] EffectAmplitude2                    uint=0            int=0            hex=0x00000000
+[100] EffectAmplitude3                    uint=0            int=0            hex=0x00000000
+[101] EffectValueMultiplier1              uint=0            int=0            hex=0x00000000
+[102] EffectValueMultiplier2              uint=0            int=0            hex=0x00000000
+[103] EffectValueMultiplier3              uint=0            int=0            hex=0x00000000
+[104] EffectChainTarget1                  uint=0            int=0            hex=0x00000000
+[105] EffectChainTarget2                  uint=0            int=0            hex=0x00000000
+[106] EffectChainTarget3                  uint=0            int=0            hex=0x00000000
+[107] EffectItemType1                     uint=0            int=0            hex=0x00000000
+[108] EffectItemType2                     uint=0            int=0            hex=0x00000000
+[109] EffectItemType3                     uint=0            int=0            hex=0x00000000
+[110] EffectMiscValue1                    uint=4294967295   int=-1           hex=0xFFFFFFFF
+[111] EffectMiscValue2                    uint=0            int=0            hex=0x00000000
+[112] EffectMiscValue3                    uint=0            int=0            hex=0x00000000
+[113] EffectMiscValueB1                   uint=0            int=0            hex=0x00000000
+[114] EffectMiscValueB2                   uint=0            int=0            hex=0x00000000
+[115] EffectMiscValueB3                   uint=0            int=0            hex=0x00000000
+[116] EffectTriggerSpell1                 uint=0            int=0            hex=0x00000000
+[117] EffectTriggerSpell2                 uint=0            int=0            hex=0x00000000
+[118] EffectTriggerSpell3                 uint=0            int=0            hex=0x00000000
+[119] EffectPointsPerComboPoint1          uint=0            int=0            hex=0x00000000
+[120] EffectPointsPerComboPoint2          uint=0            int=0            hex=0x00000000
+[121] EffectPointsPerComboPoint3          uint=0            int=0            hex=0x00000000
+[122] EffectSpellClassMask1               uint=0            int=0            hex=0x00000000
+[123] EffectSpellClassMask2               uint=0            int=0            hex=0x00000000
+[124] EffectSpellClassMask3               uint=0            int=0            hex=0x00000000
+[125] EffectSpellClassMask4               uint=0            int=0            hex=0x00000000
+[126] EffectSpellClassMask5               uint=0            int=0            hex=0x00000000
+[127] EffectSpellClassMask6               uint=0            int=0            hex=0x00000000
+[128] EffectSpellClassMask7               uint=0            int=0            hex=0x00000000
+[129] EffectSpellClassMask8               uint=0            int=0            hex=0x00000000
+[130] EffectSpellClassMask9               uint=0            int=0            hex=0x00000000
+[131] SpellVisual1                        uint=0            int=0            hex=0x00000000
+[132] SpellVisual2                        uint=0            int=0            hex=0x00000000
+[133] SpellIconID                         uint=1            int=1            hex=0x00000001
+[134] activeIconID                        uint=0            int=0            hex=0x00000000
+[135] spellPriority                       uint=0            int=0            hex=0x00000000
+[136] SpellName_0                         offset=2036804    text='Shirt of Uber Rating Aura'
+[137] SpellName_1                         offset=0          text=''
+[138] SpellName_2                         offset=0          text=''
+[139] SpellName_3                         offset=0          text=''
+[140] SpellName_4                         offset=0          text=''
+[141] SpellName_5                         offset=0          text=''
+[142] SpellName_6                         offset=0          text=''
+[143] SpellName_7                         offset=0          text=''
+[144] SpellName_8                         offset=0          text=''
+[145] SpellName_9                         offset=0          text=''
+[146] SpellName_10                        offset=0          text=''
+[147] SpellName_11                        offset=0          text=''
+[148] SpellName_12                        offset=0          text=''
+[149] SpellName_13                        offset=0          text=''
+[150] SpellName_14                        offset=0          text=''
+[151] SpellName_15                        offset=0          text=''
+[152] SpellNameFlag                       offset=16712190   text='<INVALID OFFSET 16712190>'
+[153] Rank_0                              offset=0          text=''
+[154] Rank_1                              offset=0          text=''
+[155] Rank_2                              offset=0          text=''
+[156] Rank_3                              offset=0          text=''
+[157] Rank_4                              offset=0          text=''
+[158] Rank_5                              offset=0          text=''
+[159] Rank_6                              offset=0          text=''
+[160] Rank_7                              offset=0          text=''
+[161] Rank_8                              offset=0          text=''
+[162] Rank_9                              offset=0          text=''
+[163] Rank_10                             offset=0          text=''
+[164] Rank_11                             offset=0          text=''
+[165] Rank_12                             offset=0          text=''
+[166] Rank_13                             offset=0          text=''
+[167] Rank_14                             offset=0          text=''
+[168] Rank_15                             offset=0          text=''
+[169] RankFlags                           offset=16712188   text='<INVALID OFFSET 16712188>'
+[170] Description_0                       offset=2037294    text='Increases all statistics by 13%.'
+[171] Description_1                       offset=0          text=''
+[172] Description_2                       offset=0          text=''
+[173] Description_3                       offset=0          text=''
+[174] Description_4                       offset=0          text=''
+[175] Description_5                       offset=0          text=''
+[176] Description_6                       offset=0          text=''
+[177] Description_7                       offset=0          text=''
+[178] Description_8                       offset=0          text=''
+[179] Description_9                       offset=0          text=''
+[180] Description_10                      offset=0          text=''
+[181] Description_11                      offset=0          text=''
+[182] Description_12                      offset=0          text=''
+[183] Description_13                      offset=0          text=''
+[184] Description_14                      offset=0          text=''
+[185] Description_15                      offset=0          text=''
+[186] DescriptionFlags                    offset=16712190   text='<INVALID OFFSET 16712190>'
+[187] ToolTip_0                           offset=0          text=''
+[188] ToolTip_1                           offset=0          text=''
+[189] ToolTip_2                           offset=0          text=''
+[190] ToolTip_3                           offset=0          text=''
+[191] ToolTip_4                           offset=0          text=''
+[192] ToolTip_5                           offset=0          text=''
+[193] ToolTip_6                           offset=0          text=''
+[194] ToolTip_7                           offset=0          text=''
+[195] ToolTip_8                           offset=0          text=''
+[196] ToolTip_9                           offset=0          text=''
+[197] ToolTip_10                          offset=0          text=''
+[198] ToolTip_11                          offset=0          text=''
+[199] ToolTip_12                          offset=0          text=''
+[200] ToolTip_13                          offset=0          text=''
+[201] ToolTip_14                          offset=0          text=''
+[202] ToolTip_15                          offset=0          text=''
+[203] ToolTipFlags                        uint=16712188     int=16712188     hex=0x00FF01FC
+[204] ManaCostPercentage                  uint=0            int=0            hex=0x00000000
+[205] StartRecoveryCategory               uint=0            int=0            hex=0x00000000
+[206] StartRecoveryTime                   uint=0            int=0            hex=0x00000000
+[207] MaxTargetLevel                      uint=0            int=0            hex=0x00000000
+[208] SpellFamilyName                     uint=0            int=0            hex=0x00000000
+[209] SpellFamilyFlagsLow                 uint=0            int=0            hex=0x00000000
+[210] SpellFamilyFlagsHigh                uint=0            int=0            hex=0x00000000
+[211] SpellFamilyFlags2                   uint=0            int=0            hex=0x00000000
+[212] MaxAffectedTargets                  uint=0            int=0            hex=0x00000000
+[213] DmgClass                            uint=0            int=0            hex=0x00000000
+[214] PreventionType                      uint=0            int=0            hex=0x00000000
+[215] StanceBarOrder                      uint=0            int=0            hex=0x00000000
+[216] EffectDamageMultiplier1             raw=0x3F800000 float=1
+[217] EffectDamageMultiplier2             raw=0x3F800000 float=1
+[218] EffectDamageMultiplier3             raw=0x3F800000 float=1
+[219] MinFactionId                        uint=0            int=0            hex=0x00000000
+[220] MinReputation                       uint=0            int=0            hex=0x00000000
+[221] RequiredAuraVision                  uint=0            int=0            hex=0x00000000
+[222] TotemCategory1                      uint=0            int=0            hex=0x00000000
+[223] TotemCategory2                      uint=0            int=0            hex=0x00000000
+[224] AreaGroupId                         uint=0            int=0            hex=0x00000000
+[225] SchoolMask                          uint=1            int=1            hex=0x00000001
+[226] runeCostID                          uint=0            int=0            hex=0x00000000
+[227] spellMissileID                      uint=0            int=0            hex=0x00000000
+[228] PowerDisplayId                      uint=0            int=0            hex=0x00000000
+[229] EffectBonusMultiplier1              raw=0x00000000 float=0
+[230] EffectBonusMultiplier2              raw=0x00000000 float=0
+[231] EffectBonusMultiplier3              raw=0x00000000 float=0
+[232] spellDescriptionVariableID          uint=0            int=0            hex=0x00000000
+[233] SpellDifficultyId                   uint=0            int=0            hex=0x00000000
+
+====================================================================================================
+EFFECT SUMMARY
+====================================================================================================
+
+--- EFFECT 1 ---
+Effect               [071] = uint=6, int=6, hex=0x00000006
+BasePoints           [080] = uint=12, int=12, hex=0x0000000C
+Mechanic             [083] = uint=0, int=0, hex=0x00000000
+TargetA              [086] = uint=1, int=1, hex=0x00000001
+TargetB              [089] = uint=0, int=0, hex=0x00000000
+Radius               [092] = uint=0, int=0, hex=0x00000000
+ApplyAura            [095] = uint=80, int=80, hex=0x00000050
+Amplitude            [098] = uint=0, int=0, hex=0x00000000
+MultipleValue        [101] = uint=0, int=0, hex=0x00000000
+ChainTarget          [104] = uint=0, int=0, hex=0x00000000
+ItemType             [107] = uint=0, int=0, hex=0x00000000
+MiscValue            [110] = uint=4294967295, int=-1, hex=0xFFFFFFFF
+MiscValueB           [113] = uint=0, int=0, hex=0x00000000
+TriggerSpell         [116] = uint=0, int=0, hex=0x00000000
+
+--- EFFECT 2 ---
+Effect               [072] = uint=0, int=0, hex=0x00000000
+BasePoints           [081] = uint=4294967295, int=-1, hex=0xFFFFFFFF
+Mechanic             [084] = uint=0, int=0, hex=0x00000000
+TargetA              [087] = uint=1, int=1, hex=0x00000001
+TargetB              [090] = uint=0, int=0, hex=0x00000000
+Radius               [093] = uint=0, int=0, hex=0x00000000
+ApplyAura            [096] = uint=0, int=0, hex=0x00000000
+Amplitude            [099] = uint=0, int=0, hex=0x00000000
+MultipleValue        [102] = uint=0, int=0, hex=0x00000000
+ChainTarget          [105] = uint=0, int=0, hex=0x00000000
+ItemType             [108] = uint=0, int=0, hex=0x00000000
+MiscValue            [111] = uint=0, int=0, hex=0x00000000
+MiscValueB           [114] = uint=0, int=0, hex=0x00000000
+TriggerSpell         [117] = uint=0, int=0, hex=0x00000000
+
+--- EFFECT 3 ---
+Effect               [073] = uint=0, int=0, hex=0x00000000
+BasePoints           [082] = uint=0, int=0, hex=0x00000000
+Mechanic             [085] = uint=0, int=0, hex=0x00000000
+TargetA              [088] = uint=0, int=0, hex=0x00000000
+TargetB              [091] = uint=0, int=0, hex=0x00000000
+Radius               [094] = uint=0, int=0, hex=0x00000000
+ApplyAura            [097] = uint=0, int=0, hex=0x00000000
+Amplitude            [100] = uint=0, int=0, hex=0x00000000
+MultipleValue        [103] = uint=0, int=0, hex=0x00000000
+ChainTarget          [106] = uint=0, int=0, hex=0x00000000
+ItemType             [109] = uint=0, int=0, hex=0x00000000
+MiscValue            [112] = uint=0, int=0, hex=0x00000000
+MiscValueB           [115] = uint=0, int=0, hex=0x00000000
+TriggerSpell         [118] = uint=0, int=0, hex=0x00000000
+
+====================================================================================================
+IMPORTANT SPELL FIELDS
+====================================================================================================
+[000] Id                                  uint=63400        int=63400        hex=0x0000F7A8
+[004] Attributes                          uint=192          int=192          hex=0x000000C0
+[005] AttributesEx                        uint=0            int=0            hex=0x00000000
+[006] AttributesEx2                       uint=0            int=0            hex=0x00000000
+[007] AttributesEx3                       uint=0            int=0            hex=0x00000000
+[008] AttributesEx4                       uint=0            int=0            hex=0x00000000
+[009] AttributesEx5                       uint=0            int=0            hex=0x00000000
+[010] AttributesEx6                       uint=0            int=0            hex=0x00000000
+[011] AttributesEx7                       uint=0            int=0            hex=0x00000000
+[016] Targets                             uint=0            int=0            hex=0x00000000
+[017] TargetCreatureType                  uint=0            int=0            hex=0x00000000
+[018] requiresSpellFocus                  uint=0            int=0            hex=0x00000000
+[019] FacingCasterFlags                   uint=0            int=0            hex=0x00000000
+[024] casterAuraSpell                     uint=0            int=0            hex=0x00000000
+[025] targetAuraSpell                     uint=0            int=0            hex=0x00000000
+[026] excludeCasterAuraSpell              uint=0            int=0            hex=0x00000000
+[027] excludeTargetAuraSpell              uint=0            int=0            hex=0x00000000
+[028] CastingTimeIndex                    uint=1            int=1            hex=0x00000001
+[029] RecoveryTime                        uint=0            int=0            hex=0x00000000
+[030] CategoryRecoveryTime                uint=0            int=0            hex=0x00000000
+[031] InterruptFlags                      uint=0            int=0            hex=0x00000000
+[032] AuraInterruptFlags                  uint=0            int=0            hex=0x00000000
+[033] ChannelInterruptFlags               uint=0            int=0            hex=0x00000000
+[034] procFlags                           uint=0            int=0            hex=0x00000000
+[035] procChance                          uint=101          int=101          hex=0x00000065
+[036] procCharges                         uint=0            int=0            hex=0x00000000
+[037] maxLevel                            uint=0            int=0            hex=0x00000000
+[038] baseLevel                           uint=0            int=0            hex=0x00000000
+[039] spellLevel                          uint=0            int=0            hex=0x00000000
+[040] DurationIndex                       uint=0            int=0            hex=0x00000000
+[041] powerType                           uint=0            int=0            hex=0x00000000
+[042] manaCost                            uint=0            int=0            hex=0x00000000
+[043] manaCostPerlevel                    uint=0            int=0            hex=0x00000000
+[044] manaPerSecond                       uint=0            int=0            hex=0x00000000
+[045] manaPerSecondPerLevel               uint=0            int=0            hex=0x00000000
+[046] rangeIndex                          uint=1            int=1            hex=0x00000001
+[047] speed                               uint=0            int=0            hex=0x00000000
+[048] modalNextSpell                      uint=0            int=0            hex=0x00000000
+[049] StackAmount                         uint=0            int=0            hex=0x00000000
+[050] Totem1                              uint=0            int=0            hex=0x00000000
+[051] Totem2                              uint=0            int=0            hex=0x00000000
+[052] Reagent1                            uint=0            int=0            hex=0x00000000
+[053] Reagent2                            uint=0            int=0            hex=0x00000000
+[054] Reagent3                            uint=0            int=0            hex=0x00000000
+[055] Reagent4                            uint=0            int=0            hex=0x00000000
+[056] Reagent5                            uint=0            int=0            hex=0x00000000
+[131] SpellVisual1                        uint=0            int=0            hex=0x00000000
+[132] SpellVisual2                        uint=0            int=0            hex=0x00000000
+[133] SpellIconID                         uint=1            int=1            hex=0x00000001
+[134] activeIconID                        uint=0            int=0            hex=0x00000000
+[135] spellPriority                       uint=0            int=0            hex=0x00000000
+[204] ManaCostPercentage                  uint=0            int=0            hex=0x00000000
+[205] StartRecoveryCategory               uint=0            int=0            hex=0x00000000
+[206] StartRecoveryTime                   uint=0            int=0            hex=0x00000000
+[207] MaxTargetLevel                      uint=0            int=0            hex=0x00000000
+[208] SpellFamilyName                     uint=0            int=0            hex=0x00000000
+[209] SpellFamilyFlagsLow                 uint=0            int=0            hex=0x00000000
+[210] SpellFamilyFlagsHigh                uint=0            int=0            hex=0x00000000
+[211] SpellFamilyFlags2                   uint=0            int=0            hex=0x00000000
+[212] MaxAffectedTargets                  uint=0            int=0            hex=0x00000000
+[213] DmgClass                            uint=0            int=0            hex=0x00000000
+[214] PreventionType                      uint=0            int=0            hex=0x00000000
+[215] StanceBarOrder                      uint=0            int=0            hex=0x00000000
+[219] MinFactionId                        uint=0            int=0            hex=0x00000000
+[220] MinReputation                       uint=0            int=0            hex=0x00000000
+[221] RequiredAuraVision                  uint=0            int=0            hex=0x00000000
+[222] TotemCategory1                      uint=0            int=0            hex=0x00000000
+[223] TotemCategory2                      uint=0            int=0            hex=0x00000000
+[224] AreaGroupId                         uint=0            int=0            hex=0x00000000
+[225] SchoolMask                          uint=1            int=1            hex=0x00000001
+[226] runeCostID                          uint=0            int=0            hex=0x00000000
+[227] spellMissileID                      uint=0            int=0            hex=0x00000000
+[228] PowerDisplayId                      uint=0            int=0            hex=0x00000000
+[232] spellDescriptionVariableID          uint=0            int=0            hex=0x00000000
+[233] SpellDifficultyId                   uint=0            int=0            hex=0x00000000
+
+====================================================================================================
+PRIMARY STRINGS
+====================================================================================================
+
+--- NAME ---
+[136] SpellName_0                    offset=2036804    text='Shirt of Uber Rating Aura'
+[137] SpellName_1                    offset=0          text=''
+[138] SpellName_2                    offset=0          text=''
+[139] SpellName_3                    offset=0          text=''
+[140] SpellName_4                    offset=0          text=''
+[141] SpellName_5                    offset=0          text=''
+[142] SpellName_6                    offset=0          text=''
+[143] SpellName_7                    offset=0          text=''
+[144] SpellName_8                    offset=0          text=''
+[145] SpellName_9                    offset=0          text=''
+[146] SpellName_10                   offset=0          text=''
+[147] SpellName_11                   offset=0          text=''
+[148] SpellName_12                   offset=0          text=''
+[149] SpellName_13                   offset=0          text=''
+[150] SpellName_14                   offset=0          text=''
+[151] SpellName_15                   offset=0          text=''
+
+--- RANK ---
+[153] Rank_0                         offset=0          text=''
+[154] Rank_1                         offset=0          text=''
+[155] Rank_2                         offset=0          text=''
+[156] Rank_3                         offset=0          text=''
+[157] Rank_4                         offset=0          text=''
+[158] Rank_5                         offset=0          text=''
+[159] Rank_6                         offset=0          text=''
+[160] Rank_7                         offset=0          text=''
+[161] Rank_8                         offset=0          text=''
+[162] Rank_9                         offset=0          text=''
+[163] Rank_10                        offset=0          text=''
+[164] Rank_11                        offset=0          text=''
+[165] Rank_12                        offset=0          text=''
+[166] Rank_13                        offset=0          text=''
+[167] Rank_14                        offset=0          text=''
+[168] Rank_15                        offset=0          text=''
+
+--- DESCRIPTION ---
+[170] Description_0                  offset=2037294    text='Increases all statistics by 13%.'
+[171] Description_1                  offset=0          text=''
+[172] Description_2                  offset=0          text=''
+[173] Description_3                  offset=0          text=''
+[174] Description_4                  offset=0          text=''
+[175] Description_5                  offset=0          text=''
+[176] Description_6                  offset=0          text=''
+[177] Description_7                  offset=0          text=''
+[178] Description_8                  offset=0          text=''
+[179] Description_9                  offset=0          text=''
+[180] Description_10                 offset=0          text=''
+[181] Description_11                 offset=0          text=''
+[182] Description_12                 offset=0          text=''
+[183] Description_13                 offset=0          text=''
+[184] Description_14                 offset=0          text=''
+[185] Description_15                 offset=0          text=''
+
+--- TOOLTIP ---
+[187] ToolTip_0                      offset=0          text=''
+[188] ToolTip_1                      offset=0          text=''
+[189] ToolTip_2                      offset=0          text=''
+[190] ToolTip_3                      offset=0          text=''
+[191] ToolTip_4                      offset=0          text=''
+[192] ToolTip_5                      offset=0          text=''
+[193] ToolTip_6                      offset=0          text=''
+[194] ToolTip_7                      offset=0          text=''
+[195] ToolTip_8                      offset=0          text=''
+[196] ToolTip_9                      offset=0          text=''
+[197] ToolTip_10                     offset=0          text=''
+[198] ToolTip_11                     offset=0          text=''
+[199] ToolTip_12                     offset=0          text=''
+[200] ToolTip_13                     offset=0          text=''
+[201] ToolTip_14                     offset=0          text=''
+[202] ToolTip_15                     offset=0          text=''
