@@ -1,0 +1,2456 @@
+================================================================================
+SPELL 16734
+================================================================================
+
+Attributes:   0 (0x00000000)
+attributes_ex: 0
+attributes_ex2: 0
+attributes_ex3: 464
+attributes_ex4: 0
+attributes_ex5: 0
+attributes_ex6: 0
+attributes_ex7: 0
+
+DurationIndex: 21
+SpellVisualID_1: 0
+SpellVisualID_2: 0
+SpellIconID: 98
+ActiveIconID: 0
+SpellClassSet: 0
+SpellClassMask: 0 / 0 / 0
+Field_213: 0
+ProcChance: 0
+ProcCharges: 0
+SchoolMask: 1
+
+--- EFFECT 1 ---
+Effect:             6
+BasePoints raw:     1
+BasePoints signed:  1
+ImplicitTargetA:    1
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         80
+Amplitude:          0
+MiscValue:          3 (signed 3)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+--- EFFECT 2 ---
+Effect:             0
+BasePoints raw:     0
+BasePoints signed:  0
+ImplicitTargetA:    0
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         0
+Amplitude:          0
+MiscValue:          0 (signed 0)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+--- EFFECT 3 ---
+Effect:             0
+BasePoints raw:     0
+BasePoints signed:  0
+ImplicitTargetA:    0
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         0
+Amplitude:          0
+MiscValue:          0 (signed 0)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+Active effects:      1
+MOD_PERCENT_STAT:    1
+Periodic triggers:   0
+
+Trigger spells: []
+
+--- RAW DWORD RECORD ---
+[000] ID                                  16734 0x0000415E
+[001] DWORD_1                                  0 0x00000000
+[002] DWORD_2                                  0 0x00000000
+[003] DWORD_3                                  0 0x00000000
+[004] DWORD_4                                464 0x000001D0
+[005] DWORD_5                                  0 0x00000000
+[006] DWORD_6                                  0 0x00000000
+[007] DWORD_7                                  0 0x00000000
+[008] DWORD_8                                  0 0x00000000
+[009] DWORD_9                                  0 0x00000000
+[010] DWORD_10                                 0 0x00000000
+[011] DWORD_11                                 0 0x00000000
+[012] DWORD_12                                 0 0x00000000
+[013] DWORD_13                                 0 0x00000000
+[014] DWORD_14                                 0 0x00000000
+[015] DWORD_15                                 0 0x00000000
+[016] DWORD_16                                 0 0x00000000
+[017] DWORD_17                                 0 0x00000000
+[018] DWORD_18                                 0 0x00000000
+[019] DWORD_19                                 0 0x00000000
+[020] DWORD_20                                 0 0x00000000
+[021] DWORD_21                                 0 0x00000000
+[022] DWORD_22                                 0 0x00000000
+[023] DWORD_23                                 0 0x00000000
+[024] DWORD_24                                 0 0x00000000
+[025] DWORD_25                                 0 0x00000000
+[026] DWORD_26                                 0 0x00000000
+[027] DWORD_27                                 0 0x00000000
+[028] DWORD_28                                 1 0x00000001
+[029] DWORD_29                                 0 0x00000000
+[030] DWORD_30                                 0 0x00000000
+[031] DWORD_31                                 0 0x00000000
+[032] DWORD_32                                 0 0x00000000
+[033] DWORD_33                                 0 0x00000000
+[034] DWORD_34                                 0 0x00000000
+[035] DWORD_35                               101 0x00000065
+[036] DWORD_36                                 0 0x00000000
+[037] DWORD_37                                 0 0x00000000
+[038] DWORD_38                                 0 0x00000000
+[039] DWORD_39                                 0 0x00000000
+[040] DurationIndex                          21 0x00000015
+[041] DWORD_41                                 0 0x00000000
+[042] DWORD_42                                 0 0x00000000
+[043] DWORD_43                                 0 0x00000000
+[044] DWORD_44                                 0 0x00000000
+[045] DWORD_45                                 0 0x00000000
+[046] DWORD_46                                 1 0x00000001
+[047] DWORD_47                                 0 0x00000000
+[048] DWORD_48                                 0 0x00000000
+[049] DWORD_49                                 0 0x00000000
+[050] DWORD_50                                 0 0x00000000
+[051] DWORD_51                                 0 0x00000000
+[052] DWORD_52                                 0 0x00000000
+[053] DWORD_53                                 0 0x00000000
+[054] DWORD_54                                 0 0x00000000
+[055] DWORD_55                                 0 0x00000000
+[056] DWORD_56                                 0 0x00000000
+[057] DWORD_57                                 0 0x00000000
+[058] DWORD_58                                 0 0x00000000
+[059] DWORD_59                                 0 0x00000000
+[060] DWORD_60                                 0 0x00000000
+[061] DWORD_61                                 0 0x00000000
+[062] DWORD_62                                 0 0x00000000
+[063] DWORD_63                                 0 0x00000000
+[064] DWORD_64                                 0 0x00000000
+[065] DWORD_65                                 0 0x00000000
+[066] DWORD_66                                 0 0x00000000
+[067] DWORD_67                                 0 0x00000000
+[068] DWORD_68                        4294967295 0xFFFFFFFF
+[069] DWORD_69                                 0 0x00000000
+[070] DWORD_70                                 0 0x00000000
+[071] Effect_1                                6 0x00000006
+[072] Effect_2                                0 0x00000000
+[073] Effect_3                                0 0x00000000
+[074] DWORD_74                                 1 0x00000001
+[075] DWORD_75                                 0 0x00000000
+[076] DWORD_76                                 0 0x00000000
+[077] DWORD_77                                 0 0x00000000
+[078] DWORD_78                                 0 0x00000000
+[079] DWORD_79                                 0 0x00000000
+[080] EffectBasePoints_1                      1 0x00000001
+[081] EffectBasePoints_2                      0 0x00000000
+[082] EffectBasePoints_3                      0 0x00000000
+[083] DWORD_83                                 0 0x00000000
+[084] DWORD_84                                 0 0x00000000
+[085] DWORD_85                                 0 0x00000000
+[086] ImplicitTargetA_1                       1 0x00000001
+[087] ImplicitTargetA_2                       0 0x00000000
+[088] ImplicitTargetA_3                       0 0x00000000
+[089] ImplicitTargetB_1                       0 0x00000000
+[090] ImplicitTargetB_2                       0 0x00000000
+[091] ImplicitTargetB_3                       0 0x00000000
+[092] EffectRadiusIndex_1                     0 0x00000000
+[093] EffectRadiusIndex_2                     0 0x00000000
+[094] EffectRadiusIndex_3                     0 0x00000000
+[095] EffectAura_1                           80 0x00000050
+[096] EffectAura_2                            0 0x00000000
+[097] EffectAura_3                            0 0x00000000
+[098] EffectAmplitude_1                       0 0x00000000
+[099] EffectAmplitude_2                       0 0x00000000
+[100] EffectAmplitude_3                       0 0x00000000
+[101] DWORD_101                                0 0x00000000
+[102] DWORD_102                                0 0x00000000
+[103] DWORD_103                                0 0x00000000
+[104] DWORD_104                                0 0x00000000
+[105] DWORD_105                                0 0x00000000
+[106] DWORD_106                                0 0x00000000
+[107] DWORD_107                                0 0x00000000
+[108] DWORD_108                                0 0x00000000
+[109] DWORD_109                                0 0x00000000
+[110] EffectMiscValue_1                       3 0x00000003
+[111] EffectMiscValue_2                       0 0x00000000
+[112] EffectMiscValue_3                       0 0x00000000
+[113] EffectMiscValueB_1                      0 0x00000000
+[114] EffectMiscValueB_2                      0 0x00000000
+[115] EffectMiscValueB_3                      0 0x00000000
+[116] EffectTriggerSpell_1                    0 0x00000000
+[117] EffectTriggerSpell_2                    0 0x00000000
+[118] EffectTriggerSpell_3                    0 0x00000000
+[119] DWORD_119                                0 0x00000000
+[120] DWORD_120                                0 0x00000000
+[121] DWORD_121                                0 0x00000000
+[122] DWORD_122                                0 0x00000000
+[123] DWORD_123                                0 0x00000000
+[124] DWORD_124                                0 0x00000000
+[125] DWORD_125                                0 0x00000000
+[126] DWORD_126                                0 0x00000000
+[127] DWORD_127                                0 0x00000000
+[128] DWORD_128                                0 0x00000000
+[129] DWORD_129                                0 0x00000000
+[130] DWORD_130                                0 0x00000000
+[131] SpellVisualID_1                         0 0x00000000
+[132] SpellVisualID_2                         0 0x00000000
+[133] SpellIconID                            98 0x00000062
+[134] ActiveIconID                            0 0x00000000
+[135] DWORD_135                                0 0x00000000
+[136] DWORD_136                           369135 0x0005A1EF
+[137] DWORD_137                                0 0x00000000
+[138] DWORD_138                                0 0x00000000
+[139] DWORD_139                                0 0x00000000
+[140] DWORD_140                                0 0x00000000
+[141] DWORD_141                                0 0x00000000
+[142] DWORD_142                                0 0x00000000
+[143] DWORD_143                                0 0x00000000
+[144] DWORD_144                                0 0x00000000
+[145] DWORD_145                                0 0x00000000
+[146] DWORD_146                                0 0x00000000
+[147] DWORD_147                                0 0x00000000
+[148] DWORD_148                                0 0x00000000
+[149] DWORD_149                                0 0x00000000
+[150] DWORD_150                                0 0x00000000
+[151] DWORD_151                                0 0x00000000
+[152] DWORD_152                         16712190 0x00FF01FE
+[153] DWORD_153                              228 0x000000E4
+[154] DWORD_154                                0 0x00000000
+[155] DWORD_155                                0 0x00000000
+[156] DWORD_156                                0 0x00000000
+[157] DWORD_157                                0 0x00000000
+[158] DWORD_158                                0 0x00000000
+[159] DWORD_159                                0 0x00000000
+[160] DWORD_160                                0 0x00000000
+[161] DWORD_161                                0 0x00000000
+[162] DWORD_162                                0 0x00000000
+[163] DWORD_163                                0 0x00000000
+[164] DWORD_164                                0 0x00000000
+[165] DWORD_165                                0 0x00000000
+[166] DWORD_166                                0 0x00000000
+[167] DWORD_167                                0 0x00000000
+[168] DWORD_168                                0 0x00000000
+[169] DWORD_169                         16712190 0x00FF01FE
+[170] DWORD_170                           369150 0x0005A1FE
+[171] DWORD_171                                0 0x00000000
+[172] DWORD_172                                0 0x00000000
+[173] DWORD_173                                0 0x00000000
+[174] DWORD_174                                0 0x00000000
+[175] DWORD_175                                0 0x00000000
+[176] DWORD_176                                0 0x00000000
+[177] DWORD_177                                0 0x00000000
+[178] DWORD_178                                0 0x00000000
+[179] DWORD_179                                0 0x00000000
+[180] DWORD_180                                0 0x00000000
+[181] DWORD_181                                0 0x00000000
+[182] DWORD_182                                0 0x00000000
+[183] DWORD_183                                0 0x00000000
+[184] DWORD_184                                0 0x00000000
+[185] DWORD_185                                0 0x00000000
+[186] DWORD_186                         16712190 0x00FF01FE
+[187] DWORD_187                                0 0x00000000
+[188] DWORD_188                                0 0x00000000
+[189] DWORD_189                                0 0x00000000
+[190] DWORD_190                                0 0x00000000
+[191] DWORD_191                                0 0x00000000
+[192] DWORD_192                                0 0x00000000
+[193] DWORD_193                                0 0x00000000
+[194] DWORD_194                                0 0x00000000
+[195] DWORD_195                                0 0x00000000
+[196] DWORD_196                                0 0x00000000
+[197] DWORD_197                                0 0x00000000
+[198] DWORD_198                                0 0x00000000
+[199] DWORD_199                                0 0x00000000
+[200] DWORD_200                                0 0x00000000
+[201] DWORD_201                                0 0x00000000
+[202] DWORD_202                                0 0x00000000
+[203] DWORD_203                         16712188 0x00FF01FC
+[204] DWORD_204                                0 0x00000000
+[205] DWORD_205                                0 0x00000000
+[206] DWORD_206                                0 0x00000000
+[207] SpellClassSet                           0 0x00000000
+[208] SpellClassMask_1                        0 0x00000000
+[209] SpellClassMask_2                        0 0x00000000
+[210] SpellClassMask_3                        0 0x00000000
+[211] DWORD_211                                0 0x00000000
+[212] DWORD_212                                0 0x00000000
+[213] Field_213                               0 0x00000000
+[214] ProcChance                              0 0x00000000
+[215] ProcCharges                             0 0x00000000
+[216] DWORD_216                       1065353216 0x3F800000
+[217] DWORD_217                                0 0x00000000
+[218] DWORD_218                                0 0x00000000
+[219] DWORD_219                                0 0x00000000
+[220] DWORD_220                                0 0x00000000
+[221] DWORD_221                                0 0x00000000
+[222] DWORD_222                                0 0x00000000
+[223] DWORD_223                                0 0x00000000
+[224] DWORD_224                                0 0x00000000
+[225] SchoolMask                              1 0x00000001
+[226] DWORD_226                                0 0x00000000
+[227] DWORD_227                                0 0x00000000
+[228] DWORD_228                                0 0x00000000
+[229] DWORD_229                       1065353216 0x3F800000
+[230] DWORD_230                       1065353216 0x3F800000
+[231] DWORD_231                       1065353216 0x3F800000
+[232] DWORD_232                                0 0x00000000
+[233] DWORD_233                                0 0x00000000
+
+
+================================================================================
+SPELL 16735
+================================================================================
+
+Attributes:   0 (0x00000000)
+attributes_ex: 0
+attributes_ex2: 0
+attributes_ex3: 464
+attributes_ex4: 0
+attributes_ex5: 0
+attributes_ex6: 0
+attributes_ex7: 0
+
+DurationIndex: 21
+SpellVisualID_1: 0
+SpellVisualID_2: 0
+SpellIconID: 98
+ActiveIconID: 0
+SpellClassSet: 0
+SpellClassMask: 0 / 0 / 0
+Field_213: 0
+ProcChance: 0
+ProcCharges: 0
+SchoolMask: 1
+
+--- EFFECT 1 ---
+Effect:             6
+BasePoints raw:     1
+BasePoints signed:  1
+ImplicitTargetA:    1
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         80
+Amplitude:          0
+MiscValue:          3 (signed 3)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+--- EFFECT 2 ---
+Effect:             0
+BasePoints raw:     0
+BasePoints signed:  0
+ImplicitTargetA:    0
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         0
+Amplitude:          0
+MiscValue:          0 (signed 0)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+--- EFFECT 3 ---
+Effect:             0
+BasePoints raw:     0
+BasePoints signed:  0
+ImplicitTargetA:    0
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         0
+Amplitude:          0
+MiscValue:          0 (signed 0)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+Active effects:      1
+MOD_PERCENT_STAT:    1
+Periodic triggers:   0
+
+Trigger spells: []
+
+--- RAW DWORD RECORD ---
+[000] ID                                  16735 0x0000415F
+[001] DWORD_1                                  0 0x00000000
+[002] DWORD_2                                  0 0x00000000
+[003] DWORD_3                                  0 0x00000000
+[004] DWORD_4                                464 0x000001D0
+[005] DWORD_5                                  0 0x00000000
+[006] DWORD_6                                  0 0x00000000
+[007] DWORD_7                                  0 0x00000000
+[008] DWORD_8                                  0 0x00000000
+[009] DWORD_9                                  0 0x00000000
+[010] DWORD_10                                 0 0x00000000
+[011] DWORD_11                                 0 0x00000000
+[012] DWORD_12                                 0 0x00000000
+[013] DWORD_13                                 0 0x00000000
+[014] DWORD_14                                 0 0x00000000
+[015] DWORD_15                                 0 0x00000000
+[016] DWORD_16                                 0 0x00000000
+[017] DWORD_17                                 0 0x00000000
+[018] DWORD_18                                 0 0x00000000
+[019] DWORD_19                                 0 0x00000000
+[020] DWORD_20                                 0 0x00000000
+[021] DWORD_21                                 0 0x00000000
+[022] DWORD_22                                 0 0x00000000
+[023] DWORD_23                                 0 0x00000000
+[024] DWORD_24                                 0 0x00000000
+[025] DWORD_25                                 0 0x00000000
+[026] DWORD_26                                 0 0x00000000
+[027] DWORD_27                                 0 0x00000000
+[028] DWORD_28                                 1 0x00000001
+[029] DWORD_29                                 0 0x00000000
+[030] DWORD_30                                 0 0x00000000
+[031] DWORD_31                                 0 0x00000000
+[032] DWORD_32                                 0 0x00000000
+[033] DWORD_33                                 0 0x00000000
+[034] DWORD_34                                 0 0x00000000
+[035] DWORD_35                               101 0x00000065
+[036] DWORD_36                                 0 0x00000000
+[037] DWORD_37                                 0 0x00000000
+[038] DWORD_38                                 0 0x00000000
+[039] DWORD_39                                 0 0x00000000
+[040] DurationIndex                          21 0x00000015
+[041] DWORD_41                                 0 0x00000000
+[042] DWORD_42                                 0 0x00000000
+[043] DWORD_43                                 0 0x00000000
+[044] DWORD_44                                 0 0x00000000
+[045] DWORD_45                                 0 0x00000000
+[046] DWORD_46                                 1 0x00000001
+[047] DWORD_47                                 0 0x00000000
+[048] DWORD_48                                 0 0x00000000
+[049] DWORD_49                                 0 0x00000000
+[050] DWORD_50                                 0 0x00000000
+[051] DWORD_51                                 0 0x00000000
+[052] DWORD_52                                 0 0x00000000
+[053] DWORD_53                                 0 0x00000000
+[054] DWORD_54                                 0 0x00000000
+[055] DWORD_55                                 0 0x00000000
+[056] DWORD_56                                 0 0x00000000
+[057] DWORD_57                                 0 0x00000000
+[058] DWORD_58                                 0 0x00000000
+[059] DWORD_59                                 0 0x00000000
+[060] DWORD_60                                 0 0x00000000
+[061] DWORD_61                                 0 0x00000000
+[062] DWORD_62                                 0 0x00000000
+[063] DWORD_63                                 0 0x00000000
+[064] DWORD_64                                 0 0x00000000
+[065] DWORD_65                                 0 0x00000000
+[066] DWORD_66                                 0 0x00000000
+[067] DWORD_67                                 0 0x00000000
+[068] DWORD_68                        4294967295 0xFFFFFFFF
+[069] DWORD_69                                 0 0x00000000
+[070] DWORD_70                                 0 0x00000000
+[071] Effect_1                                6 0x00000006
+[072] Effect_2                                0 0x00000000
+[073] Effect_3                                0 0x00000000
+[074] DWORD_74                                 1 0x00000001
+[075] DWORD_75                                 0 0x00000000
+[076] DWORD_76                                 0 0x00000000
+[077] DWORD_77                                 0 0x00000000
+[078] DWORD_78                                 0 0x00000000
+[079] DWORD_79                                 0 0x00000000
+[080] EffectBasePoints_1                      1 0x00000001
+[081] EffectBasePoints_2                      0 0x00000000
+[082] EffectBasePoints_3                      0 0x00000000
+[083] DWORD_83                                 0 0x00000000
+[084] DWORD_84                                 0 0x00000000
+[085] DWORD_85                                 0 0x00000000
+[086] ImplicitTargetA_1                       1 0x00000001
+[087] ImplicitTargetA_2                       0 0x00000000
+[088] ImplicitTargetA_3                       0 0x00000000
+[089] ImplicitTargetB_1                       0 0x00000000
+[090] ImplicitTargetB_2                       0 0x00000000
+[091] ImplicitTargetB_3                       0 0x00000000
+[092] EffectRadiusIndex_1                     0 0x00000000
+[093] EffectRadiusIndex_2                     0 0x00000000
+[094] EffectRadiusIndex_3                     0 0x00000000
+[095] EffectAura_1                           80 0x00000050
+[096] EffectAura_2                            0 0x00000000
+[097] EffectAura_3                            0 0x00000000
+[098] EffectAmplitude_1                       0 0x00000000
+[099] EffectAmplitude_2                       0 0x00000000
+[100] EffectAmplitude_3                       0 0x00000000
+[101] DWORD_101                                0 0x00000000
+[102] DWORD_102                                0 0x00000000
+[103] DWORD_103                                0 0x00000000
+[104] DWORD_104                                0 0x00000000
+[105] DWORD_105                                0 0x00000000
+[106] DWORD_106                                0 0x00000000
+[107] DWORD_107                                0 0x00000000
+[108] DWORD_108                                0 0x00000000
+[109] DWORD_109                                0 0x00000000
+[110] EffectMiscValue_1                       3 0x00000003
+[111] EffectMiscValue_2                       0 0x00000000
+[112] EffectMiscValue_3                       0 0x00000000
+[113] EffectMiscValueB_1                      0 0x00000000
+[114] EffectMiscValueB_2                      0 0x00000000
+[115] EffectMiscValueB_3                      0 0x00000000
+[116] EffectTriggerSpell_1                    0 0x00000000
+[117] EffectTriggerSpell_2                    0 0x00000000
+[118] EffectTriggerSpell_3                    0 0x00000000
+[119] DWORD_119                                0 0x00000000
+[120] DWORD_120                                0 0x00000000
+[121] DWORD_121                                0 0x00000000
+[122] DWORD_122                                0 0x00000000
+[123] DWORD_123                                0 0x00000000
+[124] DWORD_124                                0 0x00000000
+[125] DWORD_125                                0 0x00000000
+[126] DWORD_126                                0 0x00000000
+[127] DWORD_127                                0 0x00000000
+[128] DWORD_128                                0 0x00000000
+[129] DWORD_129                                0 0x00000000
+[130] DWORD_130                                0 0x00000000
+[131] SpellVisualID_1                         0 0x00000000
+[132] SpellVisualID_2                         0 0x00000000
+[133] SpellIconID                            98 0x00000062
+[134] ActiveIconID                            0 0x00000000
+[135] DWORD_135                                0 0x00000000
+[136] DWORD_136                           369135 0x0005A1EF
+[137] DWORD_137                                0 0x00000000
+[138] DWORD_138                                0 0x00000000
+[139] DWORD_139                                0 0x00000000
+[140] DWORD_140                                0 0x00000000
+[141] DWORD_141                                0 0x00000000
+[142] DWORD_142                                0 0x00000000
+[143] DWORD_143                                0 0x00000000
+[144] DWORD_144                                0 0x00000000
+[145] DWORD_145                                0 0x00000000
+[146] DWORD_146                                0 0x00000000
+[147] DWORD_147                                0 0x00000000
+[148] DWORD_148                                0 0x00000000
+[149] DWORD_149                                0 0x00000000
+[150] DWORD_150                                0 0x00000000
+[151] DWORD_151                                0 0x00000000
+[152] DWORD_152                         16712190 0x00FF01FE
+[153] DWORD_153                             5739 0x0000166B
+[154] DWORD_154                                0 0x00000000
+[155] DWORD_155                                0 0x00000000
+[156] DWORD_156                                0 0x00000000
+[157] DWORD_157                                0 0x00000000
+[158] DWORD_158                                0 0x00000000
+[159] DWORD_159                                0 0x00000000
+[160] DWORD_160                                0 0x00000000
+[161] DWORD_161                                0 0x00000000
+[162] DWORD_162                                0 0x00000000
+[163] DWORD_163                                0 0x00000000
+[164] DWORD_164                                0 0x00000000
+[165] DWORD_165                                0 0x00000000
+[166] DWORD_166                                0 0x00000000
+[167] DWORD_167                                0 0x00000000
+[168] DWORD_168                                0 0x00000000
+[169] DWORD_169                         16712190 0x00FF01FE
+[170] DWORD_170                           369150 0x0005A1FE
+[171] DWORD_171                                0 0x00000000
+[172] DWORD_172                                0 0x00000000
+[173] DWORD_173                                0 0x00000000
+[174] DWORD_174                                0 0x00000000
+[175] DWORD_175                                0 0x00000000
+[176] DWORD_176                                0 0x00000000
+[177] DWORD_177                                0 0x00000000
+[178] DWORD_178                                0 0x00000000
+[179] DWORD_179                                0 0x00000000
+[180] DWORD_180                                0 0x00000000
+[181] DWORD_181                                0 0x00000000
+[182] DWORD_182                                0 0x00000000
+[183] DWORD_183                                0 0x00000000
+[184] DWORD_184                                0 0x00000000
+[185] DWORD_185                                0 0x00000000
+[186] DWORD_186                         16712190 0x00FF01FE
+[187] DWORD_187                                0 0x00000000
+[188] DWORD_188                                0 0x00000000
+[189] DWORD_189                                0 0x00000000
+[190] DWORD_190                                0 0x00000000
+[191] DWORD_191                                0 0x00000000
+[192] DWORD_192                                0 0x00000000
+[193] DWORD_193                                0 0x00000000
+[194] DWORD_194                                0 0x00000000
+[195] DWORD_195                                0 0x00000000
+[196] DWORD_196                                0 0x00000000
+[197] DWORD_197                                0 0x00000000
+[198] DWORD_198                                0 0x00000000
+[199] DWORD_199                                0 0x00000000
+[200] DWORD_200                                0 0x00000000
+[201] DWORD_201                                0 0x00000000
+[202] DWORD_202                                0 0x00000000
+[203] DWORD_203                         16712188 0x00FF01FC
+[204] DWORD_204                                0 0x00000000
+[205] DWORD_205                                0 0x00000000
+[206] DWORD_206                                0 0x00000000
+[207] SpellClassSet                           0 0x00000000
+[208] SpellClassMask_1                        0 0x00000000
+[209] SpellClassMask_2                        0 0x00000000
+[210] SpellClassMask_3                        0 0x00000000
+[211] DWORD_211                                0 0x00000000
+[212] DWORD_212                                0 0x00000000
+[213] Field_213                               0 0x00000000
+[214] ProcChance                              0 0x00000000
+[215] ProcCharges                             0 0x00000000
+[216] DWORD_216                       1065353216 0x3F800000
+[217] DWORD_217                                0 0x00000000
+[218] DWORD_218                                0 0x00000000
+[219] DWORD_219                                0 0x00000000
+[220] DWORD_220                                0 0x00000000
+[221] DWORD_221                                0 0x00000000
+[222] DWORD_222                                0 0x00000000
+[223] DWORD_223                                0 0x00000000
+[224] DWORD_224                                0 0x00000000
+[225] SchoolMask                              1 0x00000001
+[226] DWORD_226                                0 0x00000000
+[227] DWORD_227                                0 0x00000000
+[228] DWORD_228                                0 0x00000000
+[229] DWORD_229                       1065353216 0x3F800000
+[230] DWORD_230                       1065353216 0x3F800000
+[231] DWORD_231                       1065353216 0x3F800000
+[232] DWORD_232                                0 0x00000000
+[233] DWORD_233                                0 0x00000000
+
+
+================================================================================
+SPELL 16736
+================================================================================
+
+Attributes:   0 (0x00000000)
+attributes_ex: 0
+attributes_ex2: 0
+attributes_ex3: 464
+attributes_ex4: 0
+attributes_ex5: 0
+attributes_ex6: 0
+attributes_ex7: 0
+
+DurationIndex: 21
+SpellVisualID_1: 0
+SpellVisualID_2: 0
+SpellIconID: 98
+ActiveIconID: 0
+SpellClassSet: 0
+SpellClassMask: 0 / 0 / 0
+Field_213: 0
+ProcChance: 0
+ProcCharges: 0
+SchoolMask: 1
+
+--- EFFECT 1 ---
+Effect:             6
+BasePoints raw:     1
+BasePoints signed:  1
+ImplicitTargetA:    1
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         80
+Amplitude:          0
+MiscValue:          3 (signed 3)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+--- EFFECT 2 ---
+Effect:             0
+BasePoints raw:     0
+BasePoints signed:  0
+ImplicitTargetA:    0
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         0
+Amplitude:          0
+MiscValue:          0 (signed 0)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+--- EFFECT 3 ---
+Effect:             0
+BasePoints raw:     0
+BasePoints signed:  0
+ImplicitTargetA:    0
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         0
+Amplitude:          0
+MiscValue:          0 (signed 0)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+Active effects:      1
+MOD_PERCENT_STAT:    1
+Periodic triggers:   0
+
+Trigger spells: []
+
+--- RAW DWORD RECORD ---
+[000] ID                                  16736 0x00004160
+[001] DWORD_1                                  0 0x00000000
+[002] DWORD_2                                  0 0x00000000
+[003] DWORD_3                                  0 0x00000000
+[004] DWORD_4                                464 0x000001D0
+[005] DWORD_5                                  0 0x00000000
+[006] DWORD_6                                  0 0x00000000
+[007] DWORD_7                                  0 0x00000000
+[008] DWORD_8                                  0 0x00000000
+[009] DWORD_9                                  0 0x00000000
+[010] DWORD_10                                 0 0x00000000
+[011] DWORD_11                                 0 0x00000000
+[012] DWORD_12                                 0 0x00000000
+[013] DWORD_13                                 0 0x00000000
+[014] DWORD_14                                 0 0x00000000
+[015] DWORD_15                                 0 0x00000000
+[016] DWORD_16                                 0 0x00000000
+[017] DWORD_17                                 0 0x00000000
+[018] DWORD_18                                 0 0x00000000
+[019] DWORD_19                                 0 0x00000000
+[020] DWORD_20                                 0 0x00000000
+[021] DWORD_21                                 0 0x00000000
+[022] DWORD_22                                 0 0x00000000
+[023] DWORD_23                                 0 0x00000000
+[024] DWORD_24                                 0 0x00000000
+[025] DWORD_25                                 0 0x00000000
+[026] DWORD_26                                 0 0x00000000
+[027] DWORD_27                                 0 0x00000000
+[028] DWORD_28                                 1 0x00000001
+[029] DWORD_29                                 0 0x00000000
+[030] DWORD_30                                 0 0x00000000
+[031] DWORD_31                                 0 0x00000000
+[032] DWORD_32                                 0 0x00000000
+[033] DWORD_33                                 0 0x00000000
+[034] DWORD_34                                 0 0x00000000
+[035] DWORD_35                               101 0x00000065
+[036] DWORD_36                                 0 0x00000000
+[037] DWORD_37                                 0 0x00000000
+[038] DWORD_38                                 0 0x00000000
+[039] DWORD_39                                 0 0x00000000
+[040] DurationIndex                          21 0x00000015
+[041] DWORD_41                                 0 0x00000000
+[042] DWORD_42                                 0 0x00000000
+[043] DWORD_43                                 0 0x00000000
+[044] DWORD_44                                 0 0x00000000
+[045] DWORD_45                                 0 0x00000000
+[046] DWORD_46                                 1 0x00000001
+[047] DWORD_47                                 0 0x00000000
+[048] DWORD_48                                 0 0x00000000
+[049] DWORD_49                                 0 0x00000000
+[050] DWORD_50                                 0 0x00000000
+[051] DWORD_51                                 0 0x00000000
+[052] DWORD_52                                 0 0x00000000
+[053] DWORD_53                                 0 0x00000000
+[054] DWORD_54                                 0 0x00000000
+[055] DWORD_55                                 0 0x00000000
+[056] DWORD_56                                 0 0x00000000
+[057] DWORD_57                                 0 0x00000000
+[058] DWORD_58                                 0 0x00000000
+[059] DWORD_59                                 0 0x00000000
+[060] DWORD_60                                 0 0x00000000
+[061] DWORD_61                                 0 0x00000000
+[062] DWORD_62                                 0 0x00000000
+[063] DWORD_63                                 0 0x00000000
+[064] DWORD_64                                 0 0x00000000
+[065] DWORD_65                                 0 0x00000000
+[066] DWORD_66                                 0 0x00000000
+[067] DWORD_67                                 0 0x00000000
+[068] DWORD_68                        4294967295 0xFFFFFFFF
+[069] DWORD_69                                 0 0x00000000
+[070] DWORD_70                                 0 0x00000000
+[071] Effect_1                                6 0x00000006
+[072] Effect_2                                0 0x00000000
+[073] Effect_3                                0 0x00000000
+[074] DWORD_74                                 1 0x00000001
+[075] DWORD_75                                 0 0x00000000
+[076] DWORD_76                                 0 0x00000000
+[077] DWORD_77                                 0 0x00000000
+[078] DWORD_78                                 0 0x00000000
+[079] DWORD_79                                 0 0x00000000
+[080] EffectBasePoints_1                      1 0x00000001
+[081] EffectBasePoints_2                      0 0x00000000
+[082] EffectBasePoints_3                      0 0x00000000
+[083] DWORD_83                                 0 0x00000000
+[084] DWORD_84                                 0 0x00000000
+[085] DWORD_85                                 0 0x00000000
+[086] ImplicitTargetA_1                       1 0x00000001
+[087] ImplicitTargetA_2                       0 0x00000000
+[088] ImplicitTargetA_3                       0 0x00000000
+[089] ImplicitTargetB_1                       0 0x00000000
+[090] ImplicitTargetB_2                       0 0x00000000
+[091] ImplicitTargetB_3                       0 0x00000000
+[092] EffectRadiusIndex_1                     0 0x00000000
+[093] EffectRadiusIndex_2                     0 0x00000000
+[094] EffectRadiusIndex_3                     0 0x00000000
+[095] EffectAura_1                           80 0x00000050
+[096] EffectAura_2                            0 0x00000000
+[097] EffectAura_3                            0 0x00000000
+[098] EffectAmplitude_1                       0 0x00000000
+[099] EffectAmplitude_2                       0 0x00000000
+[100] EffectAmplitude_3                       0 0x00000000
+[101] DWORD_101                                0 0x00000000
+[102] DWORD_102                                0 0x00000000
+[103] DWORD_103                                0 0x00000000
+[104] DWORD_104                                0 0x00000000
+[105] DWORD_105                                0 0x00000000
+[106] DWORD_106                                0 0x00000000
+[107] DWORD_107                                0 0x00000000
+[108] DWORD_108                                0 0x00000000
+[109] DWORD_109                                0 0x00000000
+[110] EffectMiscValue_1                       3 0x00000003
+[111] EffectMiscValue_2                       0 0x00000000
+[112] EffectMiscValue_3                       0 0x00000000
+[113] EffectMiscValueB_1                      0 0x00000000
+[114] EffectMiscValueB_2                      0 0x00000000
+[115] EffectMiscValueB_3                      0 0x00000000
+[116] EffectTriggerSpell_1                    0 0x00000000
+[117] EffectTriggerSpell_2                    0 0x00000000
+[118] EffectTriggerSpell_3                    0 0x00000000
+[119] DWORD_119                                0 0x00000000
+[120] DWORD_120                                0 0x00000000
+[121] DWORD_121                                0 0x00000000
+[122] DWORD_122                                0 0x00000000
+[123] DWORD_123                                0 0x00000000
+[124] DWORD_124                                0 0x00000000
+[125] DWORD_125                                0 0x00000000
+[126] DWORD_126                                0 0x00000000
+[127] DWORD_127                                0 0x00000000
+[128] DWORD_128                                0 0x00000000
+[129] DWORD_129                                0 0x00000000
+[130] DWORD_130                                0 0x00000000
+[131] SpellVisualID_1                         0 0x00000000
+[132] SpellVisualID_2                         0 0x00000000
+[133] SpellIconID                            98 0x00000062
+[134] ActiveIconID                            0 0x00000000
+[135] DWORD_135                                0 0x00000000
+[136] DWORD_136                           369135 0x0005A1EF
+[137] DWORD_137                                0 0x00000000
+[138] DWORD_138                                0 0x00000000
+[139] DWORD_139                                0 0x00000000
+[140] DWORD_140                                0 0x00000000
+[141] DWORD_141                                0 0x00000000
+[142] DWORD_142                                0 0x00000000
+[143] DWORD_143                                0 0x00000000
+[144] DWORD_144                                0 0x00000000
+[145] DWORD_145                                0 0x00000000
+[146] DWORD_146                                0 0x00000000
+[147] DWORD_147                                0 0x00000000
+[148] DWORD_148                                0 0x00000000
+[149] DWORD_149                                0 0x00000000
+[150] DWORD_150                                0 0x00000000
+[151] DWORD_151                                0 0x00000000
+[152] DWORD_152                         16712190 0x00FF01FE
+[153] DWORD_153                             5746 0x00001672
+[154] DWORD_154                                0 0x00000000
+[155] DWORD_155                                0 0x00000000
+[156] DWORD_156                                0 0x00000000
+[157] DWORD_157                                0 0x00000000
+[158] DWORD_158                                0 0x00000000
+[159] DWORD_159                                0 0x00000000
+[160] DWORD_160                                0 0x00000000
+[161] DWORD_161                                0 0x00000000
+[162] DWORD_162                                0 0x00000000
+[163] DWORD_163                                0 0x00000000
+[164] DWORD_164                                0 0x00000000
+[165] DWORD_165                                0 0x00000000
+[166] DWORD_166                                0 0x00000000
+[167] DWORD_167                                0 0x00000000
+[168] DWORD_168                                0 0x00000000
+[169] DWORD_169                         16712190 0x00FF01FE
+[170] DWORD_170                           369150 0x0005A1FE
+[171] DWORD_171                                0 0x00000000
+[172] DWORD_172                                0 0x00000000
+[173] DWORD_173                                0 0x00000000
+[174] DWORD_174                                0 0x00000000
+[175] DWORD_175                                0 0x00000000
+[176] DWORD_176                                0 0x00000000
+[177] DWORD_177                                0 0x00000000
+[178] DWORD_178                                0 0x00000000
+[179] DWORD_179                                0 0x00000000
+[180] DWORD_180                                0 0x00000000
+[181] DWORD_181                                0 0x00000000
+[182] DWORD_182                                0 0x00000000
+[183] DWORD_183                                0 0x00000000
+[184] DWORD_184                                0 0x00000000
+[185] DWORD_185                                0 0x00000000
+[186] DWORD_186                         16712190 0x00FF01FE
+[187] DWORD_187                                0 0x00000000
+[188] DWORD_188                                0 0x00000000
+[189] DWORD_189                                0 0x00000000
+[190] DWORD_190                                0 0x00000000
+[191] DWORD_191                                0 0x00000000
+[192] DWORD_192                                0 0x00000000
+[193] DWORD_193                                0 0x00000000
+[194] DWORD_194                                0 0x00000000
+[195] DWORD_195                                0 0x00000000
+[196] DWORD_196                                0 0x00000000
+[197] DWORD_197                                0 0x00000000
+[198] DWORD_198                                0 0x00000000
+[199] DWORD_199                                0 0x00000000
+[200] DWORD_200                                0 0x00000000
+[201] DWORD_201                                0 0x00000000
+[202] DWORD_202                                0 0x00000000
+[203] DWORD_203                         16712188 0x00FF01FC
+[204] DWORD_204                                0 0x00000000
+[205] DWORD_205                                0 0x00000000
+[206] DWORD_206                                0 0x00000000
+[207] SpellClassSet                           0 0x00000000
+[208] SpellClassMask_1                        0 0x00000000
+[209] SpellClassMask_2                        0 0x00000000
+[210] SpellClassMask_3                        0 0x00000000
+[211] DWORD_211                                0 0x00000000
+[212] DWORD_212                                0 0x00000000
+[213] Field_213                               0 0x00000000
+[214] ProcChance                              0 0x00000000
+[215] ProcCharges                             0 0x00000000
+[216] DWORD_216                       1065353216 0x3F800000
+[217] DWORD_217                                0 0x00000000
+[218] DWORD_218                                0 0x00000000
+[219] DWORD_219                                0 0x00000000
+[220] DWORD_220                                0 0x00000000
+[221] DWORD_221                                0 0x00000000
+[222] DWORD_222                                0 0x00000000
+[223] DWORD_223                                0 0x00000000
+[224] DWORD_224                                0 0x00000000
+[225] SchoolMask                              1 0x00000001
+[226] DWORD_226                                0 0x00000000
+[227] DWORD_227                                0 0x00000000
+[228] DWORD_228                                0 0x00000000
+[229] DWORD_229                       1065353216 0x3F800000
+[230] DWORD_230                       1065353216 0x3F800000
+[231] DWORD_231                       1065353216 0x3F800000
+[232] DWORD_232                                0 0x00000000
+[233] DWORD_233                                0 0x00000000
+
+
+================================================================================
+SPELL 16737
+================================================================================
+
+Attributes:   0 (0x00000000)
+attributes_ex: 0
+attributes_ex2: 0
+attributes_ex3: 464
+attributes_ex4: 0
+attributes_ex5: 0
+attributes_ex6: 0
+attributes_ex7: 0
+
+DurationIndex: 21
+SpellVisualID_1: 0
+SpellVisualID_2: 0
+SpellIconID: 98
+ActiveIconID: 0
+SpellClassSet: 0
+SpellClassMask: 0 / 0 / 0
+Field_213: 0
+ProcChance: 0
+ProcCharges: 0
+SchoolMask: 1
+
+--- EFFECT 1 ---
+Effect:             6
+BasePoints raw:     1
+BasePoints signed:  1
+ImplicitTargetA:    1
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         80
+Amplitude:          0
+MiscValue:          3 (signed 3)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+--- EFFECT 2 ---
+Effect:             0
+BasePoints raw:     0
+BasePoints signed:  0
+ImplicitTargetA:    0
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         0
+Amplitude:          0
+MiscValue:          0 (signed 0)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+--- EFFECT 3 ---
+Effect:             0
+BasePoints raw:     0
+BasePoints signed:  0
+ImplicitTargetA:    0
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         0
+Amplitude:          0
+MiscValue:          0 (signed 0)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+Active effects:      1
+MOD_PERCENT_STAT:    1
+Periodic triggers:   0
+
+Trigger spells: []
+
+--- RAW DWORD RECORD ---
+[000] ID                                  16737 0x00004161
+[001] DWORD_1                                  0 0x00000000
+[002] DWORD_2                                  0 0x00000000
+[003] DWORD_3                                  0 0x00000000
+[004] DWORD_4                                464 0x000001D0
+[005] DWORD_5                                  0 0x00000000
+[006] DWORD_6                                  0 0x00000000
+[007] DWORD_7                                  0 0x00000000
+[008] DWORD_8                                  0 0x00000000
+[009] DWORD_9                                  0 0x00000000
+[010] DWORD_10                                 0 0x00000000
+[011] DWORD_11                                 0 0x00000000
+[012] DWORD_12                                 0 0x00000000
+[013] DWORD_13                                 0 0x00000000
+[014] DWORD_14                                 0 0x00000000
+[015] DWORD_15                                 0 0x00000000
+[016] DWORD_16                                 0 0x00000000
+[017] DWORD_17                                 0 0x00000000
+[018] DWORD_18                                 0 0x00000000
+[019] DWORD_19                                 0 0x00000000
+[020] DWORD_20                                 0 0x00000000
+[021] DWORD_21                                 0 0x00000000
+[022] DWORD_22                                 0 0x00000000
+[023] DWORD_23                                 0 0x00000000
+[024] DWORD_24                                 0 0x00000000
+[025] DWORD_25                                 0 0x00000000
+[026] DWORD_26                                 0 0x00000000
+[027] DWORD_27                                 0 0x00000000
+[028] DWORD_28                                 1 0x00000001
+[029] DWORD_29                                 0 0x00000000
+[030] DWORD_30                                 0 0x00000000
+[031] DWORD_31                                 0 0x00000000
+[032] DWORD_32                                 0 0x00000000
+[033] DWORD_33                                 0 0x00000000
+[034] DWORD_34                                 0 0x00000000
+[035] DWORD_35                               101 0x00000065
+[036] DWORD_36                                 0 0x00000000
+[037] DWORD_37                                 0 0x00000000
+[038] DWORD_38                                 0 0x00000000
+[039] DWORD_39                                 0 0x00000000
+[040] DurationIndex                          21 0x00000015
+[041] DWORD_41                                 0 0x00000000
+[042] DWORD_42                                 0 0x00000000
+[043] DWORD_43                                 0 0x00000000
+[044] DWORD_44                                 0 0x00000000
+[045] DWORD_45                                 0 0x00000000
+[046] DWORD_46                                 1 0x00000001
+[047] DWORD_47                                 0 0x00000000
+[048] DWORD_48                                 0 0x00000000
+[049] DWORD_49                                 0 0x00000000
+[050] DWORD_50                                 0 0x00000000
+[051] DWORD_51                                 0 0x00000000
+[052] DWORD_52                                 0 0x00000000
+[053] DWORD_53                                 0 0x00000000
+[054] DWORD_54                                 0 0x00000000
+[055] DWORD_55                                 0 0x00000000
+[056] DWORD_56                                 0 0x00000000
+[057] DWORD_57                                 0 0x00000000
+[058] DWORD_58                                 0 0x00000000
+[059] DWORD_59                                 0 0x00000000
+[060] DWORD_60                                 0 0x00000000
+[061] DWORD_61                                 0 0x00000000
+[062] DWORD_62                                 0 0x00000000
+[063] DWORD_63                                 0 0x00000000
+[064] DWORD_64                                 0 0x00000000
+[065] DWORD_65                                 0 0x00000000
+[066] DWORD_66                                 0 0x00000000
+[067] DWORD_67                                 0 0x00000000
+[068] DWORD_68                        4294967295 0xFFFFFFFF
+[069] DWORD_69                                 0 0x00000000
+[070] DWORD_70                                 0 0x00000000
+[071] Effect_1                                6 0x00000006
+[072] Effect_2                                0 0x00000000
+[073] Effect_3                                0 0x00000000
+[074] DWORD_74                                 1 0x00000001
+[075] DWORD_75                                 0 0x00000000
+[076] DWORD_76                                 0 0x00000000
+[077] DWORD_77                                 0 0x00000000
+[078] DWORD_78                                 0 0x00000000
+[079] DWORD_79                                 0 0x00000000
+[080] EffectBasePoints_1                      1 0x00000001
+[081] EffectBasePoints_2                      0 0x00000000
+[082] EffectBasePoints_3                      0 0x00000000
+[083] DWORD_83                                 0 0x00000000
+[084] DWORD_84                                 0 0x00000000
+[085] DWORD_85                                 0 0x00000000
+[086] ImplicitTargetA_1                       1 0x00000001
+[087] ImplicitTargetA_2                       0 0x00000000
+[088] ImplicitTargetA_3                       0 0x00000000
+[089] ImplicitTargetB_1                       0 0x00000000
+[090] ImplicitTargetB_2                       0 0x00000000
+[091] ImplicitTargetB_3                       0 0x00000000
+[092] EffectRadiusIndex_1                     0 0x00000000
+[093] EffectRadiusIndex_2                     0 0x00000000
+[094] EffectRadiusIndex_3                     0 0x00000000
+[095] EffectAura_1                           80 0x00000050
+[096] EffectAura_2                            0 0x00000000
+[097] EffectAura_3                            0 0x00000000
+[098] EffectAmplitude_1                       0 0x00000000
+[099] EffectAmplitude_2                       0 0x00000000
+[100] EffectAmplitude_3                       0 0x00000000
+[101] DWORD_101                                0 0x00000000
+[102] DWORD_102                                0 0x00000000
+[103] DWORD_103                                0 0x00000000
+[104] DWORD_104                                0 0x00000000
+[105] DWORD_105                                0 0x00000000
+[106] DWORD_106                                0 0x00000000
+[107] DWORD_107                                0 0x00000000
+[108] DWORD_108                                0 0x00000000
+[109] DWORD_109                                0 0x00000000
+[110] EffectMiscValue_1                       3 0x00000003
+[111] EffectMiscValue_2                       0 0x00000000
+[112] EffectMiscValue_3                       0 0x00000000
+[113] EffectMiscValueB_1                      0 0x00000000
+[114] EffectMiscValueB_2                      0 0x00000000
+[115] EffectMiscValueB_3                      0 0x00000000
+[116] EffectTriggerSpell_1                    0 0x00000000
+[117] EffectTriggerSpell_2                    0 0x00000000
+[118] EffectTriggerSpell_3                    0 0x00000000
+[119] DWORD_119                                0 0x00000000
+[120] DWORD_120                                0 0x00000000
+[121] DWORD_121                                0 0x00000000
+[122] DWORD_122                                0 0x00000000
+[123] DWORD_123                                0 0x00000000
+[124] DWORD_124                                0 0x00000000
+[125] DWORD_125                                0 0x00000000
+[126] DWORD_126                                0 0x00000000
+[127] DWORD_127                                0 0x00000000
+[128] DWORD_128                                0 0x00000000
+[129] DWORD_129                                0 0x00000000
+[130] DWORD_130                                0 0x00000000
+[131] SpellVisualID_1                         0 0x00000000
+[132] SpellVisualID_2                         0 0x00000000
+[133] SpellIconID                            98 0x00000062
+[134] ActiveIconID                            0 0x00000000
+[135] DWORD_135                                0 0x00000000
+[136] DWORD_136                           369135 0x0005A1EF
+[137] DWORD_137                                0 0x00000000
+[138] DWORD_138                                0 0x00000000
+[139] DWORD_139                                0 0x00000000
+[140] DWORD_140                                0 0x00000000
+[141] DWORD_141                                0 0x00000000
+[142] DWORD_142                                0 0x00000000
+[143] DWORD_143                                0 0x00000000
+[144] DWORD_144                                0 0x00000000
+[145] DWORD_145                                0 0x00000000
+[146] DWORD_146                                0 0x00000000
+[147] DWORD_147                                0 0x00000000
+[148] DWORD_148                                0 0x00000000
+[149] DWORD_149                                0 0x00000000
+[150] DWORD_150                                0 0x00000000
+[151] DWORD_151                                0 0x00000000
+[152] DWORD_152                         16712190 0x00FF01FE
+[153] DWORD_153                            23487 0x00005BBF
+[154] DWORD_154                                0 0x00000000
+[155] DWORD_155                                0 0x00000000
+[156] DWORD_156                                0 0x00000000
+[157] DWORD_157                                0 0x00000000
+[158] DWORD_158                                0 0x00000000
+[159] DWORD_159                                0 0x00000000
+[160] DWORD_160                                0 0x00000000
+[161] DWORD_161                                0 0x00000000
+[162] DWORD_162                                0 0x00000000
+[163] DWORD_163                                0 0x00000000
+[164] DWORD_164                                0 0x00000000
+[165] DWORD_165                                0 0x00000000
+[166] DWORD_166                                0 0x00000000
+[167] DWORD_167                                0 0x00000000
+[168] DWORD_168                                0 0x00000000
+[169] DWORD_169                         16712190 0x00FF01FE
+[170] DWORD_170                           369150 0x0005A1FE
+[171] DWORD_171                                0 0x00000000
+[172] DWORD_172                                0 0x00000000
+[173] DWORD_173                                0 0x00000000
+[174] DWORD_174                                0 0x00000000
+[175] DWORD_175                                0 0x00000000
+[176] DWORD_176                                0 0x00000000
+[177] DWORD_177                                0 0x00000000
+[178] DWORD_178                                0 0x00000000
+[179] DWORD_179                                0 0x00000000
+[180] DWORD_180                                0 0x00000000
+[181] DWORD_181                                0 0x00000000
+[182] DWORD_182                                0 0x00000000
+[183] DWORD_183                                0 0x00000000
+[184] DWORD_184                                0 0x00000000
+[185] DWORD_185                                0 0x00000000
+[186] DWORD_186                         16712190 0x00FF01FE
+[187] DWORD_187                                0 0x00000000
+[188] DWORD_188                                0 0x00000000
+[189] DWORD_189                                0 0x00000000
+[190] DWORD_190                                0 0x00000000
+[191] DWORD_191                                0 0x00000000
+[192] DWORD_192                                0 0x00000000
+[193] DWORD_193                                0 0x00000000
+[194] DWORD_194                                0 0x00000000
+[195] DWORD_195                                0 0x00000000
+[196] DWORD_196                                0 0x00000000
+[197] DWORD_197                                0 0x00000000
+[198] DWORD_198                                0 0x00000000
+[199] DWORD_199                                0 0x00000000
+[200] DWORD_200                                0 0x00000000
+[201] DWORD_201                                0 0x00000000
+[202] DWORD_202                                0 0x00000000
+[203] DWORD_203                         16712188 0x00FF01FC
+[204] DWORD_204                                0 0x00000000
+[205] DWORD_205                                0 0x00000000
+[206] DWORD_206                                0 0x00000000
+[207] SpellClassSet                           0 0x00000000
+[208] SpellClassMask_1                        0 0x00000000
+[209] SpellClassMask_2                        0 0x00000000
+[210] SpellClassMask_3                        0 0x00000000
+[211] DWORD_211                                0 0x00000000
+[212] DWORD_212                                0 0x00000000
+[213] Field_213                               0 0x00000000
+[214] ProcChance                              0 0x00000000
+[215] ProcCharges                             0 0x00000000
+[216] DWORD_216                       1065353216 0x3F800000
+[217] DWORD_217                                0 0x00000000
+[218] DWORD_218                                0 0x00000000
+[219] DWORD_219                                0 0x00000000
+[220] DWORD_220                                0 0x00000000
+[221] DWORD_221                                0 0x00000000
+[222] DWORD_222                                0 0x00000000
+[223] DWORD_223                                0 0x00000000
+[224] DWORD_224                                0 0x00000000
+[225] SchoolMask                              1 0x00000001
+[226] DWORD_226                                0 0x00000000
+[227] DWORD_227                                0 0x00000000
+[228] DWORD_228                                0 0x00000000
+[229] DWORD_229                       1065353216 0x3F800000
+[230] DWORD_230                       1065353216 0x3F800000
+[231] DWORD_231                       1065353216 0x3F800000
+[232] DWORD_232                                0 0x00000000
+[233] DWORD_233                                0 0x00000000
+
+
+================================================================================
+SPELL 16738
+================================================================================
+
+Attributes:   0 (0x00000000)
+attributes_ex: 0
+attributes_ex2: 0
+attributes_ex3: 464
+attributes_ex4: 0
+attributes_ex5: 0
+attributes_ex6: 0
+attributes_ex7: 0
+
+DurationIndex: 21
+SpellVisualID_1: 0
+SpellVisualID_2: 0
+SpellIconID: 98
+ActiveIconID: 0
+SpellClassSet: 0
+SpellClassMask: 0 / 0 / 0
+Field_213: 0
+ProcChance: 0
+ProcCharges: 0
+SchoolMask: 1
+
+--- EFFECT 1 ---
+Effect:             6
+BasePoints raw:     1
+BasePoints signed:  1
+ImplicitTargetA:    1
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         80
+Amplitude:          0
+MiscValue:          3 (signed 3)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+--- EFFECT 2 ---
+Effect:             0
+BasePoints raw:     0
+BasePoints signed:  0
+ImplicitTargetA:    0
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         0
+Amplitude:          0
+MiscValue:          0 (signed 0)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+--- EFFECT 3 ---
+Effect:             0
+BasePoints raw:     0
+BasePoints signed:  0
+ImplicitTargetA:    0
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         0
+Amplitude:          0
+MiscValue:          0 (signed 0)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+Active effects:      1
+MOD_PERCENT_STAT:    1
+Periodic triggers:   0
+
+Trigger spells: []
+
+--- RAW DWORD RECORD ---
+[000] ID                                  16738 0x00004162
+[001] DWORD_1                                  0 0x00000000
+[002] DWORD_2                                  0 0x00000000
+[003] DWORD_3                                  0 0x00000000
+[004] DWORD_4                                464 0x000001D0
+[005] DWORD_5                                  0 0x00000000
+[006] DWORD_6                                  0 0x00000000
+[007] DWORD_7                                  0 0x00000000
+[008] DWORD_8                                  0 0x00000000
+[009] DWORD_9                                  0 0x00000000
+[010] DWORD_10                                 0 0x00000000
+[011] DWORD_11                                 0 0x00000000
+[012] DWORD_12                                 0 0x00000000
+[013] DWORD_13                                 0 0x00000000
+[014] DWORD_14                                 0 0x00000000
+[015] DWORD_15                                 0 0x00000000
+[016] DWORD_16                                 0 0x00000000
+[017] DWORD_17                                 0 0x00000000
+[018] DWORD_18                                 0 0x00000000
+[019] DWORD_19                                 0 0x00000000
+[020] DWORD_20                                 0 0x00000000
+[021] DWORD_21                                 0 0x00000000
+[022] DWORD_22                                 0 0x00000000
+[023] DWORD_23                                 0 0x00000000
+[024] DWORD_24                                 0 0x00000000
+[025] DWORD_25                                 0 0x00000000
+[026] DWORD_26                                 0 0x00000000
+[027] DWORD_27                                 0 0x00000000
+[028] DWORD_28                                 1 0x00000001
+[029] DWORD_29                                 0 0x00000000
+[030] DWORD_30                                 0 0x00000000
+[031] DWORD_31                                 0 0x00000000
+[032] DWORD_32                                 0 0x00000000
+[033] DWORD_33                                 0 0x00000000
+[034] DWORD_34                                 0 0x00000000
+[035] DWORD_35                               101 0x00000065
+[036] DWORD_36                                 0 0x00000000
+[037] DWORD_37                                 0 0x00000000
+[038] DWORD_38                                 0 0x00000000
+[039] DWORD_39                                 0 0x00000000
+[040] DurationIndex                          21 0x00000015
+[041] DWORD_41                                 0 0x00000000
+[042] DWORD_42                                 0 0x00000000
+[043] DWORD_43                                 0 0x00000000
+[044] DWORD_44                                 0 0x00000000
+[045] DWORD_45                                 0 0x00000000
+[046] DWORD_46                                 1 0x00000001
+[047] DWORD_47                                 0 0x00000000
+[048] DWORD_48                                 0 0x00000000
+[049] DWORD_49                                 0 0x00000000
+[050] DWORD_50                                 0 0x00000000
+[051] DWORD_51                                 0 0x00000000
+[052] DWORD_52                                 0 0x00000000
+[053] DWORD_53                                 0 0x00000000
+[054] DWORD_54                                 0 0x00000000
+[055] DWORD_55                                 0 0x00000000
+[056] DWORD_56                                 0 0x00000000
+[057] DWORD_57                                 0 0x00000000
+[058] DWORD_58                                 0 0x00000000
+[059] DWORD_59                                 0 0x00000000
+[060] DWORD_60                                 0 0x00000000
+[061] DWORD_61                                 0 0x00000000
+[062] DWORD_62                                 0 0x00000000
+[063] DWORD_63                                 0 0x00000000
+[064] DWORD_64                                 0 0x00000000
+[065] DWORD_65                                 0 0x00000000
+[066] DWORD_66                                 0 0x00000000
+[067] DWORD_67                                 0 0x00000000
+[068] DWORD_68                        4294967295 0xFFFFFFFF
+[069] DWORD_69                                 0 0x00000000
+[070] DWORD_70                                 0 0x00000000
+[071] Effect_1                                6 0x00000006
+[072] Effect_2                                0 0x00000000
+[073] Effect_3                                0 0x00000000
+[074] DWORD_74                                 1 0x00000001
+[075] DWORD_75                                 0 0x00000000
+[076] DWORD_76                                 0 0x00000000
+[077] DWORD_77                                 0 0x00000000
+[078] DWORD_78                                 0 0x00000000
+[079] DWORD_79                                 0 0x00000000
+[080] EffectBasePoints_1                      1 0x00000001
+[081] EffectBasePoints_2                      0 0x00000000
+[082] EffectBasePoints_3                      0 0x00000000
+[083] DWORD_83                                 0 0x00000000
+[084] DWORD_84                                 0 0x00000000
+[085] DWORD_85                                 0 0x00000000
+[086] ImplicitTargetA_1                       1 0x00000001
+[087] ImplicitTargetA_2                       0 0x00000000
+[088] ImplicitTargetA_3                       0 0x00000000
+[089] ImplicitTargetB_1                       0 0x00000000
+[090] ImplicitTargetB_2                       0 0x00000000
+[091] ImplicitTargetB_3                       0 0x00000000
+[092] EffectRadiusIndex_1                     0 0x00000000
+[093] EffectRadiusIndex_2                     0 0x00000000
+[094] EffectRadiusIndex_3                     0 0x00000000
+[095] EffectAura_1                           80 0x00000050
+[096] EffectAura_2                            0 0x00000000
+[097] EffectAura_3                            0 0x00000000
+[098] EffectAmplitude_1                       0 0x00000000
+[099] EffectAmplitude_2                       0 0x00000000
+[100] EffectAmplitude_3                       0 0x00000000
+[101] DWORD_101                                0 0x00000000
+[102] DWORD_102                                0 0x00000000
+[103] DWORD_103                                0 0x00000000
+[104] DWORD_104                                0 0x00000000
+[105] DWORD_105                                0 0x00000000
+[106] DWORD_106                                0 0x00000000
+[107] DWORD_107                                0 0x00000000
+[108] DWORD_108                                0 0x00000000
+[109] DWORD_109                                0 0x00000000
+[110] EffectMiscValue_1                       3 0x00000003
+[111] EffectMiscValue_2                       0 0x00000000
+[112] EffectMiscValue_3                       0 0x00000000
+[113] EffectMiscValueB_1                      0 0x00000000
+[114] EffectMiscValueB_2                      0 0x00000000
+[115] EffectMiscValueB_3                      0 0x00000000
+[116] EffectTriggerSpell_1                    0 0x00000000
+[117] EffectTriggerSpell_2                    0 0x00000000
+[118] EffectTriggerSpell_3                    0 0x00000000
+[119] DWORD_119                                0 0x00000000
+[120] DWORD_120                                0 0x00000000
+[121] DWORD_121                                0 0x00000000
+[122] DWORD_122                                0 0x00000000
+[123] DWORD_123                                0 0x00000000
+[124] DWORD_124                                0 0x00000000
+[125] DWORD_125                                0 0x00000000
+[126] DWORD_126                                0 0x00000000
+[127] DWORD_127                                0 0x00000000
+[128] DWORD_128                                0 0x00000000
+[129] DWORD_129                                0 0x00000000
+[130] DWORD_130                                0 0x00000000
+[131] SpellVisualID_1                         0 0x00000000
+[132] SpellVisualID_2                         0 0x00000000
+[133] SpellIconID                            98 0x00000062
+[134] ActiveIconID                            0 0x00000000
+[135] DWORD_135                                0 0x00000000
+[136] DWORD_136                           369135 0x0005A1EF
+[137] DWORD_137                                0 0x00000000
+[138] DWORD_138                                0 0x00000000
+[139] DWORD_139                                0 0x00000000
+[140] DWORD_140                                0 0x00000000
+[141] DWORD_141                                0 0x00000000
+[142] DWORD_142                                0 0x00000000
+[143] DWORD_143                                0 0x00000000
+[144] DWORD_144                                0 0x00000000
+[145] DWORD_145                                0 0x00000000
+[146] DWORD_146                                0 0x00000000
+[147] DWORD_147                                0 0x00000000
+[148] DWORD_148                                0 0x00000000
+[149] DWORD_149                                0 0x00000000
+[150] DWORD_150                                0 0x00000000
+[151] DWORD_151                                0 0x00000000
+[152] DWORD_152                         16712190 0x00FF01FE
+[153] DWORD_153                            23576 0x00005C18
+[154] DWORD_154                                0 0x00000000
+[155] DWORD_155                                0 0x00000000
+[156] DWORD_156                                0 0x00000000
+[157] DWORD_157                                0 0x00000000
+[158] DWORD_158                                0 0x00000000
+[159] DWORD_159                                0 0x00000000
+[160] DWORD_160                                0 0x00000000
+[161] DWORD_161                                0 0x00000000
+[162] DWORD_162                                0 0x00000000
+[163] DWORD_163                                0 0x00000000
+[164] DWORD_164                                0 0x00000000
+[165] DWORD_165                                0 0x00000000
+[166] DWORD_166                                0 0x00000000
+[167] DWORD_167                                0 0x00000000
+[168] DWORD_168                                0 0x00000000
+[169] DWORD_169                         16712190 0x00FF01FE
+[170] DWORD_170                           369150 0x0005A1FE
+[171] DWORD_171                                0 0x00000000
+[172] DWORD_172                                0 0x00000000
+[173] DWORD_173                                0 0x00000000
+[174] DWORD_174                                0 0x00000000
+[175] DWORD_175                                0 0x00000000
+[176] DWORD_176                                0 0x00000000
+[177] DWORD_177                                0 0x00000000
+[178] DWORD_178                                0 0x00000000
+[179] DWORD_179                                0 0x00000000
+[180] DWORD_180                                0 0x00000000
+[181] DWORD_181                                0 0x00000000
+[182] DWORD_182                                0 0x00000000
+[183] DWORD_183                                0 0x00000000
+[184] DWORD_184                                0 0x00000000
+[185] DWORD_185                                0 0x00000000
+[186] DWORD_186                         16712190 0x00FF01FE
+[187] DWORD_187                                0 0x00000000
+[188] DWORD_188                                0 0x00000000
+[189] DWORD_189                                0 0x00000000
+[190] DWORD_190                                0 0x00000000
+[191] DWORD_191                                0 0x00000000
+[192] DWORD_192                                0 0x00000000
+[193] DWORD_193                                0 0x00000000
+[194] DWORD_194                                0 0x00000000
+[195] DWORD_195                                0 0x00000000
+[196] DWORD_196                                0 0x00000000
+[197] DWORD_197                                0 0x00000000
+[198] DWORD_198                                0 0x00000000
+[199] DWORD_199                                0 0x00000000
+[200] DWORD_200                                0 0x00000000
+[201] DWORD_201                                0 0x00000000
+[202] DWORD_202                                0 0x00000000
+[203] DWORD_203                         16712188 0x00FF01FC
+[204] DWORD_204                                0 0x00000000
+[205] DWORD_205                                0 0x00000000
+[206] DWORD_206                                0 0x00000000
+[207] SpellClassSet                           0 0x00000000
+[208] SpellClassMask_1                        0 0x00000000
+[209] SpellClassMask_2                        0 0x00000000
+[210] SpellClassMask_3                        0 0x00000000
+[211] DWORD_211                                0 0x00000000
+[212] DWORD_212                                0 0x00000000
+[213] Field_213                               0 0x00000000
+[214] ProcChance                              0 0x00000000
+[215] ProcCharges                             0 0x00000000
+[216] DWORD_216                       1065353216 0x3F800000
+[217] DWORD_217                                0 0x00000000
+[218] DWORD_218                                0 0x00000000
+[219] DWORD_219                                0 0x00000000
+[220] DWORD_220                                0 0x00000000
+[221] DWORD_221                                0 0x00000000
+[222] DWORD_222                                0 0x00000000
+[223] DWORD_223                                0 0x00000000
+[224] DWORD_224                                0 0x00000000
+[225] SchoolMask                              1 0x00000001
+[226] DWORD_226                                0 0x00000000
+[227] DWORD_227                                0 0x00000000
+[228] DWORD_228                                0 0x00000000
+[229] DWORD_229                       1065353216 0x3F800000
+[230] DWORD_230                       1065353216 0x3F800000
+[231] DWORD_231                       1065353216 0x3F800000
+[232] DWORD_232                                0 0x00000000
+[233] DWORD_233                                0 0x00000000
+
+
+================================================================================
+SPELL 26035
+================================================================================
+
+Attributes:   0 (0x00000000)
+attributes_ex: 0
+attributes_ex2: 0
+attributes_ex3: 256
+attributes_ex4: 0
+attributes_ex5: 0
+attributes_ex6: 0
+attributes_ex7: 0
+
+DurationIndex: 30
+SpellVisualID_1: 7418
+SpellVisualID_2: 0
+SpellIconID: 63
+ActiveIconID: 232
+SpellClassSet: 0
+SpellClassMask: 0 / 0 / 0
+Field_213: 0
+ProcChance: 0
+ProcCharges: 0
+SchoolMask: 1
+
+--- EFFECT 1 ---
+Effect:             6
+BasePoints raw:     9
+BasePoints signed:  9
+ImplicitTargetA:    21
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         80
+Amplitude:          0
+MiscValue:          4294967295 (signed -1)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+--- EFFECT 2 ---
+Effect:             0
+BasePoints raw:     0
+BasePoints signed:  0
+ImplicitTargetA:    0
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         0
+Amplitude:          0
+MiscValue:          0 (signed 0)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+--- EFFECT 3 ---
+Effect:             0
+BasePoints raw:     0
+BasePoints signed:  0
+ImplicitTargetA:    0
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         0
+Amplitude:          0
+MiscValue:          0 (signed 0)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+Active effects:      1
+MOD_PERCENT_STAT:    1
+Periodic triggers:   0
+
+Trigger spells: []
+
+--- RAW DWORD RECORD ---
+[000] ID                                  26035 0x000065B3
+[001] DWORD_1                                  0 0x00000000
+[002] DWORD_2                                  0 0x00000000
+[003] DWORD_3                                  0 0x00000000
+[004] DWORD_4                                256 0x00000100
+[005] DWORD_5                                  0 0x00000000
+[006] DWORD_6                                  0 0x00000000
+[007] DWORD_7                                  0 0x00000000
+[008] DWORD_8                                  0 0x00000000
+[009] DWORD_9                                  0 0x00000000
+[010] DWORD_10                                 0 0x00000000
+[011] DWORD_11                                 0 0x00000000
+[012] DWORD_12                                 0 0x00000000
+[013] DWORD_13                                 0 0x00000000
+[014] DWORD_14                                 0 0x00000000
+[015] DWORD_15                                 0 0x00000000
+[016] DWORD_16                                 0 0x00000000
+[017] DWORD_17                                 0 0x00000000
+[018] DWORD_18                                 0 0x00000000
+[019] DWORD_19                                 0 0x00000000
+[020] DWORD_20                                 0 0x00000000
+[021] DWORD_21                                 0 0x00000000
+[022] DWORD_22                                 0 0x00000000
+[023] DWORD_23                                 0 0x00000000
+[024] DWORD_24                                 0 0x00000000
+[025] DWORD_25                                 0 0x00000000
+[026] DWORD_26                                 0 0x00000000
+[027] DWORD_27                                 0 0x00000000
+[028] DWORD_28                                 1 0x00000001
+[029] DWORD_29                                 0 0x00000000
+[030] DWORD_30                                 0 0x00000000
+[031] DWORD_31                                 0 0x00000000
+[032] DWORD_32                                 0 0x00000000
+[033] DWORD_33                                 0 0x00000000
+[034] DWORD_34                                 0 0x00000000
+[035] DWORD_35                               101 0x00000065
+[036] DWORD_36                                 0 0x00000000
+[037] DWORD_37                                 0 0x00000000
+[038] DWORD_38                                 0 0x00000000
+[039] DWORD_39                                 1 0x00000001
+[040] DurationIndex                          30 0x0000001E
+[041] DWORD_41                                 0 0x00000000
+[042] DWORD_42                                 0 0x00000000
+[043] DWORD_43                                 0 0x00000000
+[044] DWORD_44                                 0 0x00000000
+[045] DWORD_45                                 0 0x00000000
+[046] DWORD_46                                 4 0x00000004
+[047] DWORD_47                                 0 0x00000000
+[048] DWORD_48                                 0 0x00000000
+[049] DWORD_49                                 0 0x00000000
+[050] DWORD_50                                 0 0x00000000
+[051] DWORD_51                                 0 0x00000000
+[052] DWORD_52                                 0 0x00000000
+[053] DWORD_53                                 0 0x00000000
+[054] DWORD_54                                 0 0x00000000
+[055] DWORD_55                                 0 0x00000000
+[056] DWORD_56                                 0 0x00000000
+[057] DWORD_57                                 0 0x00000000
+[058] DWORD_58                                 0 0x00000000
+[059] DWORD_59                                 0 0x00000000
+[060] DWORD_60                                 0 0x00000000
+[061] DWORD_61                                 0 0x00000000
+[062] DWORD_62                                 0 0x00000000
+[063] DWORD_63                                 0 0x00000000
+[064] DWORD_64                                 0 0x00000000
+[065] DWORD_65                                 0 0x00000000
+[066] DWORD_66                                 0 0x00000000
+[067] DWORD_67                                 0 0x00000000
+[068] DWORD_68                        4294967295 0xFFFFFFFF
+[069] DWORD_69                                 0 0x00000000
+[070] DWORD_70                                 0 0x00000000
+[071] Effect_1                                6 0x00000006
+[072] Effect_2                                0 0x00000000
+[073] Effect_3                                0 0x00000000
+[074] DWORD_74                                 1 0x00000001
+[075] DWORD_75                                 0 0x00000000
+[076] DWORD_76                                 0 0x00000000
+[077] DWORD_77                                 0 0x00000000
+[078] DWORD_78                                 0 0x00000000
+[079] DWORD_79                                 0 0x00000000
+[080] EffectBasePoints_1                      9 0x00000009
+[081] EffectBasePoints_2                      0 0x00000000
+[082] EffectBasePoints_3                      0 0x00000000
+[083] DWORD_83                                 0 0x00000000
+[084] DWORD_84                                 0 0x00000000
+[085] DWORD_85                                 0 0x00000000
+[086] ImplicitTargetA_1                      21 0x00000015
+[087] ImplicitTargetA_2                       0 0x00000000
+[088] ImplicitTargetA_3                       0 0x00000000
+[089] ImplicitTargetB_1                       0 0x00000000
+[090] ImplicitTargetB_2                       0 0x00000000
+[091] ImplicitTargetB_3                       0 0x00000000
+[092] EffectRadiusIndex_1                     0 0x00000000
+[093] EffectRadiusIndex_2                     0 0x00000000
+[094] EffectRadiusIndex_3                     0 0x00000000
+[095] EffectAura_1                           80 0x00000050
+[096] EffectAura_2                            0 0x00000000
+[097] EffectAura_3                            0 0x00000000
+[098] EffectAmplitude_1                       0 0x00000000
+[099] EffectAmplitude_2                       0 0x00000000
+[100] EffectAmplitude_3                       0 0x00000000
+[101] DWORD_101                                0 0x00000000
+[102] DWORD_102                                0 0x00000000
+[103] DWORD_103                                0 0x00000000
+[104] DWORD_104                                0 0x00000000
+[105] DWORD_105                                0 0x00000000
+[106] DWORD_106                                0 0x00000000
+[107] DWORD_107                                0 0x00000000
+[108] DWORD_108                                0 0x00000000
+[109] DWORD_109                                0 0x00000000
+[110] EffectMiscValue_1              4294967295 0xFFFFFFFF
+[111] EffectMiscValue_2                       0 0x00000000
+[112] EffectMiscValue_3                       0 0x00000000
+[113] EffectMiscValueB_1                      0 0x00000000
+[114] EffectMiscValueB_2                      0 0x00000000
+[115] EffectMiscValueB_3                      0 0x00000000
+[116] EffectTriggerSpell_1                    0 0x00000000
+[117] EffectTriggerSpell_2                    0 0x00000000
+[118] EffectTriggerSpell_3                    0 0x00000000
+[119] DWORD_119                                0 0x00000000
+[120] DWORD_120                                0 0x00000000
+[121] DWORD_121                                0 0x00000000
+[122] DWORD_122                                0 0x00000000
+[123] DWORD_123                                0 0x00000000
+[124] DWORD_124                                0 0x00000000
+[125] DWORD_125                                0 0x00000000
+[126] DWORD_126                                0 0x00000000
+[127] DWORD_127                                0 0x00000000
+[128] DWORD_128                                0 0x00000000
+[129] DWORD_129                                0 0x00000000
+[130] DWORD_130                                0 0x00000000
+[131] SpellVisualID_1                      7418 0x00001CFA
+[132] SpellVisualID_2                         0 0x00000000
+[133] SpellIconID                            63 0x0000003F
+[134] ActiveIconID                          232 0x000000E8
+[135] DWORD_135                                0 0x00000000
+[136] DWORD_136                           629849 0x00099C59
+[137] DWORD_137                                0 0x00000000
+[138] DWORD_138                                0 0x00000000
+[139] DWORD_139                                0 0x00000000
+[140] DWORD_140                                0 0x00000000
+[141] DWORD_141                                0 0x00000000
+[142] DWORD_142                                0 0x00000000
+[143] DWORD_143                                0 0x00000000
+[144] DWORD_144                                0 0x00000000
+[145] DWORD_145                                0 0x00000000
+[146] DWORD_146                                0 0x00000000
+[147] DWORD_147                                0 0x00000000
+[148] DWORD_148                                0 0x00000000
+[149] DWORD_149                                0 0x00000000
+[150] DWORD_150                                0 0x00000000
+[151] DWORD_151                                0 0x00000000
+[152] DWORD_152                         16712190 0x00FF01FE
+[153] DWORD_153                                0 0x00000000
+[154] DWORD_154                                0 0x00000000
+[155] DWORD_155                                0 0x00000000
+[156] DWORD_156                                0 0x00000000
+[157] DWORD_157                                0 0x00000000
+[158] DWORD_158                                0 0x00000000
+[159] DWORD_159                                0 0x00000000
+[160] DWORD_160                                0 0x00000000
+[161] DWORD_161                                0 0x00000000
+[162] DWORD_162                                0 0x00000000
+[163] DWORD_163                                0 0x00000000
+[164] DWORD_164                                0 0x00000000
+[165] DWORD_165                                0 0x00000000
+[166] DWORD_166                                0 0x00000000
+[167] DWORD_167                                0 0x00000000
+[168] DWORD_168                                0 0x00000000
+[169] DWORD_169                         16712172 0x00FF01EC
+[170] DWORD_170                           629871 0x00099C6F
+[171] DWORD_171                                0 0x00000000
+[172] DWORD_172                                0 0x00000000
+[173] DWORD_173                                0 0x00000000
+[174] DWORD_174                                0 0x00000000
+[175] DWORD_175                                0 0x00000000
+[176] DWORD_176                                0 0x00000000
+[177] DWORD_177                                0 0x00000000
+[178] DWORD_178                                0 0x00000000
+[179] DWORD_179                                0 0x00000000
+[180] DWORD_180                                0 0x00000000
+[181] DWORD_181                                0 0x00000000
+[182] DWORD_182                                0 0x00000000
+[183] DWORD_183                                0 0x00000000
+[184] DWORD_184                                0 0x00000000
+[185] DWORD_185                                0 0x00000000
+[186] DWORD_186                         16712190 0x00FF01FE
+[187] DWORD_187                           629893 0x00099C85
+[188] DWORD_188                                0 0x00000000
+[189] DWORD_189                                0 0x00000000
+[190] DWORD_190                                0 0x00000000
+[191] DWORD_191                                0 0x00000000
+[192] DWORD_192                                0 0x00000000
+[193] DWORD_193                                0 0x00000000
+[194] DWORD_194                                0 0x00000000
+[195] DWORD_195                                0 0x00000000
+[196] DWORD_196                                0 0x00000000
+[197] DWORD_197                                0 0x00000000
+[198] DWORD_198                                0 0x00000000
+[199] DWORD_199                                0 0x00000000
+[200] DWORD_200                                0 0x00000000
+[201] DWORD_201                                0 0x00000000
+[202] DWORD_202                                0 0x00000000
+[203] DWORD_203                         16712190 0x00FF01FE
+[204] DWORD_204                                0 0x00000000
+[205] DWORD_205                                0 0x00000000
+[206] DWORD_206                                0 0x00000000
+[207] SpellClassSet                           0 0x00000000
+[208] SpellClassMask_1                        0 0x00000000
+[209] SpellClassMask_2                        0 0x00000000
+[210] SpellClassMask_3                        0 0x00000000
+[211] DWORD_211                                0 0x00000000
+[212] DWORD_212                                0 0x00000000
+[213] Field_213                               0 0x00000000
+[214] ProcChance                              0 0x00000000
+[215] ProcCharges                             0 0x00000000
+[216] DWORD_216                       1065353216 0x3F800000
+[217] DWORD_217                       1065353216 0x3F800000
+[218] DWORD_218                       1065353216 0x3F800000
+[219] DWORD_219                                0 0x00000000
+[220] DWORD_220                                0 0x00000000
+[221] DWORD_221                                0 0x00000000
+[222] DWORD_222                                0 0x00000000
+[223] DWORD_223                                0 0x00000000
+[224] DWORD_224                                0 0x00000000
+[225] SchoolMask                              1 0x00000001
+[226] DWORD_226                                0 0x00000000
+[227] DWORD_227                                0 0x00000000
+[228] DWORD_228                                0 0x00000000
+[229] DWORD_229                       1065353216 0x3F800000
+[230] DWORD_230                                0 0x00000000
+[231] DWORD_231                                0 0x00000000
+[232] DWORD_232                                0 0x00000000
+[233] DWORD_233                                0 0x00000000
+
+
+================================================================================
+SPELL 47426
+================================================================================
+
+Attributes:   0 (0x00000000)
+attributes_ex: 0
+attributes_ex2: 0
+attributes_ex3: 0
+attributes_ex4: 0
+attributes_ex5: 0
+attributes_ex6: 0
+attributes_ex7: 0
+
+DurationIndex: 1
+SpellVisualID_1: 969
+SpellVisualID_2: 0
+SpellIconID: 1920
+ActiveIconID: 0
+SpellClassSet: 0
+SpellClassMask: 0 / 0 / 0
+Field_213: 0
+ProcChance: 0
+ProcCharges: 0
+SchoolMask: 1
+
+--- EFFECT 1 ---
+Effect:             6
+BasePoints raw:     14
+BasePoints signed:  14
+ImplicitTargetA:    1
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         80
+Amplitude:          0
+MiscValue:          4 (signed 4)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+--- EFFECT 2 ---
+Effect:             0
+BasePoints raw:     0
+BasePoints signed:  0
+ImplicitTargetA:    0
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         0
+Amplitude:          0
+MiscValue:          0 (signed 0)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+--- EFFECT 3 ---
+Effect:             0
+BasePoints raw:     0
+BasePoints signed:  0
+ImplicitTargetA:    0
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         0
+Amplitude:          0
+MiscValue:          0 (signed 0)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+Active effects:      1
+MOD_PERCENT_STAT:    1
+Periodic triggers:   0
+
+Trigger spells: []
+
+--- RAW DWORD RECORD ---
+[000] ID                                  47426 0x0000B942
+[001] DWORD_1                                  0 0x00000000
+[002] DWORD_2                                  0 0x00000000
+[003] DWORD_3                                  0 0x00000000
+[004] DWORD_4                                  0 0x00000000
+[005] DWORD_5                                  0 0x00000000
+[006] DWORD_6                                  0 0x00000000
+[007] DWORD_7                                  0 0x00000000
+[008] DWORD_8                                  0 0x00000000
+[009] DWORD_9                                  0 0x00000000
+[010] DWORD_10                                 0 0x00000000
+[011] DWORD_11                                 0 0x00000000
+[012] DWORD_12                                 0 0x00000000
+[013] DWORD_13                                 0 0x00000000
+[014] DWORD_14                                 0 0x00000000
+[015] DWORD_15                                 0 0x00000000
+[016] DWORD_16                                 0 0x00000000
+[017] DWORD_17                                 0 0x00000000
+[018] DWORD_18                                 0 0x00000000
+[019] DWORD_19                                 0 0x00000000
+[020] DWORD_20                                 0 0x00000000
+[021] DWORD_21                                 0 0x00000000
+[022] DWORD_22                                 0 0x00000000
+[023] DWORD_23                                 0 0x00000000
+[024] DWORD_24                                 0 0x00000000
+[025] DWORD_25                                 0 0x00000000
+[026] DWORD_26                                 0 0x00000000
+[027] DWORD_27                                 0 0x00000000
+[028] DWORD_28                                 1 0x00000001
+[029] DWORD_29                                 0 0x00000000
+[030] DWORD_30                                 0 0x00000000
+[031] DWORD_31                                 0 0x00000000
+[032] DWORD_32                                 0 0x00000000
+[033] DWORD_33                                 0 0x00000000
+[034] DWORD_34                                 0 0x00000000
+[035] DWORD_35                               101 0x00000065
+[036] DWORD_36                                 0 0x00000000
+[037] DWORD_37                                 0 0x00000000
+[038] DWORD_38                                 0 0x00000000
+[039] DWORD_39                                 0 0x00000000
+[040] DurationIndex                           1 0x00000001
+[041] DWORD_41                                 0 0x00000000
+[042] DWORD_42                                 0 0x00000000
+[043] DWORD_43                                 0 0x00000000
+[044] DWORD_44                                 0 0x00000000
+[045] DWORD_45                                 0 0x00000000
+[046] DWORD_46                                 1 0x00000001
+[047] DWORD_47                                 0 0x00000000
+[048] DWORD_48                                 0 0x00000000
+[049] DWORD_49                                 0 0x00000000
+[050] DWORD_50                                 0 0x00000000
+[051] DWORD_51                                 0 0x00000000
+[052] DWORD_52                                 0 0x00000000
+[053] DWORD_53                                 0 0x00000000
+[054] DWORD_54                                 0 0x00000000
+[055] DWORD_55                                 0 0x00000000
+[056] DWORD_56                                 0 0x00000000
+[057] DWORD_57                                 0 0x00000000
+[058] DWORD_58                                 0 0x00000000
+[059] DWORD_59                                 0 0x00000000
+[060] DWORD_60                                 0 0x00000000
+[061] DWORD_61                                 0 0x00000000
+[062] DWORD_62                                 0 0x00000000
+[063] DWORD_63                                 0 0x00000000
+[064] DWORD_64                                 0 0x00000000
+[065] DWORD_65                                 0 0x00000000
+[066] DWORD_66                                 0 0x00000000
+[067] DWORD_67                                 0 0x00000000
+[068] DWORD_68                        4294967295 0xFFFFFFFF
+[069] DWORD_69                                 0 0x00000000
+[070] DWORD_70                                 0 0x00000000
+[071] Effect_1                                6 0x00000006
+[072] Effect_2                                0 0x00000000
+[073] Effect_3                                0 0x00000000
+[074] DWORD_74                                 1 0x00000001
+[075] DWORD_75                                 0 0x00000000
+[076] DWORD_76                                 0 0x00000000
+[077] DWORD_77                                 0 0x00000000
+[078] DWORD_78                                 0 0x00000000
+[079] DWORD_79                                 0 0x00000000
+[080] EffectBasePoints_1                     14 0x0000000E
+[081] EffectBasePoints_2                      0 0x00000000
+[082] EffectBasePoints_3                      0 0x00000000
+[083] DWORD_83                                 0 0x00000000
+[084] DWORD_84                                 0 0x00000000
+[085] DWORD_85                                 0 0x00000000
+[086] ImplicitTargetA_1                       1 0x00000001
+[087] ImplicitTargetA_2                       0 0x00000000
+[088] ImplicitTargetA_3                       0 0x00000000
+[089] ImplicitTargetB_1                       0 0x00000000
+[090] ImplicitTargetB_2                       0 0x00000000
+[091] ImplicitTargetB_3                       0 0x00000000
+[092] EffectRadiusIndex_1                     0 0x00000000
+[093] EffectRadiusIndex_2                     0 0x00000000
+[094] EffectRadiusIndex_3                     0 0x00000000
+[095] EffectAura_1                           80 0x00000050
+[096] EffectAura_2                            0 0x00000000
+[097] EffectAura_3                            0 0x00000000
+[098] EffectAmplitude_1                       0 0x00000000
+[099] EffectAmplitude_2                       0 0x00000000
+[100] EffectAmplitude_3                       0 0x00000000
+[101] DWORD_101                                0 0x00000000
+[102] DWORD_102                                0 0x00000000
+[103] DWORD_103                                0 0x00000000
+[104] DWORD_104                                0 0x00000000
+[105] DWORD_105                                0 0x00000000
+[106] DWORD_106                                0 0x00000000
+[107] DWORD_107                                0 0x00000000
+[108] DWORD_108                                0 0x00000000
+[109] DWORD_109                                0 0x00000000
+[110] EffectMiscValue_1                       4 0x00000004
+[111] EffectMiscValue_2                       0 0x00000000
+[112] EffectMiscValue_3                       0 0x00000000
+[113] EffectMiscValueB_1                      0 0x00000000
+[114] EffectMiscValueB_2                      0 0x00000000
+[115] EffectMiscValueB_3                      0 0x00000000
+[116] EffectTriggerSpell_1                    0 0x00000000
+[117] EffectTriggerSpell_2                    0 0x00000000
+[118] EffectTriggerSpell_3                    0 0x00000000
+[119] DWORD_119                                0 0x00000000
+[120] DWORD_120                                0 0x00000000
+[121] DWORD_121                                0 0x00000000
+[122] DWORD_122                                0 0x00000000
+[123] DWORD_123                                0 0x00000000
+[124] DWORD_124                                0 0x00000000
+[125] DWORD_125                                0 0x00000000
+[126] DWORD_126                                0 0x00000000
+[127] DWORD_127                                0 0x00000000
+[128] DWORD_128                                0 0x00000000
+[129] DWORD_129                                0 0x00000000
+[130] DWORD_130                                0 0x00000000
+[131] SpellVisualID_1                       969 0x000003C9
+[132] SpellVisualID_2                         0 0x00000000
+[133] SpellIconID                          1920 0x00000780
+[134] ActiveIconID                            0 0x00000000
+[135] DWORD_135                                0 0x00000000
+[136] DWORD_136                          1344432 0x001483B0
+[137] DWORD_137                                0 0x00000000
+[138] DWORD_138                                0 0x00000000
+[139] DWORD_139                                0 0x00000000
+[140] DWORD_140                                0 0x00000000
+[141] DWORD_141                                0 0x00000000
+[142] DWORD_142                                0 0x00000000
+[143] DWORD_143                                0 0x00000000
+[144] DWORD_144                                0 0x00000000
+[145] DWORD_145                                0 0x00000000
+[146] DWORD_146                                0 0x00000000
+[147] DWORD_147                                0 0x00000000
+[148] DWORD_148                                0 0x00000000
+[149] DWORD_149                                0 0x00000000
+[150] DWORD_150                                0 0x00000000
+[151] DWORD_151                                0 0x00000000
+[152] DWORD_152                         16712190 0x00FF01FE
+[153] DWORD_153                          1178451 0x0011FB53
+[154] DWORD_154                                0 0x00000000
+[155] DWORD_155                                0 0x00000000
+[156] DWORD_156                                0 0x00000000
+[157] DWORD_157                                0 0x00000000
+[158] DWORD_158                                0 0x00000000
+[159] DWORD_159                                0 0x00000000
+[160] DWORD_160                                0 0x00000000
+[161] DWORD_161                                0 0x00000000
+[162] DWORD_162                                0 0x00000000
+[163] DWORD_163                                0 0x00000000
+[164] DWORD_164                                0 0x00000000
+[165] DWORD_165                                0 0x00000000
+[166] DWORD_166                                0 0x00000000
+[167] DWORD_167                                0 0x00000000
+[168] DWORD_168                                0 0x00000000
+[169] DWORD_169                         16712190 0x00FF01FE
+[170] DWORD_170                          1350158 0x00149A0E
+[171] DWORD_171                                0 0x00000000
+[172] DWORD_172                                0 0x00000000
+[173] DWORD_173                                0 0x00000000
+[174] DWORD_174                                0 0x00000000
+[175] DWORD_175                                0 0x00000000
+[176] DWORD_176                                0 0x00000000
+[177] DWORD_177                                0 0x00000000
+[178] DWORD_178                                0 0x00000000
+[179] DWORD_179                                0 0x00000000
+[180] DWORD_180                                0 0x00000000
+[181] DWORD_181                                0 0x00000000
+[182] DWORD_182                                0 0x00000000
+[183] DWORD_183                                0 0x00000000
+[184] DWORD_184                                0 0x00000000
+[185] DWORD_185                                0 0x00000000
+[186] DWORD_186                         16712190 0x00FF01FE
+[187] DWORD_187                          1350197 0x00149A35
+[188] DWORD_188                                0 0x00000000
+[189] DWORD_189                                0 0x00000000
+[190] DWORD_190                                0 0x00000000
+[191] DWORD_191                                0 0x00000000
+[192] DWORD_192                                0 0x00000000
+[193] DWORD_193                                0 0x00000000
+[194] DWORD_194                                0 0x00000000
+[195] DWORD_195                                0 0x00000000
+[196] DWORD_196                                0 0x00000000
+[197] DWORD_197                                0 0x00000000
+[198] DWORD_198                                0 0x00000000
+[199] DWORD_199                                0 0x00000000
+[200] DWORD_200                                0 0x00000000
+[201] DWORD_201                                0 0x00000000
+[202] DWORD_202                                0 0x00000000
+[203] DWORD_203                         16712190 0x00FF01FE
+[204] DWORD_204                                0 0x00000000
+[205] DWORD_205                                0 0x00000000
+[206] DWORD_206                                0 0x00000000
+[207] SpellClassSet                           0 0x00000000
+[208] SpellClassMask_1                        0 0x00000000
+[209] SpellClassMask_2                        0 0x00000000
+[210] SpellClassMask_3                        0 0x00000000
+[211] DWORD_211                                0 0x00000000
+[212] DWORD_212                                0 0x00000000
+[213] Field_213                               0 0x00000000
+[214] ProcChance                              0 0x00000000
+[215] ProcCharges                             0 0x00000000
+[216] DWORD_216                       1065353216 0x3F800000
+[217] DWORD_217                       1065353216 0x3F800000
+[218] DWORD_218                       1065353216 0x3F800000
+[219] DWORD_219                                0 0x00000000
+[220] DWORD_220                                0 0x00000000
+[221] DWORD_221                                0 0x00000000
+[222] DWORD_222                                0 0x00000000
+[223] DWORD_223                                0 0x00000000
+[224] DWORD_224                                0 0x00000000
+[225] SchoolMask                              1 0x00000001
+[226] DWORD_226                                0 0x00000000
+[227] DWORD_227                                0 0x00000000
+[228] DWORD_228                                0 0x00000000
+[229] DWORD_229                                0 0x00000000
+[230] DWORD_230                                0 0x00000000
+[231] DWORD_231                                0 0x00000000
+[232] DWORD_232                                0 0x00000000
+[233] DWORD_233                                0 0x00000000
+
+
+================================================================================
+SPELL 47427
+================================================================================
+
+Attributes:   0 (0x00000000)
+attributes_ex: 0
+attributes_ex2: 0
+attributes_ex3: 0
+attributes_ex4: 0
+attributes_ex5: 0
+attributes_ex6: 0
+attributes_ex7: 0
+
+DurationIndex: 1
+SpellVisualID_1: 969
+SpellVisualID_2: 0
+SpellIconID: 1920
+ActiveIconID: 0
+SpellClassSet: 0
+SpellClassMask: 0 / 0 / 0
+Field_213: 0
+ProcChance: 0
+ProcCharges: 0
+SchoolMask: 1
+
+--- EFFECT 1 ---
+Effect:             6
+BasePoints raw:     29
+BasePoints signed:  29
+ImplicitTargetA:    1
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         80
+Amplitude:          0
+MiscValue:          4 (signed 4)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+--- EFFECT 2 ---
+Effect:             0
+BasePoints raw:     0
+BasePoints signed:  0
+ImplicitTargetA:    0
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         0
+Amplitude:          0
+MiscValue:          0 (signed 0)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+--- EFFECT 3 ---
+Effect:             0
+BasePoints raw:     0
+BasePoints signed:  0
+ImplicitTargetA:    0
+ImplicitTargetB:    0
+RadiusIndex:        0
+EffectAura:         0
+Amplitude:          0
+MiscValue:          0 (signed 0)
+MiscValueB:         0 (signed 0)
+TriggerSpell:       0
+
+Active effects:      1
+MOD_PERCENT_STAT:    1
+Periodic triggers:   0
+
+Trigger spells: []
+
+--- RAW DWORD RECORD ---
+[000] ID                                  47427 0x0000B943
+[001] DWORD_1                                  0 0x00000000
+[002] DWORD_2                                  0 0x00000000
+[003] DWORD_3                                  0 0x00000000
+[004] DWORD_4                                  0 0x00000000
+[005] DWORD_5                                  0 0x00000000
+[006] DWORD_6                                  0 0x00000000
+[007] DWORD_7                                  0 0x00000000
+[008] DWORD_8                                  0 0x00000000
+[009] DWORD_9                                  0 0x00000000
+[010] DWORD_10                                 0 0x00000000
+[011] DWORD_11                                 0 0x00000000
+[012] DWORD_12                                 0 0x00000000
+[013] DWORD_13                                 0 0x00000000
+[014] DWORD_14                                 0 0x00000000
+[015] DWORD_15                                 0 0x00000000
+[016] DWORD_16                                 0 0x00000000
+[017] DWORD_17                                 0 0x00000000
+[018] DWORD_18                                 0 0x00000000
+[019] DWORD_19                                 0 0x00000000
+[020] DWORD_20                                 0 0x00000000
+[021] DWORD_21                                 0 0x00000000
+[022] DWORD_22                                 0 0x00000000
+[023] DWORD_23                                 0 0x00000000
+[024] DWORD_24                                 0 0x00000000
+[025] DWORD_25                                 0 0x00000000
+[026] DWORD_26                                 0 0x00000000
+[027] DWORD_27                                 0 0x00000000
+[028] DWORD_28                                 1 0x00000001
+[029] DWORD_29                                 0 0x00000000
+[030] DWORD_30                                 0 0x00000000
+[031] DWORD_31                                 0 0x00000000
+[032] DWORD_32                                 0 0x00000000
+[033] DWORD_33                                 0 0x00000000
+[034] DWORD_34                                 0 0x00000000
+[035] DWORD_35                               101 0x00000065
+[036] DWORD_36                                 0 0x00000000
+[037] DWORD_37                                 0 0x00000000
+[038] DWORD_38                                 0 0x00000000
+[039] DWORD_39                                 0 0x00000000
+[040] DurationIndex                           1 0x00000001
+[041] DWORD_41                                 0 0x00000000
+[042] DWORD_42                                 0 0x00000000
+[043] DWORD_43                                 0 0x00000000
+[044] DWORD_44                                 0 0x00000000
+[045] DWORD_45                                 0 0x00000000
+[046] DWORD_46                                 1 0x00000001
+[047] DWORD_47                                 0 0x00000000
+[048] DWORD_48                                 0 0x00000000
+[049] DWORD_49                                 0 0x00000000
+[050] DWORD_50                                 0 0x00000000
+[051] DWORD_51                                 0 0x00000000
+[052] DWORD_52                                 0 0x00000000
+[053] DWORD_53                                 0 0x00000000
+[054] DWORD_54                                 0 0x00000000
+[055] DWORD_55                                 0 0x00000000
+[056] DWORD_56                                 0 0x00000000
+[057] DWORD_57                                 0 0x00000000
+[058] DWORD_58                                 0 0x00000000
+[059] DWORD_59                                 0 0x00000000
+[060] DWORD_60                                 0 0x00000000
+[061] DWORD_61                                 0 0x00000000
+[062] DWORD_62                                 0 0x00000000
+[063] DWORD_63                                 0 0x00000000
+[064] DWORD_64                                 0 0x00000000
+[065] DWORD_65                                 0 0x00000000
+[066] DWORD_66                                 0 0x00000000
+[067] DWORD_67                                 0 0x00000000
+[068] DWORD_68                        4294967295 0xFFFFFFFF
+[069] DWORD_69                                 0 0x00000000
+[070] DWORD_70                                 0 0x00000000
+[071] Effect_1                                6 0x00000006
+[072] Effect_2                                0 0x00000000
+[073] Effect_3                                0 0x00000000
+[074] DWORD_74                                 1 0x00000001
+[075] DWORD_75                                 0 0x00000000
+[076] DWORD_76                                 0 0x00000000
+[077] DWORD_77                                 0 0x00000000
+[078] DWORD_78                                 0 0x00000000
+[079] DWORD_79                                 0 0x00000000
+[080] EffectBasePoints_1                     29 0x0000001D
+[081] EffectBasePoints_2                      0 0x00000000
+[082] EffectBasePoints_3                      0 0x00000000
+[083] DWORD_83                                 0 0x00000000
+[084] DWORD_84                                 0 0x00000000
+[085] DWORD_85                                 0 0x00000000
+[086] ImplicitTargetA_1                       1 0x00000001
+[087] ImplicitTargetA_2                       0 0x00000000
+[088] ImplicitTargetA_3                       0 0x00000000
+[089] ImplicitTargetB_1                       0 0x00000000
+[090] ImplicitTargetB_2                       0 0x00000000
+[091] ImplicitTargetB_3                       0 0x00000000
+[092] EffectRadiusIndex_1                     0 0x00000000
+[093] EffectRadiusIndex_2                     0 0x00000000
+[094] EffectRadiusIndex_3                     0 0x00000000
+[095] EffectAura_1                           80 0x00000050
+[096] EffectAura_2                            0 0x00000000
+[097] EffectAura_3                            0 0x00000000
+[098] EffectAmplitude_1                       0 0x00000000
+[099] EffectAmplitude_2                       0 0x00000000
+[100] EffectAmplitude_3                       0 0x00000000
+[101] DWORD_101                                0 0x00000000
+[102] DWORD_102                                0 0x00000000
+[103] DWORD_103                                0 0x00000000
+[104] DWORD_104                                0 0x00000000
+[105] DWORD_105                                0 0x00000000
+[106] DWORD_106                                0 0x00000000
+[107] DWORD_107                                0 0x00000000
+[108] DWORD_108                                0 0x00000000
+[109] DWORD_109                                0 0x00000000
+[110] EffectMiscValue_1                       4 0x00000004
+[111] EffectMiscValue_2                       0 0x00000000
+[112] EffectMiscValue_3                       0 0x00000000
+[113] EffectMiscValueB_1                      0 0x00000000
+[114] EffectMiscValueB_2                      0 0x00000000
+[115] EffectMiscValueB_3                      0 0x00000000
+[116] EffectTriggerSpell_1                    0 0x00000000
+[117] EffectTriggerSpell_2                    0 0x00000000
+[118] EffectTriggerSpell_3                    0 0x00000000
+[119] DWORD_119                                0 0x00000000
+[120] DWORD_120                                0 0x00000000
+[121] DWORD_121                                0 0x00000000
+[122] DWORD_122                                0 0x00000000
+[123] DWORD_123                                0 0x00000000
+[124] DWORD_124                                0 0x00000000
+[125] DWORD_125                                0 0x00000000
+[126] DWORD_126                                0 0x00000000
+[127] DWORD_127                                0 0x00000000
+[128] DWORD_128                                0 0x00000000
+[129] DWORD_129                                0 0x00000000
+[130] DWORD_130                                0 0x00000000
+[131] SpellVisualID_1                       969 0x000003C9
+[132] SpellVisualID_2                         0 0x00000000
+[133] SpellIconID                          1920 0x00000780
+[134] ActiveIconID                            0 0x00000000
+[135] DWORD_135                                0 0x00000000
+[136] DWORD_136                          1344432 0x001483B0
+[137] DWORD_137                                0 0x00000000
+[138] DWORD_138                                0 0x00000000
+[139] DWORD_139                                0 0x00000000
+[140] DWORD_140                                0 0x00000000
+[141] DWORD_141                                0 0x00000000
+[142] DWORD_142                                0 0x00000000
+[143] DWORD_143                                0 0x00000000
+[144] DWORD_144                                0 0x00000000
+[145] DWORD_145                                0 0x00000000
+[146] DWORD_146                                0 0x00000000
+[147] DWORD_147                                0 0x00000000
+[148] DWORD_148                                0 0x00000000
+[149] DWORD_149                                0 0x00000000
+[150] DWORD_150                                0 0x00000000
+[151] DWORD_151                                0 0x00000000
+[152] DWORD_152                         16712190 0x00FF01FE
+[153] DWORD_153                          1340130 0x001472E2
+[154] DWORD_154                                0 0x00000000
+[155] DWORD_155                                0 0x00000000
+[156] DWORD_156                                0 0x00000000
+[157] DWORD_157                                0 0x00000000
+[158] DWORD_158                                0 0x00000000
+[159] DWORD_159                                0 0x00000000
+[160] DWORD_160                                0 0x00000000
+[161] DWORD_161                                0 0x00000000
+[162] DWORD_162                                0 0x00000000
+[163] DWORD_163                                0 0x00000000
+[164] DWORD_164                                0 0x00000000
+[165] DWORD_165                                0 0x00000000
+[166] DWORD_166                                0 0x00000000
+[167] DWORD_167                                0 0x00000000
+[168] DWORD_168                                0 0x00000000
+[169] DWORD_169                         16712190 0x00FF01FE
+[170] DWORD_170                          1350158 0x00149A0E
+[171] DWORD_171                                0 0x00000000
+[172] DWORD_172                                0 0x00000000
+[173] DWORD_173                                0 0x00000000
+[174] DWORD_174                                0 0x00000000
+[175] DWORD_175                                0 0x00000000
+[176] DWORD_176                                0 0x00000000
+[177] DWORD_177                                0 0x00000000
+[178] DWORD_178                                0 0x00000000
+[179] DWORD_179                                0 0x00000000
+[180] DWORD_180                                0 0x00000000
+[181] DWORD_181                                0 0x00000000
+[182] DWORD_182                                0 0x00000000
+[183] DWORD_183                                0 0x00000000
+[184] DWORD_184                                0 0x00000000
+[185] DWORD_185                                0 0x00000000
+[186] DWORD_186                         16712190 0x00FF01FE
+[187] DWORD_187                          1350197 0x00149A35
+[188] DWORD_188                                0 0x00000000
+[189] DWORD_189                                0 0x00000000
+[190] DWORD_190                                0 0x00000000
+[191] DWORD_191                                0 0x00000000
+[192] DWORD_192                                0 0x00000000
+[193] DWORD_193                                0 0x00000000
+[194] DWORD_194                                0 0x00000000
+[195] DWORD_195                                0 0x00000000
+[196] DWORD_196                                0 0x00000000
+[197] DWORD_197                                0 0x00000000
+[198] DWORD_198                                0 0x00000000
+[199] DWORD_199                                0 0x00000000
+[200] DWORD_200                                0 0x00000000
+[201] DWORD_201                                0 0x00000000
+[202] DWORD_202                                0 0x00000000
+[203] DWORD_203                         16712190 0x00FF01FE
+[204] DWORD_204                                0 0x00000000
+[205] DWORD_205                                0 0x00000000
+[206] DWORD_206                                0 0x00000000
+[207] SpellClassSet                           0 0x00000000
+[208] SpellClassMask_1                        0 0x00000000
+[209] SpellClassMask_2                        0 0x00000000
+[210] SpellClassMask_3                        0 0x00000000
+[211] DWORD_211                                0 0x00000000
+[212] DWORD_212                                0 0x00000000
+[213] Field_213                               0 0x00000000
+[214] ProcChance                              0 0x00000000
+[215] ProcCharges                             0 0x00000000
+[216] DWORD_216                       1065353216 0x3F800000
+[217] DWORD_217                       1065353216 0x3F800000
+[218] DWORD_218                       1065353216 0x3F800000
+[219] DWORD_219                                0 0x00000000
+[220] DWORD_220                                0 0x00000000
+[221] DWORD_221                                0 0x00000000
+[222] DWORD_222                                0 0x00000000
+[223] DWORD_223                                0 0x00000000
+[224] DWORD_224                                0 0x00000000
+[225] SchoolMask                              1 0x00000001
+[226] DWORD_226                                0 0x00000000
+[227] DWORD_227                                0 0x00000000
+[228] DWORD_228                                0 0x00000000
+[229] DWORD_229                                0 0x00000000
+[230] DWORD_230                                0 0x00000000
+[231] DWORD_231                                0 0x00000000
+[232] DWORD_232                                0 0x00000000
+[233] DWORD_233                                0 0x00000000
+
+
